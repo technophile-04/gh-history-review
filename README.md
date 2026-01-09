@@ -10,6 +10,26 @@ GitHub Year-in-Review CLI — Generate LLM-powered summaries of your GitHub acti
 - Output reports in Markdown and JSON formats
 - File-based caching to avoid re-fetching data
 - Dry-run mode to preview without LLM calls
+- Consolidate all reports into a single yearly summary
+
+## How It Works
+
+```mermaid
+flowchart LR
+    A[repos.json] --> B[GitHub API]
+    B --> C[Fetch Issues & PRs]
+    C --> D[Group by Month]
+    D --> E[AI Summary]
+    E --> F[Monthly Reports]
+    F --> G[Consolidate]
+    G --> H[Yearly Summary]
+```
+
+1. **Fetch** — Pull issues and PRs from GitHub API for each repo
+2. **Group** — Organize activity by month
+3. **Summarize** — Send to LLM (OpenAI/Anthropic) for AI-generated summary
+4. **Report** — Output Markdown + JSON files per repo/month
+5. **Consolidate** — Merge all monthly reports into a single yearly overview
 
 ## Installation
 
@@ -73,6 +93,24 @@ pnpm report --no-cache
 
 # Dry run (fetch data but skip LLM calls)
 pnpm report --dry-run
+```
+
+### Consolidate Reports
+
+After generating monthly reports, consolidate them into a single yearly summary:
+
+```bash
+# Consolidate all 2025 reports
+pnpm consolidate
+
+# Different year
+pnpm consolidate -- --year 2024
+
+# Custom output file
+pnpm consolidate -- --output my-summary.json
+
+# Dry run (aggregate without LLM calls)
+pnpm consolidate -- --dry-run
 ```
 
 ### CLI Options
@@ -155,6 +193,10 @@ src/
 │   ├── provider.ts     # Vercel AI SDK setup
 │   ├── prompt.ts       # Prompt templates
 │   └── summarize.ts    # Core summarization logic
+├── consolidate/
+│   ├── reader.ts       # Read JSON reports from output/
+│   ├── prompt.ts       # Meta-summary prompt templates
+│   └── consolidate.ts  # Yearly consolidation logic
 ├── report/
 │   ├── markdown.ts     # Markdown report generator
 │   └── json.ts         # JSON output
