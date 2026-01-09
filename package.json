@@ -1,0 +1,44 @@
+{
+  "name": "gh-history",
+  "version": "1.0.0",
+  "description": "GitHub Year-in-Review CLI - Generate LLM-powered summaries of your GitHub activity",
+  "type": "module",
+  "main": "dist/cli.js",
+  "bin": {
+    "gh-history": "./dist/cli.js"
+  },
+  "scripts": {
+    "dev": "tsx src/cli.ts",
+    "report": "tsx src/cli.ts",
+    "consolidate": "tsx src/cli.ts consolidate",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "history",
+    "llm",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.14.2+sha512.6e2baf77d06b9362294152c851c4f278ede37ab1eba3a55fda317a4a17b209f4dbb973fb250a77abc463a341fcb1f17f17cfa24091c4eb319cda0d9b84278387",
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.9",
+    "@ai-sdk/openai": "^3.0.7",
+    "ai": "^6.0.20",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "octokit": "^5.0.5",
+    "ora": "^9.0.0",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "repos": [
+    "BuidlGuidl/SpeedRunEthereum-v2",
+    "scaffold-eth/scaffold-ui",
+    "scaffold-eth/scaffold-eth-2",
+    "scaffold-eth/se-2-challenges",
+    "BuidlGuidl/abi.ninja",
+    "BuidlGuidl/sandgarden.buidlguidl.com",
+    "scaffold-eth/create-eth",
+    "technophile-04/burner-connector",
+    "scaffold-eth/buidlguidl-v3",
+    "scaffold-eth/create-eth-extensions",
+    "BuidlGuidl/grants.buidlguidl.com",
+    "buidlguidl/ens-pg",
+    "BuidlGuidl/extensions-hackathon",
+    "scaffold-eth/se-2-docs",
+    "BuidlGuidl/ctf.buidlguidl.com",
+    "geodelabs/ethereum-job-board"
+  ]
+}
