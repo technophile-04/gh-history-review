@@ -1,0 +1,93 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in June 2025\n\n- **Major Features and Improvements:**\n  - Introduced more customization options for Foundry projects through PR #297, allowing extensions to add libraries.\n  - Added a stablecoins challenge shortcut to extensions via PR #284.\n  - Updated dependencies and improved error logging for argument checks in templates with PR #279.\n\n- **Bug Fixes:**\n  - Resolved deployment issues for cloned repositories using Foundry in PR #294.\n  - Fixed issues related to fetching the Solidity framework folder in PR #291.\n\n- **Overall Themes:**\n  - A significant focus on enhancing Foundry support and customization.\n  - Multiple versioning updates and backmerges, indicating ongoing maintenance and integration efforts.\n  - Continuous improvement of error handling and user experience through logging enhancements.",
+  "issueCount": 3,
+  "prCount": 20,
+  "topIssues": [
+    {
+      "number": 296,
+      "title": "[Feature] - More customization in Foundry",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/296"
+    },
+    {
+      "number": 293,
+      "title": "Cloned repos with foundry fail to deploy on localhost",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/293"
+    },
+    {
+      "number": 277,
+      "title": "Add filename when checking arguments passed to templates",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/277"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 299,
+      "title": "Version Packages (beta)",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/299",
+      "merged": true
+    },
+    {
+      "number": 298,
+      "title": "(beta) merge latest main => beta",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/298",
+      "merged": true
+    },
+    {
+      "number": 297,
+      "title": "(beta) foundry: allow extensions to add library",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/297",
+      "merged": true
+    },
+    {
+      "number": 295,
+      "title": "Migration script: files priority",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/295",
+      "merged": true
+    },
+    {
+      "number": 294,
+      "title": "fix foundry .env.example",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/294",
+      "merged": true
+    },
+    {
+      "number": 292,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/292",
+      "merged": true
+    },
+    {
+      "number": 291,
+      "title": "GitHub: Fetch solidity framework folder correctly for default branch",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/291",
+      "merged": true
+    },
+    {
+      "number": 290,
+      "title": "Version Packages (beta)",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/290",
+      "merged": true
+    },
+    {
+      "number": 289,
+      "title": "backmerge beta into main ",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/289",
+      "merged": true
+    },
+    {
+      "number": 288,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/288",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:38.587Z"
+}

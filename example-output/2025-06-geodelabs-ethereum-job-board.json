@@ -1,0 +1,63 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for geodelabs/ethereum-job-board in June 2025\n\n- **Major Features/Improvements:**\n  - Merged several pull requests enhancing user interaction, including:\n    - Allowing emails on the edit form and Apply links.\n    - Updating copy for clarity.\n  \n- **Bug Fixes:**\n  - Resolved hyperlink formatting issues on company profiles (Issue #50 closed).\n\n- **Content Management:**\n  - Removed the Ethereum Season of Internships banner and related listings in preparation for the application deadline (Issues #48 and #49 closed).\n\n- **Ongoing Work:**\n  - An open issue (#47) indicates plans to revamp the admin interface for better usability as job postings increase.",
+  "issueCount": 3,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 50,
+      "title": "Hyperlink formatting on companies",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/50"
+    },
+    {
+      "number": 48,
+      "title": "Remove 'Ethereum Season of Internships' from the Featured Space",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/48"
+    },
+    {
+      "number": 47,
+      "title": "Revamp Admin side",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/47"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 49,
+      "title": "Remove Ethereum Intership banner",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/49",
+      "merged": true
+    },
+    {
+      "number": 46,
+      "title": "Allow emails on edit form",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/46",
+      "merged": true
+    },
+    {
+      "number": 45,
+      "title": "Copy update",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/45",
+      "merged": true
+    },
+    {
+      "number": 44,
+      "title": "Allow emails on Apply links",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/44",
+      "merged": true
+    },
+    {
+      "number": 43,
+      "title": "Ethereum Season of Internships ",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/43",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:35.668Z"
+}

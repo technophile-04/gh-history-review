@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### May 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Merged Pull Request**: \n  - #21 introduced tweaks to the extension, aligning it with the latest SE-2 changes and ensuring the scripts directory functions with encrypted private keys for Hardhat and Foundry.\n\n- **Open Issue**: \n  - #20 highlights the need to update the deployment section for Optimism in the README, indicating ongoing documentation improvements.\n\n- **Overall Activity**: \n  - The month featured a focus on enhancing the extension's functionality, with a significant update completed through the merged PR. However, there remains an open issue related to documentation updates.",
+  "issueCount": 1,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 20,
+      "title": "Update deploying to optimism section",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/20"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 21,
+      "title": "extension tweaks",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/21",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:34.087Z"
+}

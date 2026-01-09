@@ -1,0 +1,46 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja - August 2025\n\n- **Major Improvements:**\n  - Upgraded Yarn to version 4.9.4.\n  - Updated multiple packages, including Next.js and React, to their latest versions, enhancing overall performance and compatibility.\n\n- **Bug Fixes:**\n  - Closed issue #184, addressing a bug related to rate limiting when loading contracts, which was resolved by enhancing the DisplayVariable component to manage data fetching timing.\n\n- **Overall Themes:**\n  - Focus on upgrading dependencies to ensure the project remains up-to-date and functional.\n  - Addressing performance issues related to API rate limits, improving user experience.",
+  "issueCount": 2,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 184,
+      "title": "bug: too many requests when loading a contract",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/issues/184"
+    },
+    {
+      "number": 183,
+      "title": "Up node as vercel will not support it beyond sept 1",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/issues/183"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 187,
+      "title": "Up yarn",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/187",
+      "merged": false
+    },
+    {
+      "number": 186,
+      "title": "Up/packages",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/186",
+      "merged": false
+    },
+    {
+      "number": 185,
+      "title": "Enhance DisplayVariable component to fix 429 from alchemy",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/185",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:16.951Z"
+}

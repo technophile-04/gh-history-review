@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### September 2025 Summary for scaffold-eth/se-2-docs\n\n- **Pull Requests Closed**: Two pull requests were closed this month.\n  - **#136**: Updated the README.md to include information about RILCOIN, an advanced digital currency.\n  - **#135**: Added documentation for the Vercel deployment checklist and clarified the use of `NEXT_PUBLIC` environment variables.\n\n- **No Issues Created**: There were no new issues reported during this period.\n\n- **Overall Activity**: The focus was on enhancing documentation related to deployment and updating the README, indicating an emphasis on improving user guidance and clarity.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 136,
+      "title": "Update README.md RILCOIN",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/136",
+      "merged": false
+    },
+    {
+      "number": 135,
+      "title": "docs: Vercel deploy checklist + NEXT_PUBLIC env vars",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/135",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:50.631Z"
+}

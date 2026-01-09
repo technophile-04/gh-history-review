@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "sandgarden.buidlguidl.com",
+    "fullName": "BuidlGuidl/sandgarden.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "- **Feature Improvement**: Merged Pull Request #15 updated the GraphQL query to utilize the latest version of Ponder, enhancing functionality.\n- **No Issues**: No new issues were created during January 2025.\n- **Overall Activity**: The month saw minimal activity with only one merged pull request, indicating a focus on maintaining existing features rather than introducing new ones.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 15,
+      "title": "update gql query with latest ponder version",
+      "url": "https://github.com/BuidlGuidl/sandgarden.buidlguidl.com/pull/15",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:36.690Z"
+}

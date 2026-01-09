@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for BuidlGuidl/grants.buidlguidl.com\n\n- **Bug Fixes**: \n  - Merged Pull Request #154 addressed security vulnerabilities (CVE-2025-55184 and CVE-2025-55183), enhancing the repository's security.\n\n- **Issues Management**:\n  - One issue (#152) was closed after updating a builder address from a compromised wallet, ensuring funds are directed to a secure wallet.\n  - One issue (#153) remains open, indicating ongoing concerns regarding another compromised builder.\n\n- **Overall Themes**:\n  - Focus on security and integrity of grant management by addressing compromised wallets.\n  - Minimal activity with only one merged PR and two issues, one of which is still pending resolution.",
+  "issueCount": 2,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 153,
+      "title": "Update builder address from compromised builder (smartdevx.eth)",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/153"
+    },
+    {
+      "number": 152,
+      "title": "Update builder address from compromised builder (dmystical-coder.eth)",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/152"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 154,
+      "title": "fix: next version",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/154",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:41:50.042Z"
+}

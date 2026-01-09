@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 - July 2025\n\n- **Major Features and Improvements:**\n  - Merged several enhancements to the Builder Profile, including a new challenges accordion design and the addition of XP points and progress bars.\n  - Updated the challenge structure by removing restrictions on challenges and renaming them for clarity.\n  - Implemented a global error page to improve user experience during unhandled errors.\n\n- **Notable Bug Fixes:**\n  - Resolved issues related to user registration and ENS data fetching, ensuring smoother user onboarding.\n  - Improved scroll loading functionality on the builds page using `IntersectionObserver`.\n\n- **Overall Themes:**\n  - Focus on enhancing user profiles and challenge visibility, making the platform more engaging.\n  - Continuous improvements to error handling and user experience through various UI updates and bug fixes.",
+  "issueCount": 24,
+  "prCount": 25,
+  "topIssues": [
+    {
+      "number": 261,
+      "title": "Builds ideas (after user has submitted builds)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/261"
+    },
+    {
+      "number": 250,
+      "title": "Update autograder payload",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/250"
+    },
+    {
+      "number": 249,
+      "title": "Tweaks to builds section in user profile",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/249"
+    },
+    {
+      "number": 247,
+      "title": "User start workflow",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/247"
+    },
+    {
+      "number": 246,
+      "title": "Better challenge pages",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/246"
+    },
+    {
+      "number": 245,
+      "title": "Remove restrictions for challenges",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/245"
+    },
+    {
+      "number": 244,
+      "title": "Accordion logic on /builders profile",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/244"
+    },
+    {
+      "number": 243,
+      "title": "Playground section - Solidity snippet for /start page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/243"
+    },
+    {
+      "number": 242,
+      "title": "[design] Map section - Challenges overview for /start page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/242"
+    },
+    {
+      "number": 241,
+      "title": "Side quests tab",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/241"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 264,
+      "title": "[TO TEST] Error page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/264",
+      "merged": false
+    },
+    {
+      "number": 263,
+      "title": "Global error page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/263",
+      "merged": true
+    },
+    {
+      "number": 262,
+      "title": "Add XP points to Builder Profile",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/262",
+      "merged": true
+    },
+    {
+      "number": 260,
+      "title": "Tweak Start button on homepage",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/260",
+      "merged": true
+    },
+    {
+      "number": 259,
+      "title": "Remove Challenge Numbers from the Builder Profile Accordions",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/259",
+      "merged": false
+    },
+    {
+      "number": 258,
+      "title": "Challenge page Header",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/258",
+      "merged": true
+    },
+    {
+      "number": 257,
+      "title": "Update advanced challenges accordion logic",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/257",
+      "merged": true
+    },
+    {
+      "number": 256,
+      "title": "Update build ideas repos to new ones",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/256",
+      "merged": true
+    },
+    {
+      "number": 255,
+      "title": "Update Dex challenge naming on guides and sitemap, add 301 redirect",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/255",
+      "merged": true
+    },
+    {
+      "number": 254,
+      "title": "Change dex name",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/254",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:35.830Z"
+}

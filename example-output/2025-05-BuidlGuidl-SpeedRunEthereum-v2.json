@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in May 2025\n\n- **Major Features and Improvements:**\n  - Implemented caching for ENS in the Address component and database, enhancing performance (#179, #180).\n  - Added new guides and articles related to NFTs and Challenge 1, improving educational resources (#169, #178).\n  - Developed and merged several dynamic route handlers and API improvements, enhancing application routing (#177, #159).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted in this period.\n\n- **Overall Themes:**\n  - Focus on improving user experience through dynamic routing and caching mechanisms.\n  - Expansion of educational content related to Ethereum and NFTs.\n  - Enhancements to admin functionalities and user management features.",
+  "issueCount": 5,
+  "prCount": 21,
+  "topIssues": [
+    {
+      "number": 175,
+      "title": "make all route handlers dynamic",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/175"
+    },
+    {
+      "number": 174,
+      "title": "Make build details README client",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/174"
+    },
+    {
+      "number": 168,
+      "title": "Admin Siwe indicator + Siwe onclick",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/168"
+    },
+    {
+      "number": 160,
+      "title": "Gate certain api's with API Keys",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/160"
+    },
+    {
+      "number": 157,
+      "title": "Edit user modal for admin",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/157"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 181,
+      "title": "Auto update ens when connected",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/181",
+      "merged": false
+    },
+    {
+      "number": 180,
+      "title": "Cached ENS in Address component",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/180",
+      "merged": true
+    },
+    {
+      "number": 179,
+      "title": "Cache ens",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/179",
+      "merged": true
+    },
+    {
+      "number": 178,
+      "title": "Add challenge 1 seo guides/articles",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/178",
+      "merged": true
+    },
+    {
+      "number": 177,
+      "title": "make all GET routes dynamic",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/177",
+      "merged": true
+    },
+    {
+      "number": 176,
+      "title": "Plausible Proxy",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/176",
+      "merged": false
+    },
+    {
+      "number": 173,
+      "title": "Disallow /builds/ in robots.txt to block crawlers from build pages",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/173",
+      "merged": true
+    },
+    {
+      "number": 172,
+      "title": "Build detail page (rebase/cherry pick)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/172",
+      "merged": true
+    },
+    {
+      "number": 171,
+      "title": "Onboarding batches banner",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/171",
+      "merged": true
+    },
+    {
+      "number": 170,
+      "title": "create build details page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/170",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:17.742Z"
+}

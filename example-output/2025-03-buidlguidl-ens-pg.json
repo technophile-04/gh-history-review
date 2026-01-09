@@ -1,0 +1,122 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Implemented USDC grants functionality, including a dedicated apply page and detail page for users.\n  - Updated the home page and My Grants page to include approved large grants.\n  - Enhanced the UI with new styles for datepickers and buttons, improving overall user experience.\n\n- **Bug Fixes:**\n  - Resolved a hydration error in the admin proposal approval process.\n  - Fixed color inconsistencies between GrantItem and LargeGrantItem components.\n\n- **Overall Themes:**\n  - Focus on enhancing the user interface and experience for grant applications.\n  - Significant updates to support USDC grants, indicating a shift towards broader grant management capabilities.",
+  "issueCount": 12,
+  "prCount": 9,
+  "topIssues": [
+    {
+      "number": 49,
+      "title": "Small visual tweaks in Large grants detail page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/49"
+    },
+    {
+      "number": 47,
+      "title": "Update grant details for large grant",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/47"
+    },
+    {
+      "number": 44,
+      "title": "Hydration error when approving grant",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/44"
+    },
+    {
+      "number": 43,
+      "title": "GrantItem and LargeGrantItem have the circle indicator colors swapped",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/43"
+    },
+    {
+      "number": 42,
+      "title": "Apply to new stage for USDC grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/42"
+    },
+    {
+      "number": 40,
+      "title": "Decide and fix dates format across the app",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/40"
+    },
+    {
+      "number": 39,
+      "title": "Add USDC grants to all grants admin page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/39"
+    },
+    {
+      "number": 38,
+      "title": "Large grant contract: allow stewards to change milestones data",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/38"
+    },
+    {
+      "number": 37,
+      "title": "Delete milestone button style",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/37"
+    },
+    {
+      "number": 36,
+      "title": "Date picker style",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/36"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 48,
+      "title": "Datepicker styles",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/48",
+      "merged": true
+    },
+    {
+      "number": 46,
+      "title": "fix: swap grant item colors",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/46",
+      "merged": true
+    },
+    {
+      "number": 45,
+      "title": "Fix hydration error on admin proposal can vote flag",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/45",
+      "merged": false
+    },
+    {
+      "number": 41,
+      "title": "Add USDC grants to admin All Grants page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/41",
+      "merged": true
+    },
+    {
+      "number": 34,
+      "title": "Add large grants to My grants and add large grant detail page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/34",
+      "merged": true
+    },
+    {
+      "number": 33,
+      "title": "Apply buttons and approved styles",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/33",
+      "merged": true
+    },
+    {
+      "number": 32,
+      "title": "Usdc stats",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/32",
+      "merged": true
+    },
+    {
+      "number": 30,
+      "title": "Large grants apply page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/30",
+      "merged": true
+    },
+    {
+      "number": 29,
+      "title": "Add approved large grants to home page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/29",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:08.816Z"
+}

@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for buidlguidl/ens-pg\n\n- **New Feature**: Added a new FAQ item for payout clarifications (PR #148 merged).\n- **No Bug Fixes**: There were no notable bug fixes this month.\n- **Overall Activity**: Minimal activity with only one pull request merged, indicating a focus on documentation or user support rather than feature development.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 148,
+      "title": "Add new FAQ item for payout clarifications",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/148",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:43:47.237Z"
+}

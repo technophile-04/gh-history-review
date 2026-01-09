@@ -1,0 +1,22 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "sandgarden.buidlguidl.com",
+    "fullName": "BuidlGuidl/sandgarden.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### May 2025 Summary for BuidlGuidl/sandgarden.buidlguidl.com\n\n- **UI and Design Improvements**: Successfully closed issue #16, focusing on UI design and displaying data from smart contracts.\n- **No Pull Requests**: No new pull requests were created during this month.\n- **Limited Activity**: Overall activity was minimal, with only one issue addressed.",
+  "issueCount": 1,
+  "prCount": 0,
+  "topIssues": [
+    {
+      "number": 16,
+      "title": "UI, design, displaying data from smart contracts",
+      "url": "https://github.com/BuidlGuidl/sandgarden.buidlguidl.com/issues/16"
+    }
+  ],
+  "topPRs": [],
+  "generatedAt": "2026-01-08T09:35:41.842Z"
+}

@@ -1,0 +1,85 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged several pull requests enhancing configuration templates, including updates to the Tailwind config and scaffold config templates.\n  - Backmerged the main branch into the beta branch, ensuring the latest updates are integrated.\n\n- **Bug Fixes:**\n  - Resolved issues with the `tsconfig.json` file being invalid after using the `--skip` option and addressed linting failures when creating instances within the `create-eth` repository.\n\n- **Overall Themes:**\n  - Focus on improving user experience through automation and customization of configuration files.\n  - Active resolution of bugs to enhance stability and usability of the framework.",
+  "issueCount": 5,
+  "prCount": 7,
+  "topIssues": [
+    {
+      "number": 238,
+      "title": "[Feauture Discussion] Auto-create necessary package.json files",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/238"
+    },
+    {
+      "number": 237,
+      "title": "[Feauture Discussion] Auto-create necessary *.args.mjs files",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/237"
+    },
+    {
+      "number": 235,
+      "title": "Bug: broken tsconfig after --skip",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/235"
+    },
+    {
+      "number": 230,
+      "title": "`yarn lint` fails when creating instance inside the `create-eth` repo",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/230"
+    },
+    {
+      "number": 226,
+      "title": "[Beta] more customization on template files ",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/226"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 236,
+      "title": "(beta) backmerge main",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/236",
+      "merged": true
+    },
+    {
+      "number": 233,
+      "title": "Update tailwind config template",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/233",
+      "merged": true
+    },
+    {
+      "number": 232,
+      "title": "Comments for hardhat config",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/232",
+      "merged": true
+    },
+    {
+      "number": 231,
+      "title": "skip relase action version packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/231",
+      "merged": true
+    },
+    {
+      "number": 229,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/229",
+      "merged": true
+    },
+    {
+      "number": 228,
+      "title": "backmerge 14-05-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/228",
+      "merged": true
+    },
+    {
+      "number": 227,
+      "title": "Scaffold config new template",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/227",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:14.376Z"
+}

@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for technophile-04/burner-connector\n\n- **Merged Pull Requests**: \n  - **Version Packages**: Merged PR #51 to prepare for package release to npm.\n  - **Update Dependencies**: Merged PR #50 to update the `wagmi` and `viem` packages, including a changeset.\n\n- **No Issues**: No new issues were created this month.\n\n- **Overall Activity**: The focus was on updating dependencies and preparing for package releases, indicating maintenance and readiness for future enhancements.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 51,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/51",
+      "merged": true
+    },
+    {
+      "number": 50,
+      "title": "up wagmi viem",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/50",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:40.705Z"
+}

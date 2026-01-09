@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for buidlguidl/ens-pg\n\n- **Pull Requests Merged**: \n  - Merged PR #147 addressed the issue of stringifying bigints with a replacer, which resolved a notification problem for the TG bot.\n\n- **Issues**: \n  - No new issues were created this month.\n\n- **Overall Activity**: \n  - Limited activity with only one merged PR, focusing on a specific bug fix related to bot notifications.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 147,
+      "title": "stringify bigint with replacer",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/147",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:43:44.069Z"
+}

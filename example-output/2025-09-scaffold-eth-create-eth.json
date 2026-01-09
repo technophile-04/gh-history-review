@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### September 2025 Summary for scaffold-eth/create-eth\n\n- **Pull Requests Merged**: \n  - Merged PR #342 addressed a linting issue, ensuring that the action fails if the installation is unsuccessful.\n\n- **Bug Fixes**: \n  - The merged PR also resolved a related issue (#341) regarding the linting process.\n\n- **Overall Activity**: \n  - No new issues were created this month, indicating minimal activity beyond the focused fix in the pull request.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 342,
+      "title": "Fix: lint instances action should fail when install is unsuccessful",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/342",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:37:06.813Z"
+}

@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Merged PR #1190 updated the Alchemy API key, enhancing request tracking capabilities.\n  - Ongoing migration to Hardhat v3 initiated with PR #1192, focusing on dependency updates and documentation adjustments.\n\n- **Bug Fixes:**\n  - Issue #1187 addressed a bug related to contract verification on Arbitrum, which has been closed.\n\n- **Overall Themes:**\n  - The repository is focusing on upgrading dependencies and improving compatibility with newer tools (e.g., Hardhat v3).\n  - Several PRs were closed without merging, indicating ongoing discussions and refinements rather than immediate implementations.",
+  "issueCount": 2,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 1191,
+      "title": "Hardhat V3",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1191"
+    },
+    {
+      "number": 1187,
+      "title": "bug: failing to verify contracts on arbitrum",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1187"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1194,
+      "title": "remove uniswap sdk",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1194",
+      "merged": true
+    },
+    {
+      "number": 1193,
+      "title": "Scaffold-ui blockexplorer",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1193",
+      "merged": false
+    },
+    {
+      "number": 1192,
+      "title": "Migration to Hardhat v3",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1192",
+      "merged": false
+    },
+    {
+      "number": 1190,
+      "title": "Update Alchemy API key to new rolling key for tracking new/old requests",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1190",
+      "merged": true
+    },
+    {
+      "number": 1188,
+      "title": "refactor: replace any with strict types",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1188",
+      "merged": false
+    },
+    {
+      "number": 1185,
+      "title": "Bump wagmi, viem and rainbowkit",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1185",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:03.888Z"
+}

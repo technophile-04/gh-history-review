@@ -1,0 +1,51 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for geodelabs/ethereum-job-board in July 2025\n\n- **Major Features and Improvements:**\n  - Merged a new `/advertise` page, enhancing visibility for job postings.\n  - Revamped the admin panel, adding tabs, search, and sorting functionalities for better management.\n  - Implemented Markdown rendering for company descriptions, improving link styling and overall presentation.\n\n- **Closed Issues:**\n  - Randomized job listings and company displays on the main page to enhance user experience.\n  - Fixed the redirect link for \"Your Featured Job,\" ensuring proper navigation for users.\n\n- **Overall Themes:**\n  - Focus on enhancing user interface and experience through randomization and improved content display.\n  - Significant updates to the admin panel for better usability.",
+  "issueCount": 3,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 56,
+      "title": "Randomize Jobs in main page",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/56"
+    },
+    {
+      "number": 55,
+      "title": "Randomize Companies in main page",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/55"
+    },
+    {
+      "number": 53,
+      "title": "Redirect link of \"Your Featured Job\"",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/53"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 54,
+      "title": "Advertise page + link",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/54",
+      "merged": true
+    },
+    {
+      "number": 52,
+      "title": "Revamp of admin panel",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/52",
+      "merged": true
+    },
+    {
+      "number": 51,
+      "title": "Render company description as Markdown. Markdown link styling",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/51",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:40.798Z"
+}

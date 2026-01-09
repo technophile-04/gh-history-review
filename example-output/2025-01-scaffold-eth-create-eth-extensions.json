@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Updated dependencies to their latest versions, enhancing overall project stability and compatibility.\n  - Upgraded the Ponder extension from version 0.4 to 0.8, following the official migration guide.\n\n- **Bug Fixes:**\n  - Resolved an issue with the `yarn subgraph:test` command, improving functionality.\n\n- **Overall Themes:**\n  - Focus on dependency management and updates, ensuring the project remains current with external libraries.\n  - Addressed specific user-reported issues, demonstrating responsiveness to community needs.",
+  "issueCount": 1,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 50,
+      "title": "Subgraph extension - fix yarn subgraph:test command",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/issues/50"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 49,
+      "title": "Updated dependencies to latest versions",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/49",
+      "merged": true
+    },
+    {
+      "number": 48,
+      "title": "Update Ponder extension to Ponder v0.8",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/48",
+      "merged": true
+    },
+    {
+      "number": 47,
+      "title": "add foundry.toml.args.mjs example",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/47",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:40.955Z"
+}

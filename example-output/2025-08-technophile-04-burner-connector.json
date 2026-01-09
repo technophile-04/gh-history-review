@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for August 2025\n\n- **Version Updates**: Merged PR #46 updated the versions of wagmi, viem, and rainbow, addressing compatibility issues.\n- **Package Management**: Merged PR #47 prepared the repository for a release by versioning packages for publication to npm.\n- **No Issues**: No new issues were created this month, indicating stable operation without reported problems.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 47,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/47",
+      "merged": true
+    },
+    {
+      "number": 46,
+      "title": "up wagmi, viem and rainbow version",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/46",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:28.976Z"
+}

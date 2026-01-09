@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/ctf.buidlguidl.com in August 2025\n\n- **Merged Pull Requests**:\n  - **#24**: Added a support link for Telegram (TG), enhancing user communication.\n  - **#23**: Updated the `create-eth` version for the extension, addressing compatibility issues with the latest template arguments.\n\n- **Closed Pull Requests**:\n  - **#25**: Updated args files with the latest arguments; however, encountered deployment errors with `foundry`.\n\n- **Overall Themes**:\n  - Focus on improving user support and ensuring compatibility with the latest development tools.\n  - No new issues were created, indicating a stable month with ongoing refinements rather than new feature requests.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 25,
+      "title": "update args files with latest args",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/25",
+      "merged": false
+    },
+    {
+      "number": 24,
+      "title": "Add TG support link",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/24",
+      "merged": true
+    },
+    {
+      "number": 23,
+      "title": "Update create-eth version for extension",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/23",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:46.597Z"
+}

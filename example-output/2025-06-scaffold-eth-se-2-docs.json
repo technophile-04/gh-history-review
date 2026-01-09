@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### June 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged PR #128 to add an introductory video to the welcome page, enhancing user engagement.\n\n- **Closed Pull Requests:**\n  - PR #127 and PR #126, both related to guides for deploying Next.js apps to IPFS, were closed without merging.\n\n- **Overall Themes:**\n  - Focus on improving documentation with multimedia content, while also addressing deployment guides, though the latter did not result in merged contributions. \n\n- **Bug Fixes:**\n  - No significant bug fixes reported this month.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 128,
+      "title": "Add intro video",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/128",
+      "merged": true
+    },
+    {
+      "number": 127,
+      "title": "Guide for deploying Next.js app to IPFS",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/127",
+      "merged": false
+    },
+    {
+      "number": 126,
+      "title": "Add guide for deploying Next.js app to IPFSd",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/126",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:37.546Z"
+}

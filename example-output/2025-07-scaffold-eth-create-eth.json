@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in July 2025\n\n- **Major Features and Improvements:**\n  - Introduced custom root scripts for Solidity frameworks with PR #326.\n  - Added the capability to display the create-eth version on the initial commit with PR #314.\n  - Enhanced the extension list to improve user experience with PR #321.\n\n- **Bug Fixes:**\n  - Resolved an issue where create-eth did not exit with error code 1 on failure (PR #319).\n  - Fixed verification issues in the VerifyAll contract (PR #312).\n  - Addressed component tree remounting issues when switching themes (PR #302).\n\n- **Overall Themes:**\n  - Focus on improving user experience and functionality through enhancements and bug fixes.\n  - Active development with 22 pull requests, of which 17 were merged, indicating a productive month.",
+  "issueCount": 5,
+  "prCount": 22,
+  "topIssues": [
+    {
+      "number": 318,
+      "title": "create-eth doesn't exit with process code 1 when an error occurs",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/318"
+    },
+    {
+      "number": 311,
+      "title": "[Foundry] Verification fails",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/311"
+    },
+    {
+      "number": 310,
+      "title": "Add create-eth version on Initial commit",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/310"
+    },
+    {
+      "number": 301,
+      "title": "[Beta] After switching theme full components tree remounts",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/301"
+    },
+    {
+      "number": 300,
+      "title": "[Feature] - Provide some way to change package.json scripts based on selected contract framework",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/300"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 326,
+      "title": "Custom root scripts for solidity frameworks",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/326",
+      "merged": true
+    },
+    {
+      "number": 325,
+      "title": "Bump @babel/runtime from 7.22.10 to 7.28.2",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/325",
+      "merged": false
+    },
+    {
+      "number": 324,
+      "title": "Bump brace-expansion from 1.1.11 to 1.1.12",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/324",
+      "merged": false
+    },
+    {
+      "number": 323,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/323",
+      "merged": true
+    },
+    {
+      "number": 322,
+      "title": "backmerge 24-07-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/322",
+      "merged": true
+    },
+    {
+      "number": 321,
+      "title": "extension list: numbered challenges => not numbered challenges",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/321",
+      "merged": true
+    },
+    {
+      "number": 320,
+      "title": "ci: remove skip version package logic",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/320",
+      "merged": true
+    },
+    {
+      "number": 319,
+      "title": "exit with code 1 on error",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/319",
+      "merged": true
+    },
+    {
+      "number": 317,
+      "title": "Update extensions descriptions",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/317",
+      "merged": true
+    },
+    {
+      "number": 316,
+      "title": "Lint instances gh action",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/316",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:51.771Z"
+}

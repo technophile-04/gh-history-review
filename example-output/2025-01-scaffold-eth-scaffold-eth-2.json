@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in January 2025\n\n- **Major Features and Improvements:**\n  - Migrated the project to **Next.js v15**, enhancing compatibility and performance (PR #1036).\n  - Introduced commands for cleaning build artifacts in both Hardhat and Forge, streamlining development (PRs #1043, #1042).\n  - Added a **Vercel login script** to facilitate deployment (PR #1027).\n  - Implemented a **ConnectWalletButton component** to improve user interaction (PR #1034).\n\n- **Bug Fixes:**\n  - Resolved issues with the lint command by updating to the correct command syntax (PR #1041).\n  - Addressed a bug related to unnecessary RPC calls on the Faucet Button (PR #1047).\n\n- **Overall Themes:**\n  - The month focused on upgrading dependencies and improving deployment processes.\n  - Several issues were closed, indicating active maintenance and responsiveness to user feedback.",
+  "issueCount": 5,
+  "prCount": 18,
+  "topIssues": [
+    {
+      "number": 1045,
+      "title": "Indexed parameters of events: types are wrong/Do we need it at all?",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1045"
+    },
+    {
+      "number": 1040,
+      "title": "bug: Next lint on package.json using old command",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1040"
+    },
+    {
+      "number": 1033,
+      "title": "Migrate to Nextjs v15",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1033"
+    },
+    {
+      "number": 1026,
+      "title": "Injected connector",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1026"
+    },
+    {
+      "number": 1025,
+      "title": "Vercel login",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1025"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1047,
+      "title": "Remove  unnecessary RPC call on Faucet Button",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1047",
+      "merged": true
+    },
+    {
+      "number": 1044,
+      "title": "Update LICENCE",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1044",
+      "merged": false
+    },
+    {
+      "number": 1043,
+      "title": "Add hardhat clean to run it with yarn",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1043",
+      "merged": true
+    },
+    {
+      "number": 1042,
+      "title": "Add forge clean to run it with yarn",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1042",
+      "merged": true
+    },
+    {
+      "number": 1041,
+      "title": "Error on yarn lint command",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1041",
+      "merged": true
+    },
+    {
+      "number": 1039,
+      "title": "Use bgipfs for upload",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1039",
+      "merged": true
+    },
+    {
+      "number": 1038,
+      "title": "downgrade wagmi and viem version",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1038",
+      "merged": true
+    },
+    {
+      "number": 1036,
+      "title": "Migrate to nextjs 15",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1036",
+      "merged": true
+    },
+    {
+      "number": 1035,
+      "title": "Jade/nft example",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1035",
+      "merged": false
+    },
+    {
+      "number": 1034,
+      "title": "feat: add ConnectWalletButton component",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1034",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:28:24.155Z"
+}

@@ -1,0 +1,98 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in August 2025\n\n- **Major Features and Improvements:**\n  - Updated Celo Testnet from Alfajores to Sepolia in response to upcoming sunset of the former.\n  - Enhanced documentation for `useScaffoldEventHistory` to include production usage warnings.\n\n- **Bug Fixes:**\n  - Resolved issues with duplicate events in the `useScaffoldEventHistory` hook.\n  - Fixed tooltip background cutoff for long inheritance paths on the Debug Contracts page.\n  - Addressed a chainId error during deployments, improving overall deployment reliability.\n\n- **Overall Themes:**\n  - Focus on improving documentation and user guidance for hooks to prevent performance issues.\n  - Ongoing efforts to enhance stability and security through bug fixes and updates to dependencies.",
+  "issueCount": 4,
+  "prCount": 20,
+  "topIssues": [
+    {
+      "number": 1170,
+      "title": "foundry deployments fails with v1.3.1",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1170"
+    },
+    {
+      "number": 1166,
+      "title": "document `useScaffoldEventHistory` to be used only locally",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1166"
+    },
+    {
+      "number": 1159,
+      "title": "bug: Fix tooltip background cutoff for long   inheritance paths in Debug Contracts page",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1159"
+    },
+    {
+      "number": 1156,
+      "title": "bug: Duplicate events returned when using useScaffoldEventHistory hook",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1156"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1174,
+      "title": "fix bg rpc url ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1174",
+      "merged": true
+    },
+    {
+      "number": 1173,
+      "title": "docs: add production usage warning for useScaffoldEventHistory",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1173",
+      "merged": true
+    },
+    {
+      "number": 1172,
+      "title": "up wagmi viem and rainbow version",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1172",
+      "merged": true
+    },
+    {
+      "number": 1171,
+      "title": "Update Celo Testnet from Celo Alfajores to Celo Sepolia ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1171",
+      "merged": true
+    },
+    {
+      "number": 1168,
+      "title": "Update GitHub Actions to Latest Versions",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1168",
+      "merged": false
+    },
+    {
+      "number": 1167,
+      "title": "feat: add deprecation warnings and documentation for useScaffoldEventHistory",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1167",
+      "merged": false
+    },
+    {
+      "number": 1165,
+      "title": "fix: prevent text overflow in inheritance tooltip",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1165",
+      "merged": true
+    },
+    {
+      "number": 1164,
+      "title": "fix(nextjs): add noopener to external tx link to prevent reverse‑tabnabbing",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1164",
+      "merged": false
+    },
+    {
+      "number": 1163,
+      "title": "refactor: (workaround) lazy load wallet connectors to prevent indexedDb not found errors",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1163",
+      "merged": true
+    },
+    {
+      "number": 1162,
+      "title": "remove duplicate events from end ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1162",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:46.778Z"
+}

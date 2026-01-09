@@ -1,0 +1,79 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Enhanced job posting flow with a new submission form for users and admin capabilities to add/edit companies and check submissions (#34).\n  - Implemented a styled newsletter widget, improving user engagement (#33).\n  - Configured Sign-In with Ethereum (SIWE) for user authentication, integrating wallet connection features (#31).\n\n- **Content Updates:**\n  - Updated branding by changing references from \"Web3\" to \"Ethereum\" in images (#30).\n  - Revised legal text and contact information for clarity and compliance (#28).\n\n- **Overall Themes:**\n  - Focus on improving user experience through enhanced forms and visual elements.\n  - Strengthening administrative functionalities for better job management.\n  - Consistent branding adjustments to align with the Ethereum ecosystem.",
+  "issueCount": 5,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 32,
+      "title": "Newsletter widget style",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/32"
+    },
+    {
+      "number": 29,
+      "title": "Images: web3 => Ethereum",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/29"
+    },
+    {
+      "number": 27,
+      "title": "Admin Job posts CRUD",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/27"
+    },
+    {
+      "number": 26,
+      "title": "Job submission form",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/26"
+    },
+    {
+      "number": 25,
+      "title": "Admin AUTH",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/25"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 34,
+      "title": "Improve post a job flow",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/34",
+      "merged": true
+    },
+    {
+      "number": 33,
+      "title": "Style Newsletter Widget",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/33",
+      "merged": true
+    },
+    {
+      "number": 31,
+      "title": "siwe",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/31",
+      "merged": true
+    },
+    {
+      "number": 30,
+      "title": "Change web3 to Ethereum in images",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/30",
+      "merged": true
+    },
+    {
+      "number": 28,
+      "title": "Update Legal text + Email",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/28",
+      "merged": true
+    },
+    {
+      "number": 24,
+      "title": "Quick tweaks after meeting",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/24",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:27.271Z"
+}

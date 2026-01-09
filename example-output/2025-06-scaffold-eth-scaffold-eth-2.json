@@ -1,0 +1,101 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in June 2025\n\n- **Major Features and Improvements:**\n  - Added a \"not found\" page to enhance user experience for non-existent routes (#1120).\n  - Introduced parameters `blocksBatchSize` and `toBlock` to the `useScaffoldEventHistory` function for improved flexibility in handling event history (#1118, #1117).\n  - Updated `hardhat-deploy` to support the Etherscan v2 API for verification, addressing a naming issue in the environment file (#1116).\n\n- **Notable Bug Fixes:**\n  - Resolved multiple bugs including:\n    - Header theme application on 404 pages (#1119).\n    - Issues with Solidity class recognition based on filename (#1113).\n    - Misleading logs in `generateTsAbis.js` (#1112).\n    - Various other bugs related to IndexedDB and Next.js errors (#1109, #1107).\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved error handling and user interface elements.\n  - Ongoing efforts to refine the functionality and reliability of the codebase by addressing critical bugs.",
+  "issueCount": 7,
+  "prCount": 8,
+  "topIssues": [
+    {
+      "number": 1119,
+      "title": "bug: Header theme not applied on non-existent routes (404 pages)",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1119"
+    },
+    {
+      "number": 1115,
+      "title": "nit: Etherscan API key naming in the env file",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1115"
+    },
+    {
+      "number": 1113,
+      "title": "bug: Solidity Classes are not found if they don't match the filename",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1113"
+    },
+    {
+      "number": 1112,
+      "title": "bug: `generateTsAbis.js` misleadingly logs successful error response even when no ABIs are generated from `yarn deploy`",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1112"
+    },
+    {
+      "number": 1110,
+      "title": "useScaffoldEventHistory() alchemy block range issue",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1110"
+    },
+    {
+      "number": 1109,
+      "title": "bug: ReferenceError: indexedDB is not defined",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1109"
+    },
+    {
+      "number": 1107,
+      "title": "bug: nextjs `{}` error",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1107"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1120,
+      "title": "Feat/add not found page",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1120",
+      "merged": true
+    },
+    {
+      "number": 1118,
+      "title": "Add `blocksBatchSize` param to useScaffoldEventHistory",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1118",
+      "merged": true
+    },
+    {
+      "number": 1117,
+      "title": "Add `toBlock` param to useScaffoldEventHistory",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1117",
+      "merged": true
+    },
+    {
+      "number": 1116,
+      "title": "up hardhat-deploy allowing etherscan v2 api for verification ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1116",
+      "merged": true
+    },
+    {
+      "number": 1114,
+      "title": "init commit on spro branch",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1114",
+      "merged": false
+    },
+    {
+      "number": 1111,
+      "title": "externalContracts.ts",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1111",
+      "merged": false
+    },
+    {
+      "number": 1108,
+      "title": "up wagmi, viem and rainbow-me/rainbwkit",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1108",
+      "merged": true
+    },
+    {
+      "number": 1106,
+      "title": "shadcn init",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1106",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:27.421Z"
+}

@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "- Standardized naming conventions to 'Speedrun Ethereum' across the repository, enhancing consistency in branding and documentation.\n- No issues were created or addressed this month.\n- Only one pull request was closed, indicating limited activity overall.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 151,
+      "title": "Standardize naming to 'Speedrun Ethereum'",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/151",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:41:44.890Z"
+}

@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/grants.buidlguidl.com in August 2025\n\n- **Major Features and Improvements:**\n  - Implemented an API call to mark SRE builds as BG-granted upon grant completion (#150).\n  - Added functionality to link to builds in the user interface when grants are submitted or completed (#149).\n  - Updated data fetching for builders and user roles to utilize the SRE API instead of outdated Firebase data (#148).\n  - Adjusted grant amounts in response to changes in ETH price, lowering from 0.15 to 0.08 (#147).\n\n- **Bug Fixes:**\n  - No significant bug fixes were reported this month.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved linking and data accuracy.\n  - Adaptation to external changes, such as ETH price fluctuations and data source migrations.",
+  "issueCount": 0,
+  "prCount": 4,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 150,
+      "title": "Mark SRE build as BG-granted when a grant is completed",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/150",
+      "merged": true
+    },
+    {
+      "number": 149,
+      "title": "Add link to the build when submitted or completed",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/149",
+      "merged": true
+    },
+    {
+      "number": 148,
+      "title": "Fetch builders and user roles data from SRE",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/148",
+      "merged": true
+    },
+    {
+      "number": 147,
+      "title": "Lower grant amount according to new eth price 0.15 => 0.08",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/147",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:41:39.854Z"
+}

@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Major Features and Improvements:**\n  - Enhanced the homepage with a description, gameplay instructions, and a flag tracking feature to monitor progress (#10, merged).\n  - Updated the main repository README to include setup instructions and additional context for the extension (#15, merged).\n  - Implemented a notification system for users when they mint a flag (#9, closed).\n\n- **Bug Fixes:**\n  - Resolved a critical issue with the stats API that previously caused a 500 error when accessing the stats page (#14, merged).\n  - Fixed issues related to user data fetching on the profile page (#5, merged).\n\n- **Overall Themes:**\n  - Focus on improving user experience through better documentation and interface tweaks.\n  - Addressing bugs and enhancing functionality to ensure smoother operation of the platform.",
+  "issueCount": 5,
+  "prCount": 11,
+  "topIssues": [
+    {
+      "number": 12,
+      "title": "Ponder error on PROD",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/12"
+    },
+    {
+      "number": 9,
+      "title": "Extension > Notification when you mint a flag",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/9"
+    },
+    {
+      "number": 8,
+      "title": "Extension > Tweak homepage",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/8"
+    },
+    {
+      "number": 7,
+      "title": "Extension > Behavior when not matching the require condition from the contract functions",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/7"
+    },
+    {
+      "number": 3,
+      "title": "Add plausible",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/3"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 16,
+      "title": "chore: fix issues in comment",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/16",
+      "merged": false
+    },
+    {
+      "number": 15,
+      "title": "Update main repo Readme with setup explanation and extra extension info",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/15",
+      "merged": true
+    },
+    {
+      "number": 14,
+      "title": "fix: ponder stats api",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/14",
+      "merged": true
+    },
+    {
+      "number": 13,
+      "title": "Open links in new tab in challenge pages",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/13",
+      "merged": true
+    },
+    {
+      "number": 11,
+      "title": "Tweak Readme and generated instance Readme",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/11",
+      "merged": true
+    },
+    {
+      "number": 10,
+      "title": "Homepage tweaks and flag capture tracking",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/10",
+      "merged": true
+    },
+    {
+      "number": 6,
+      "title": "General tweaks to the site",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/6",
+      "merged": true
+    },
+    {
+      "number": 5,
+      "title": "pass address to useFetchUserData hook",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/5",
+      "merged": true
+    },
+    {
+      "number": 4,
+      "title": "configure plausible",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/4",
+      "merged": true
+    },
+    {
+      "number": 2,
+      "title": "add optimism deployment",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/2",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:21.739Z"
+}

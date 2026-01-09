@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for technophile-04/burner-connector\n\n- **Merged Pull Requests**: A total of three pull requests were merged, indicating active development.\n- **Feature Improvements**:\n  - Updated dependencies with PR #33, enhancing compatibility with the latest RPC URLs.\n  - Version packages were updated in PR #34, preparing for a new release.\n- **Bug Fixes**:\n  - PR #35 addressed a specific issue related to the `connectedChainId`, improving transaction handling when `chainId` is not provided.\n- **Overall Themes**: The focus this month was on dependency management and improving transaction reliability, reflecting ongoing maintenance and enhancement of the project.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 35,
+      "title": "fix: use connectedChainId when chainId is not provided",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/35",
+      "merged": true
+    },
+    {
+      "number": 34,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/34",
+      "merged": true
+    },
+    {
+      "number": 33,
+      "title": "up wagmi, viem and rainbowkit version",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/33",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:00.755Z"
+}

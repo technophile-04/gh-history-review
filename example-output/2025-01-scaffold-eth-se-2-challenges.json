@@ -1,0 +1,93 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in January 2025\n\n- **Major Features/Improvements:**\n  - Merged multiple pull requests to add Vercel login information to the README files across all challenges (#261 to #267).\n  - Updated the README to include checks for user balance and contract allowance, addressing issue #259.\n\n- **Bug Fixes:**\n  - Resolved a generic error related to token transfer allowances in issue #259.\n  - Multiple typos in smart contracts were fixed, although these were not linked to any specific issues.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and user guidance through README updates.\n  - Addressing and resolving issues related to error handling and contract functionality.",
+  "issueCount": 3,
+  "prCount": 11,
+  "topIssues": [
+    {
+      "number": 259,
+      "title": "Challenge 4. Generic error when there is not enough allowance to transfer tokens",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/259"
+    },
+    {
+      "number": 255,
+      "title": "Ch 3 extension: Remove manual mining",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/255"
+    },
+    {
+      "number": 254,
+      "title": "[WIP] Move SRE to extensions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/254"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 267,
+      "title": "ch0 > Add vercel login to Readme template",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/267",
+      "merged": true
+    },
+    {
+      "number": 266,
+      "title": "Ch7 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/266",
+      "merged": true
+    },
+    {
+      "number": 265,
+      "title": "Ch6 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/265",
+      "merged": true
+    },
+    {
+      "number": 264,
+      "title": "Ch5 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/264",
+      "merged": true
+    },
+    {
+      "number": 263,
+      "title": "Ch4 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/263",
+      "merged": true
+    },
+    {
+      "number": 262,
+      "title": "Ch2 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/262",
+      "merged": true
+    },
+    {
+      "number": 261,
+      "title": "Ch1 > Add vercel login info to README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/261",
+      "merged": true
+    },
+    {
+      "number": 260,
+      "title": "Update readme to add checks for balance and allowance",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/260",
+      "merged": true
+    },
+    {
+      "number": 258,
+      "title": "Fixed typos in smart contracts",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/258",
+      "merged": false
+    },
+    {
+      "number": 257,
+      "title": "Fixed typos in smart contracts",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/257",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:26.333Z"
+}

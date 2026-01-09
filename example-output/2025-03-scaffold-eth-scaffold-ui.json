@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Initial Setup**: Successfully merged PR #2, establishing the initial repository setup as a pnpm monorepo with workspaces.\n- **Dependency Update**: Closed PR #1, which proposed an update of Rollup from version 3.21.0 to 3.29.5, although it was not merged.\n- **No Issues**: No new issues were created during the month, indicating stable conditions or focus on setup rather than bug tracking.\n\nOverall, the month focused on foundational work for the project with no significant bug fixes or new issues reported.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 2,
+      "title": "enviorment setup + inital iteration",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/2",
+      "merged": true
+    },
+    {
+      "number": 1,
+      "title": "Bump rollup from 3.21.0 to 3.29.5 in /packages/hooks",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/1",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:16.655Z"
+}

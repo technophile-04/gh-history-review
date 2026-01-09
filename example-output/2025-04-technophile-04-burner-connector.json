@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for technophile-04/burner-connector\n\n- **Pull Requests**: One pull request was merged (#36), focusing on versioning packages, which prepares the project for publishing to npm.\n- **Issues**: No new issues were created this month.\n- **Overall Activity**: The activity was minimal, with a single PR indicating a focus on maintenance rather than new features or significant improvements.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 36,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/36",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:04.453Z"
+}

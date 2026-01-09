@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Updates:**\n  - Merged PR #141 included updates to Vocs documentation, fixing the walletClient link and adjusting the layout.\n  - Merged PR #140 corrected a 404 link in the intro.md file, enhancing accessibility.\n\n- **Ongoing Work:**\n  - PR #139 is currently open, proposing to improve the loading state handling in the documentation by using `isSuccess` instead of `isLoading`.\n\n- **Overall Themes:**\n  - Focus on improving documentation clarity and accuracy.\n  - Ongoing enhancements to user experience through better state management in examples. \n\nNo significant bug fixes were reported this month.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 141,
+      "title": "Vocs docs updates",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/141",
+      "merged": true
+    },
+    {
+      "number": 140,
+      "title": "intro.md - repoint 404 viem link",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/140",
+      "merged": true
+    },
+    {
+      "number": 139,
+      "title": "Use isSuccess when loading",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/139",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:12.399Z"
+}

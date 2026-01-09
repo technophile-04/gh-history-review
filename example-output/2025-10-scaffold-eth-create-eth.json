@@ -1,0 +1,93 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Migrated to `scaffold-ui`, enhancing the user interface and experience.\n  - Added `drizzle-neon` as a curated extension, expanding functionality.\n  - Introduced the ability to pass global variables, improving configuration flexibility.\n\n- **Bug Fixes:**\n  - Resolved an issue with undefined `targetNetwork` configurations, addressing a specific user-reported problem.\n\n- **Overall Themes:**\n  - The month focused on enhancing the project’s extensibility and user interface, alongside addressing configuration-related bugs.\n  - Multiple version package updates were merged, indicating ongoing maintenance and readiness for future releases.",
+  "issueCount": 3,
+  "prCount": 10,
+  "topIssues": [
+    {
+      "number": 354,
+      "title": "(cli): foundry version validation check",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/354"
+    },
+    {
+      "number": 352,
+      "title": "Add possibility to change .gitignore files",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/352"
+    },
+    {
+      "number": 346,
+      "title": "scaffold.config.ts.args.mjs - configOverrides creates undefined in targetNetworks",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/346"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 355,
+      "title": "migrate to scaffold-ui",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/355",
+      "merged": true
+    },
+    {
+      "number": 353,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/353",
+      "merged": true
+    },
+    {
+      "number": 351,
+      "title": "Add drizzle-neon as curated extension",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/351",
+      "merged": true
+    },
+    {
+      "number": 350,
+      "title": "Possibility to pass global variables",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/350",
+      "merged": true
+    },
+    {
+      "number": 349,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/349",
+      "merged": true
+    },
+    {
+      "number": 348,
+      "title": "add envio to curated list",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/348",
+      "merged": true
+    },
+    {
+      "number": 347,
+      "title": "Fix undefined targetNetwork",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/347",
+      "merged": true
+    },
+    {
+      "number": 345,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/345",
+      "merged": true
+    },
+    {
+      "number": 344,
+      "title": "changeset for challenge rename",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/344",
+      "merged": true
+    },
+    {
+      "number": 343,
+      "title": "fix: simple-nft -> tokenization",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/343",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:37:16.924Z"
+}

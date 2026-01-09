@@ -1,0 +1,46 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in April 2025\n\n- **Major Features and Improvements:**\n  - Merged the **Prediction Markets Challenge** (PR #286), introducing a new challenge with room for further enhancements.\n  - Implemented a check to only set contract state when on a local Hardhat chain (PR #284), improving deployment efficiency.\n  - Added verification for OP Retro Funding round 7, incorporating SpeedRunEthereum repositories into the project (PR #283).\n\n- **Bug Fixes:**\n  - Closed issue #287 regarding the CORN amounts not updating after a liquidation, indicating a resolution to a critical functionality issue.\n\n- **Overall Themes:**\n  - Focus on enhancing challenge features and improving deployment processes.\n  - Active resolution of issues related to functionality and user experience.",
+  "issueCount": 2,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 287,
+      "title": "Over-Collateralized-Lending Challenge - CORN amounts not updating after a liquidation",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/287"
+    },
+    {
+      "number": 285,
+      "title": "Branch challenge-6-prediction-markets",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/285"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 286,
+      "title": "Prediction markets challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/286",
+      "merged": true
+    },
+    {
+      "number": 284,
+      "title": "only set contract state when on hardhat chain",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/284",
+      "merged": true
+    },
+    {
+      "number": 283,
+      "title": "Add OP Retro Funding round 7 verification",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/283",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:52.077Z"
+}

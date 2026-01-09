@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in April 2025\n\n- **Major Features and Improvements:**\n  - Implemented a new approval flow for both ETH and USDC grants, requiring two approvals for finalization.\n  - Added a rejection system for USDC grants, necessitating two rejections before a grant or stage can be denied.\n  - Enhanced milestone management by allowing builders to complete USDC grant milestones and filling the `completed_at` field automatically.\n\n- **Bug Fixes:**\n  - Resolved issues with the milestone flow when an admin rejects after one approval, ensuring correct status updates.\n  - Fixed visual inconsistencies in the admin interface, including the display of milestone purple dots and button styles.\n\n- **Overall Themes:**\n  - A focus on improving the user experience for grant approvals and milestone management.\n  - Significant attention to visual and functional bugs within the admin interface, enhancing usability and clarity.",
+  "issueCount": 28,
+  "prCount": 22,
+  "topIssues": [
+    {
+      "number": 99,
+      "title": "Pre-fill completion proof when resubmitting a milestone",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/99"
+    },
+    {
+      "number": 96,
+      "title": "New approval flow for ETH grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/96"
+    },
+    {
+      "number": 95,
+      "title": "New approval flow for USDC grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/95"
+    },
+    {
+      "number": 92,
+      "title": "Small visual changes for Milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/92"
+    },
+    {
+      "number": 91,
+      "title": "Tweak /admin responsive",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/91"
+    },
+    {
+      "number": 90,
+      "title": "Remove react-copy-to-clipboard library",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/90"
+    },
+    {
+      "number": 89,
+      "title": "Fix milestone flow when an admin rejects after one approval",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/89"
+    },
+    {
+      "number": 85,
+      "title": "Review height from buttons",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/85"
+    },
+    {
+      "number": 84,
+      "title": "Improve pre-approved and pre-rejected tooltips",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/84"
+    },
+    {
+      "number": 83,
+      "title": "When grantee \"Complete\" a milestone on their large grant detail page, we should fill `completed_at` field",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/83"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 98,
+      "title": "Fix milestone flow when an admin rejects after one approval",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/98",
+      "merged": true
+    },
+    {
+      "number": 97,
+      "title": "New approval flow",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/97",
+      "merged": true
+    },
+    {
+      "number": 94,
+      "title": "Tweak admin responsiveness",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/94",
+      "merged": true
+    },
+    {
+      "number": 93,
+      "title": "Milestones small visual changes",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/93",
+      "merged": true
+    },
+    {
+      "number": 88,
+      "title": "Fix address copy on modals ",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/88",
+      "merged": true
+    },
+    {
+      "number": 87,
+      "title": "Fill milestone completedAt field when completing a milestone",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/87",
+      "merged": true
+    },
+    {
+      "number": 86,
+      "title": "Milestone approval issues",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/86",
+      "merged": true
+    },
+    {
+      "number": 81,
+      "title": "Remove link to builder submissions on new stage proposals",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/81",
+      "merged": true
+    },
+    {
+      "number": 80,
+      "title": "Fix purple dot on admin cards header for long texts",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/80",
+      "merged": true
+    },
+    {
+      "number": 79,
+      "title": "Add USDC grants rejection system",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/79",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:14.345Z"
+}

@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Merged Pull Requests:**\n  - **#1084:** Fixed the Address component to correctly copy addresses to the clipboard when used within a dialog, improving user experience.\n\n- **Closed Issues:**\n  - **#1085:** Resolved a bug that prevented users from committing changes in the latest version, enhancing functionality.\n\n- **Overall Themes:**\n  - Focus on improving user interface components and addressing critical bugs to ensure smoother operation of the application.",
+  "issueCount": 1,
+  "prCount": 2,
+  "topIssues": [
+    {
+      "number": 1085,
+      "title": "Bug: Unable to commit changes in the latest version.",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1085"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1084,
+      "title": "Fix Address component copying address to clipboard ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1084",
+      "merged": true
+    },
+    {
+      "number": 1083,
+      "title": "Split project for both pnpm and yarn support",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1083",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:12.275Z"
+}

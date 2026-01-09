@@ -1,0 +1,22 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "- Closed one issue related to updating a builder's address due to account compromise.\n- No pull requests were created or merged during the month.\n- Overall activity was minimal, with only one issue addressed.",
+  "issueCount": 1,
+  "prCount": 0,
+  "topIssues": [
+    {
+      "number": 141,
+      "title": "Update builder address from compromised builder",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/141"
+    }
+  ],
+  "topPRs": [],
+  "generatedAt": "2026-01-08T09:40:48.077Z"
+}

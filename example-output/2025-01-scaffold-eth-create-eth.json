@@ -1,0 +1,113 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged PRs to enhance CLI functionality, including allowing project names as paths during initialization (#208).\n  - Added curated extensions for SRE challenges and SpeedRun Ethereum challenges (#198, #197).\n  - Introduced initial rules for template arguments (#195).\n\n- **Bug Fixes:**\n  - Resolved issues with capital letters in extension names, ensuring compatibility (#200).\n  - Fixed the Husky pre-commit hook not being executable (#192).\n  - Addressed validation for paths in CLI initialization (#208).\n\n- **Overall Themes:**\n  - Focus on improving developer experience (DX) through better CLI options and curated extensions.\n  - Active resolution of bugs related to project setup and extension management.",
+  "issueCount": 7,
+  "prCount": 14,
+  "topIssues": [
+    {
+      "number": 207,
+      "title": "Allow project name as path while initializing the CLI",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/207"
+    },
+    {
+      "number": 204,
+      "title": "Check failure when a Version Package PR already exists",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/204"
+    },
+    {
+      "number": 201,
+      "title": "CTF Extension",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/201"
+    },
+    {
+      "number": 196,
+      "title": "Add SRE challenges extensions as curated",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/196"
+    },
+    {
+      "number": 192,
+      "title": "Husky not executable",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/192"
+    },
+    {
+      "number": 191,
+      "title": "Add typecheck for passing arguments",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/191"
+    },
+    {
+      "number": 190,
+      "title": "Set the rules for types of arguments depending on different conditions",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/190"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 209,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/209",
+      "merged": true
+    },
+    {
+      "number": 208,
+      "title": "Fix: name as path when initializing ",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/208",
+      "merged": true
+    },
+    {
+      "number": 206,
+      "title": "backmerge 24-01-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/206",
+      "merged": true
+    },
+    {
+      "number": 205,
+      "title": "Yolo mode activated!",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/205",
+      "merged": false
+    },
+    {
+      "number": 203,
+      "title": "External extensions tweaks",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/203",
+      "merged": true
+    },
+    {
+      "number": 202,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/202",
+      "merged": true
+    },
+    {
+      "number": 200,
+      "title": "Allow capital letters in extension names",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/200",
+      "merged": true
+    },
+    {
+      "number": 199,
+      "title": "backmerge 15-01-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/199",
+      "merged": true
+    },
+    {
+      "number": 198,
+      "title": "Add SRE challenges extensions to curated list",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/198",
+      "merged": true
+    },
+    {
+      "number": 197,
+      "title": "Add SpeedRun Ethereum challenges as curated extensions",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/197",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:59.571Z"
+}

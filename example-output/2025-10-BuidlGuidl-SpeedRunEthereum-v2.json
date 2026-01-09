@@ -1,0 +1,84 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Merged PRs added private notes functionality for admins and enhanced challenge descriptions with skills and time information.\n  - Improved user interface by moving the refresh button for sidequests and adjusting the CTA text on the /start page for better display.\n\n- **Bug Fixes:**\n  - Resolved issues related to XP calculation, including excluding `_lastCheckedAt` from side quest counts and fixing font color for modal titles in dark mode.\n  - Addressed a bug where the deployment status incorrectly indicated that a contract was not deployed.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through UI improvements and addressing critical bugs related to user feedback.\n  - Continuous refinement of XP calculation and display to ensure accurate representation of user progress.",
+  "issueCount": 6,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 341,
+      "title": "Fix /start CTA to first challenge when you're not connected",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/341"
+    },
+    {
+      "number": 338,
+      "title": "EIP 712 signature for Smart Contract Wallets",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/338"
+    },
+    {
+      "number": 336,
+      "title": "Move refresh button next to sidequests",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/336"
+    },
+    {
+      "number": 335,
+      "title": "Bug: \"Deploy a contract\" false even though user did deploy a contract",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/335"
+    },
+    {
+      "number": 333,
+      "title": "How is XP calculated modal titles are hard to read in dark mode",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/333"
+    },
+    {
+      "number": 331,
+      "title": "XP shows +5 extra due to counting _lastCheckedAt metadata as side quest",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/331"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 342,
+      "title": "Shorten /start page CTA to fix display when wallet not connected",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/342",
+      "merged": true
+    },
+    {
+      "number": 340,
+      "title": "add skills, time, etc. to description",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/340",
+      "merged": true
+    },
+    {
+      "number": 339,
+      "title": "Private notes",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/339",
+      "merged": true
+    },
+    {
+      "number": 337,
+      "title": "Move profile (sidequest/ENS) refresh button",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/337",
+      "merged": true
+    },
+    {
+      "number": 334,
+      "title": "Fix font color for How is XP calculated modal item titles",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/334",
+      "merged": true
+    },
+    {
+      "number": 332,
+      "title": "Fix XP overcount by excluding _lastCheckedAt from side quest count",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/332",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:59.747Z"
+}

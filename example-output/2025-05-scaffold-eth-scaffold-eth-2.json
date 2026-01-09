@@ -1,0 +1,108 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in May 2025\n\n- **Major Features and Improvements:**\n  - Merged PRs added chain metadata to the `useSelectedNetwork` hook and implemented a command to reveal private keys, enhancing user functionality.\n  - Upgraded dependencies, including the Viem package to version 2.30.0 and addressed issues with dark mode variants.\n\n- **Bug Fixes:**\n  - Resolved issues with the `useNetworkColor` hook and fixed a command failure related to revealing private keys, ensuring smoother operation.\n\n- **Overall Themes:**\n  - Focus on improving user experience through enhancements in network handling and private key management.\n  - Ongoing maintenance and upgrades to dependencies to keep the project up-to-date and functional.",
+  "issueCount": 6,
+  "prCount": 10,
+  "topIssues": [
+    {
+      "number": 1104,
+      "title": "Wallet pops directly when target network is not local chain",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1104"
+    },
+    {
+      "number": 1102,
+      "title": "bug: Command failed with ENOENT: yarn install",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1102"
+    },
+    {
+      "number": 1098,
+      "title": "Upgrade to Etherscan API v2",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1098"
+    },
+    {
+      "number": 1092,
+      "title": "bug: `useNetworkColor` is always returning `DEFAULT_NETWORK_COLOR`",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1092"
+    },
+    {
+      "number": 1088,
+      "title": "Allow revealing PK when using hardhat",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1088"
+    },
+    {
+      "number": 1087,
+      "title": "Is this deployed live?",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1087"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1103,
+      "title": "remove hardcoded string and use AddressType",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1103",
+      "merged": true
+    },
+    {
+      "number": 1101,
+      "title": "feat: hardhat polkadot integration",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1101",
+      "merged": false
+    },
+    {
+      "number": 1100,
+      "title": "Update Viem Package 2.23.0 -> 2.30.0",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1100",
+      "merged": false
+    },
+    {
+      "number": 1099,
+      "title": "Up viem, wagmi and rainbowkit",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1099",
+      "merged": true
+    },
+    {
+      "number": 1096,
+      "title": "fix dark mode variant",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1096",
+      "merged": true
+    },
+    {
+      "number": 1095,
+      "title": "Remove daisy UI",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1095",
+      "merged": false
+    },
+    {
+      "number": 1094,
+      "title": "add reveal pk command",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1094",
+      "merged": true
+    },
+    {
+      "number": 1093,
+      "title": "Add chain metadata to `useSelectedNetwork` hook",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1093",
+      "merged": true
+    },
+    {
+      "number": 1091,
+      "title": "yarn account:reveal-pk",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1091",
+      "merged": true
+    },
+    {
+      "number": 1090,
+      "title": "example of ComposedProviders ",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1090",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:20.210Z"
+}

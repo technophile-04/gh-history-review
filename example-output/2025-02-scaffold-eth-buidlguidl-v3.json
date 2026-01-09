@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "buidlguidl-v3",
+    "fullName": "scaffold-eth/buidlguidl-v3"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for scaffold-eth/buidlguidl-v3\n\n- **Feature Improvement**: Merged PR #122 implemented the use of Ponder to fetch data for the `/admin/cohorts` page, enhancing data retrieval capabilities.\n- **Open Issue**: Issue #123 was raised regarding the failure to fetch new cohort withdrawals in the `/activity` endpoint, indicating a potential regression from a previous commit.\n- **Overall Activity**: Limited activity this month with only one merged PR and one open issue, suggesting a focus on refining existing features rather than introducing new ones.",
+  "issueCount": 1,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 123,
+      "title": "New cohort withdrawals are not getting fetched in /activity",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/issues/123"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 122,
+      "title": "Use Ponder to get info on /admin/cohorts page",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/pull/122",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:52.630Z"
+}

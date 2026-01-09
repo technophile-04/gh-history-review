@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "buidlguidl-v3",
+    "fullName": "scaffold-eth/buidlguidl-v3"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in July 2025\n\n- **Pull Requests Merged**: \n  - One pull request (#130) was merged, which involved updating text in the anonymousMenu to improve user clarity.\n\n- **Issues**: \n  - No new issues were created this month.\n\n- **Overall Activity**: \n  - Minimal activity with only one merged PR focused on user interface improvement. No significant bug fixes or new features were introduced.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 130,
+      "title": "update text in anonymousMenu",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/pull/130",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:26.769Z"
+}

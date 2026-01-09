@@ -1,0 +1,83 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged several enhancements to allow switching of `create-eth` versions for extensions (#363).\n  - Improved organization of extensions within the project (#357).\n  - Updated the MetaMask extensions list and rebranded the Delegation Toolkit to Smart Accounts Kit (#362).\n  - Added a new `x402` extension (#366).\n\n- **Bug Fixes:**\n  - Validated the foundry version to ensure compatibility (#356).\n  - Backmerged cursor rules to correct local path issues (#365).\n  - Removed the `--legacy` flag from foundry (#358).\n\n- **Overall Themes:**\n  - Focus on enhancing extension capabilities and version management.\n  - Continuous improvement of project structure and dependency management.",
+  "issueCount": 1,
+  "prCount": 11,
+  "topIssues": [
+    {
+      "number": 360,
+      "title": "allow extension to specify versions",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/360"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 367,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/367",
+      "merged": true
+    },
+    {
+      "number": 366,
+      "title": "add x402 extension",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/366",
+      "merged": true
+    },
+    {
+      "number": 365,
+      "title": "backmerge scaffold-eth cursor rules",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/365",
+      "merged": true
+    },
+    {
+      "number": 364,
+      "title": "Bump js-yaml from 3.14.1 to 3.14.2",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/364",
+      "merged": false
+    },
+    {
+      "number": 363,
+      "title": "Allow to switch create-eth version for extensions",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/363",
+      "merged": true
+    },
+    {
+      "number": 362,
+      "title": "Update MetaMask extensions list",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/362",
+      "merged": true
+    },
+    {
+      "number": 361,
+      "title": "Change SpeedRunEthereum to Speedrun Ethereum",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/361",
+      "merged": true
+    },
+    {
+      "number": 359,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/359",
+      "merged": true
+    },
+    {
+      "number": 358,
+      "title": "foundry remove --legacy flag",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/358",
+      "merged": true
+    },
+    {
+      "number": 357,
+      "title": "better structuring of extensions",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/357",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:37:37.123Z"
+}

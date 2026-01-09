@@ -1,0 +1,77 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for July 2025\n\n- **Documentation Updates**: Multiple README files were updated for various ERC standards (ERC-20, ERC-721, EIP-712, EIP-5792, and others), enhancing clarity and usability.\n- **Custom Scripts**: Introduced custom root scripts for Solidity frameworks, improving the framework's flexibility and functionality.\n- **Extension Documentation**: Created comprehensive documentation for extensions, including a fix for a broken link in the Ponder extension README.\n- **Configuration Improvement**: Updated the Ponder configuration to use `deployedOnBlock` as the starting block, streamlining deployment processes.\n- **Closed PR**: One pull request related to updating subgraph modules was closed without merging, indicating ongoing maintenance efforts. \n\nNo significant bug fixes were reported this month.",
+  "issueCount": 0,
+  "prCount": 12,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 93,
+      "title": "Custom root scripts for solidity frameworks",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/93",
+      "merged": true
+    },
+    {
+      "number": 92,
+      "title": "Update Erc 721 readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/92",
+      "merged": true
+    },
+    {
+      "number": 91,
+      "title": "Update randao readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/91",
+      "merged": true
+    },
+    {
+      "number": 90,
+      "title": "Update Eip 5792 readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/90",
+      "merged": true
+    },
+    {
+      "number": 89,
+      "title": "Update erc-20 readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/89",
+      "merged": true
+    },
+    {
+      "number": 88,
+      "title": "Update ponder readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/88",
+      "merged": true
+    },
+    {
+      "number": 87,
+      "title": "Update Eip 712 readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/87",
+      "merged": true
+    },
+    {
+      "number": 86,
+      "title": "Update subgraph readme",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/86",
+      "merged": true
+    },
+    {
+      "number": 85,
+      "title": "Use deployedOnBlock as startBlock",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/85",
+      "merged": true
+    },
+    {
+      "number": 84,
+      "title": "Create extensions docs",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/84",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:18.958Z"
+}

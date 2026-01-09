@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Upgraded React to version 19.0.3 to address a critical vulnerability.\n  - Added `bg-mainnet-rpc` as an extra fallback for the mainnet, enhancing RPC endpoint reliability.\n  - Updated various dependencies including Next.js and several libraries (wagmi, viem, burner-connector).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, the upgrades addressed vulnerabilities in dependencies.\n\n- **Overall Themes:**\n  - Focus on upgrading dependencies to enhance security and performance.\n  - Continued improvement of RPC configurations for better functionality.",
+  "issueCount": 2,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 1209,
+      "title": "use buidlguidl client rpc url for mainnet",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1209"
+    },
+    {
+      "number": 1208,
+      "title": "feat: Allow address as optional parameter to hooks",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1208"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1214,
+      "title": "Upgrade React to 19.0.3",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1214",
+      "merged": true
+    },
+    {
+      "number": 1213,
+      "title": "add bg-mainnet-rpc as extra fallback for mainnet",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1213",
+      "merged": true
+    },
+    {
+      "number": 1212,
+      "title": "Up react versions",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1212",
+      "merged": true
+    },
+    {
+      "number": 1211,
+      "title": "Upgrade yarn version",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1211",
+      "merged": false
+    },
+    {
+      "number": 1210,
+      "title": "up next",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1210",
+      "merged": true
+    },
+    {
+      "number": 1207,
+      "title": "up wagmi, viem, rainbwokit and burner-connector",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1207",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:16.070Z"
+}

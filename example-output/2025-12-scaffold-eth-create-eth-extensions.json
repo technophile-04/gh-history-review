@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### Summary for December 2025 - scaffold-eth/create-eth-extensions\n\n- **Major Improvements:**\n  - Upgraded Ponder from version 0.8.15 to 0.15.17, introducing several improvements despite a few breaking changes.\n\n- **Pull Requests:**\n  - One pull request (#113) was opened to update subgraph modules, but it remains unmerged.\n\n- **Overall Activity:**\n  - No issues were created this month, indicating a period of limited activity aside from the ongoing upgrade efforts.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 113,
+      "title": "chore: update subgraph modules",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/113",
+      "merged": false
+    },
+    {
+      "number": 112,
+      "title": "Upgrade Ponder to 0.15.17",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/112",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:45.339Z"
+}

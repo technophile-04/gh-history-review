@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features/Improvements:**\n  - Merged PR #145 introduced enhancements for ETH grants, pending ENS approval and migration.\n  - Merged PR #146 added the `requestedFunds` field to grant notifications.\n\n- **Bug Fixes:**\n  - No notable bug fixes reported this month.\n\n- **Overall Themes:**\n  - Focus on improving grant functionalities, particularly related to ETH grants and notification details.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 146,
+      "title": "Add requestedFunds to grant notification",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/146",
+      "merged": true
+    },
+    {
+      "number": 145,
+      "title": "Eth grants improvements",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/145",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:36.232Z"
+}

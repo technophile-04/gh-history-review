@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in June 2025\n\n- **Major Features and Improvements:**\n  - Implemented a milestone-based structure for ETH grants, including updates to the application form, grant detail page, and admin interface.\n  - Enhanced the ETH grant export functionality to include milestones in markdown format.\n  - Developed a rejection system for ETH grants and stages.\n\n- **Notable Bug Fixes:**\n  - Addressed session-related issues that affected user experience across tabs.\n\n- **Overall Themes:**\n  - Focus on integrating milestones into various aspects of the ETH grant process.\n  - Significant updates to the admin UI for better management of grant milestones.\n  - Continuous improvements to user notifications and grant management functionalities.",
+  "issueCount": 12,
+  "prCount": 15,
+  "topIssues": [
+    {
+      "number": 137,
+      "title": "Allow to see all grant description on home page grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/137"
+    },
+    {
+      "number": 135,
+      "title": "Avoid trying to get unlockedGrantAmount on proposed grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/135"
+    },
+    {
+      "number": 133,
+      "title": "ETH Grants > Remove revalidate-status from Ponder?",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/133"
+    },
+    {
+      "number": 132,
+      "title": "ETH Grants > Change new stage apply form with milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/132"
+    },
+    {
+      "number": 131,
+      "title": "ETH Grants > Add new ETH milestone completed message to Telegram bot",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/131"
+    },
+    {
+      "number": 125,
+      "title": "ETH Grants > Change Telegram bot messages for new stages",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/125"
+    },
+    {
+      "number": 123,
+      "title": "ETH Grants > Export Markdown",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/123"
+    },
+    {
+      "number": 121,
+      "title": "Remove apply link from /my-grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/121"
+    },
+    {
+      "number": 119,
+      "title": "ETH Grants > Grant Detail Page & Withdrawal Process with Milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/119"
+    },
+    {
+      "number": 118,
+      "title": "ETH Grants > Admin UI for Milestone Management",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/118"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 138,
+      "title": "Add milestones to ETH grant export markdown",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/138",
+      "merged": true
+    },
+    {
+      "number": 136,
+      "title": "Add milestones when applying to a new stage",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/136",
+      "merged": true
+    },
+    {
+      "number": 134,
+      "title": "fix: session",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/134",
+      "merged": true
+    },
+    {
+      "number": 130,
+      "title": "Withdraw from ETH grant milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/130",
+      "merged": true
+    },
+    {
+      "number": 129,
+      "title": "Eth grant page with milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/129",
+      "merged": true
+    },
+    {
+      "number": 128,
+      "title": "Admin ETH Grants with milestones",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/128",
+      "merged": true
+    },
+    {
+      "number": 127,
+      "title": "Revert \"fix: session\"",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/127",
+      "merged": true
+    },
+    {
+      "number": 126,
+      "title": "Add milestones to ETH grant detail page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/126",
+      "merged": true
+    },
+    {
+      "number": 124,
+      "title": "Add milestones to ETH grants and change apply page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/124",
+      "merged": true
+    },
+    {
+      "number": 122,
+      "title": "Remove apply link when user has no grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/122",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:25.993Z"
+}

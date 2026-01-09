@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Merged PR #150 introduced a high-level CSV export for grants, addressing issue #149 and enhancing data accessibility.\n  - Merged PR #152 updated the Next.js framework, improving security and performance.\n\n- **Operational Changes:**\n  - Merged PR #151 temporarily closed grant applications until January 3rd, streamlining the application process during the holiday period.\n\n- **Overall Themes:**\n  - Focus on enhancing data export capabilities and improving application management.\n  - Emphasis on security updates with the Next.js upgrade.",
+  "issueCount": 1,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 149,
+      "title": "Add high-level executive CSV export for grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/149"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 152,
+      "title": "feat: up nextjs",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/152",
+      "merged": true
+    },
+    {
+      "number": 151,
+      "title": "Close applications until Jan 3rd",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/151",
+      "merged": true
+    },
+    {
+      "number": 150,
+      "title": "Export csv",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/150",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:43:50.969Z"
+}

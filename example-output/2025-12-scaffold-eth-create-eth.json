@@ -1,0 +1,59 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Updated the Staking challenge to Crowdfunding and added an Oracle challenge to the extensions list (#374).\n  - Upgraded React to version 19.0.3 as part of a backmerge (#371).\n  - Enhanced CI/CD processes by adding permissions for OIDC flow (#370).\n\n- **Package Management:**\n  - Version packages were updated automatically through the Changesets action (#372).\n  - Added a changeset for previous updates to ensure proper versioning (#369).\n\n- **Overall Themes:**\n  - Focus on enhancing the functionality and maintainability of the project through updates and improvements.\n  - Active management of dependencies and CI/CD configurations to align with the latest standards. \n\nNo significant bug fixes were noted this month.",
+  "issueCount": 0,
+  "prCount": 7,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 374,
+      "title": "change staking to crowdfunding, add oracle challenge",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/374",
+      "merged": true
+    },
+    {
+      "number": 373,
+      "title": "Update action to use latest node version ",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/373",
+      "merged": true
+    },
+    {
+      "number": 372,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/372",
+      "merged": true
+    },
+    {
+      "number": 371,
+      "title": "backmerge 17-12-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/371",
+      "merged": true
+    },
+    {
+      "number": 370,
+      "title": "ci: add permisison to have oidc flow",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/370",
+      "merged": true
+    },
+    {
+      "number": 369,
+      "title": "add changeset",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/369",
+      "merged": true
+    },
+    {
+      "number": 368,
+      "title": "backmerge 08-12-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/368",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:37:42.487Z"
+}

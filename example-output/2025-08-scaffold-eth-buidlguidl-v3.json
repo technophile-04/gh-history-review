@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "buidlguidl-v3",
+    "fullName": "scaffold-eth/buidlguidl-v3"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in August 2025\n\n- **Feature Improvement**: Merged PR #131 introduced server-side redirection logic for build pages, enhancing user navigation to the new SRE build page.\n- **No Issues**: No new issues were created during this month.\n- **Overall Activity**: Limited activity with only one merged pull request, focusing on improving the build page functionality.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 131,
+      "title": "Add build page redirection to SRE website",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/pull/131",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:30.739Z"
+}

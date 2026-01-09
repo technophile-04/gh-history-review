@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### May 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Implemented SEO-friendly URL slugs for companies and jobs, enhancing user experience and searchability.\n  - Added contact details to job submissions, improving communication for job postings.\n  - Developed a company detail page that lists all associated jobs, providing better navigation for users.\n  - Introduced a new \"Apply Now\" button, streamlining the application process.\n  - Implemented tracking features for better analytics.\n\n- **Closed Issues:**\n  - Resolved issues related to URL slugs and contact details for job postings.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved navigation and communication features.\n  - Emphasis on SEO and tracking capabilities to support better visibility and data collection.",
+  "issueCount": 2,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 40,
+      "title": "URL slugs for companies and jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/40"
+    },
+    {
+      "number": 35,
+      "title": "Add contact details to jobSubmissions and jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/35"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 42,
+      "title": "use slug for companies and jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/42",
+      "merged": true
+    },
+    {
+      "number": 41,
+      "title": "Links to company pages",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/41",
+      "merged": true
+    },
+    {
+      "number": 39,
+      "title": "Company detail page listing all the jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/39",
+      "merged": true
+    },
+    {
+      "number": 38,
+      "title": "Apply now button => plausible",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/38",
+      "merged": true
+    },
+    {
+      "number": 37,
+      "title": "Tracking",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/37",
+      "merged": true
+    },
+    {
+      "number": 36,
+      "title": "Contact details for jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/36",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:31.439Z"
+}

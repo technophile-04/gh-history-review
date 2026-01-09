@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #58: Updated beta Tailwind configuration.\n  - Merged PR #57: Updated scaffold and Hardhat configuration for the new beta version of the template.\n\n- **Closed Pull Requests:**\n  - PR #56: Closed with an example for scaffold configuration, though not merged.\n  - PR #55: Closed after updating subgraph dependencies, but not merged.\n\n- **Overall Themes:**\n  - Focus on updating configurations and dependencies for the beta version.\n  - No new issues were created, indicating a stable month in terms of reported problems.",
+  "issueCount": 0,
+  "prCount": 4,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 58,
+      "title": "Update beta tailwind config",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/58",
+      "merged": true
+    },
+    {
+      "number": 57,
+      "title": "(beta) scaffold and hardhat config",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/57",
+      "merged": true
+    },
+    {
+      "number": 56,
+      "title": "(beta example) scaffold.cofnig",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/56",
+      "merged": false
+    },
+    {
+      "number": 55,
+      "title": "subgraph: updated dependencies",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/55",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:51.455Z"
+}

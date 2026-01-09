@@ -1,0 +1,22 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "- **Feature Proposal**: An issue was opened (#26) to introduce the concept of \"Seasons\" into the CTF, allowing for the addition of annual challenge sets.\n- **No Pull Requests**: There were no pull requests created or merged during November 2025.\n- **Limited Activity**: Overall, the activity in the repository was minimal, with only one open issue and no completed work.",
+  "issueCount": 1,
+  "prCount": 0,
+  "topIssues": [
+    {
+      "number": 26,
+      "title": "Add CTF challenges from Argentina",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/26"
+    }
+  ],
+  "topPRs": [],
+  "generatedAt": "2026-01-08T09:45:52.285Z"
+}

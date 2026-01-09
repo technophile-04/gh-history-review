@@ -1,0 +1,1178 @@
+{
+  "generatedAt": "2026-01-08T09:57:26.593Z",
+  "year": 2025,
+  "totalRepositories": 15,
+  "totalIssues": 412,
+  "totalPRs": 913,
+  "repositories": [
+    {
+      "repo": {
+        "owner": "BuidlGuidl",
+        "repo": "SpeedRunEthereum-v2",
+        "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for BuidlGuidl/SpeedRunEthereum-v2 (2025):\n  - 11 months with activity\n  - 150 total issues\n  - 199 total PRs",
+      "stats": {
+        "totalIssues": 150,
+        "totalPRs": 199
+      },
+      "months": [
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Refactored the homepage from server to client components, enhancing user experience (#38).\n  - Implemented a basic challenge submission flow, allowing users to submit challenges with backend verification (#27).\n  - Migrated various pages, including the challenge detail and homepage, to improve structure and SEO (#22, #23).\n  - Created a guides section to provide static content related to challenges (#26).\n\n- **Notable Bug Fixes:**\n  - Addressed styling issues on the challenge page to ensure proper rendering (#37).\n\n- **Overall Themes:**\n  - Significant focus on improving the user interface and experience through page migrations and component refactoring.\n  - Emphasis on establishing a solid database structure and challenge submission process to support future features.",
+          "issueCount": 24,
+          "prCount": 14
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Implemented the main autograder, enhancing grading functionality (#72).\n  - Launched an improved activity page inspired by the builders page (#70).\n  - Enhanced user experience with a new \"Join BG\" button logic and user profile features (#40, #42).\n  - Updated the homepage with new challenges and improved navigation links (#51, #43).\n\n- **Notable Bug Fixes:**\n  - Resolved an activity time mismatch issue, ensuring accurate challenge submission times (#53).\n  - Fixed rendering issues for complex markdown on the challenge details page (#39).\n\n- **Overall Themes:**\n  - Focus on enhancing user experience and interface improvements across various components.\n  - Significant refactoring of data management, including the deletion of the events table to streamline submissions (#50).",
+          "issueCount": 15,
+          "prCount": 19
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Implemented a **Batches Page** with functionalities for searching, creating, and editing batches (#137).\n  - Enhanced **SEO** with initial improvements for challenge pages and homepage metadata (#153).\n  - Added functionality for builders to **add locations** and update their social profiles (#127, #148).\n  - Established a **database schema and seed data** for batches and builds (#126, #142).\n\n- **Notable Bug Fixes:**\n  - Resolved issues with **error notifications** appearing behind modals during challenge submissions (#77).\n  - Fixed caching issues that affected the **refresh behavior** on the portfolio page (#89).\n  - Addressed problems with **EIP712 signature validation**, ensuring proper functionality (#85).\n\n- **Overall Themes:**\n  - Focus on improving user experience through UI enhancements and better data handling.\n  - Significant work on database structure and migration to support new features.\n  - Continuous efforts in SEO optimization to improve visibility and accessibility of the platform.",
+          "issueCount": 40,
+          "prCount": 43
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in May 2025\n\n- **Major Features and Improvements:**\n  - Implemented caching for ENS in the Address component and database, enhancing performance (#179, #180).\n  - Added new guides and articles related to NFTs and Challenge 1, improving educational resources (#169, #178).\n  - Developed and merged several dynamic route handlers and API improvements, enhancing application routing (#177, #159).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted in this period.\n\n- **Overall Themes:**\n  - Focus on improving user experience through dynamic routing and caching mechanisms.\n  - Expansion of educational content related to Ethereum and NFTs.\n  - Enhancements to admin functionalities and user management features.",
+          "issueCount": 5,
+          "prCount": 21
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in June 2025\n\n- **Major Features and Improvements:**\n  - Introduced a new `/guides` page with a client-side search bar and a table of contents for better navigation (PR #192).\n  - Added multiple guides linked to challenges, including Dex Challenge guides and SEO articles for Challenge 2 (PRs #214, #191).\n  - Implemented infinite scroll loading on the `/builds` page and improved filters for better user experience (PRs #207, #199).\n\n- **Bug Fixes:**\n  - Fixed the update ENS multicall functionality to streamline the process (PR #197).\n  - Resolved issues with ENS avatar caching and display (PR #195).\n\n- **Overall Themes:**\n  - Focus on enhancing user navigation and experience through new pages and features.\n  - Continuous improvement of existing functionalities, particularly around ENS and builds management.",
+          "issueCount": 14,
+          "prCount": 20
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 - July 2025\n\n- **Major Features and Improvements:**\n  - Merged several enhancements to the Builder Profile, including a new challenges accordion design and the addition of XP points and progress bars.\n  - Updated the challenge structure by removing restrictions on challenges and renaming them for clarity.\n  - Implemented a global error page to improve user experience during unhandled errors.\n\n- **Notable Bug Fixes:**\n  - Resolved issues related to user registration and ENS data fetching, ensuring smoother user onboarding.\n  - Improved scroll loading functionality on the builds page using `IntersectionObserver`.\n\n- **Overall Themes:**\n  - Focus on enhancing user profiles and challenge visibility, making the platform more engaging.\n  - Continuous improvements to error handling and user experience through various UI updates and bug fixes.",
+          "issueCount": 24,
+          "prCount": 25
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in August 2025\n\n- **Major Features and Improvements:**\n  - Merged several enhancements including the **Sidequests UI** (#310) and **related guides for the dice game challenge** (#301).\n  - Implemented a **new batch public endpoint** (#271) and added **network selection to batch** (#270).\n  - Improved user experience with **auto-refresh on challenge submission** (#274) and **loading state notifications** (#293).\n\n- **Notable Bug Fixes:**\n  - Resolved issues with **wallet disconnection** (#300) and **XP calculation** (#296).\n  - Fixed **social notifications** (#299) and addressed a **timeout issue** with grading submissions (#290).\n\n- **Overall Themes:**\n  - The focus was on enhancing user experience through UI improvements and better functionality.\n  - A significant number of bug fixes were addressed, improving overall system stability and user interactions.",
+          "issueCount": 16,
+          "prCount": 31
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### September 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Added new guides, including an ERC4626 vaults guide for decentralized staking and a landing page for Solidity, enhancing educational resources.\n  - Implemented a feature to open external links in new tabs for better user experience.\n  - Introduced placeholders for upcoming Oracles and ZK Voting challenges, indicating future development focus.\n\n- **Bug Fixes:**\n  - Resolved rendering issues with challenge headings containing bold text (issue #326 remains open for further checks).\n\n- **Overall Themes:**\n  - A strong emphasis on improving user experience through UI enhancements and better navigation.\n  - Continued expansion of educational content and resources for builders, reflecting a commitment to community support and engagement.",
+          "issueCount": 5,
+          "prCount": 14
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Merged PRs added private notes functionality for admins and enhanced challenge descriptions with skills and time information.\n  - Improved user interface by moving the refresh button for sidequests and adjusting the CTA text on the /start page for better display.\n\n- **Bug Fixes:**\n  - Resolved issues related to XP calculation, including excluding `_lastCheckedAt` from side quest counts and fixing font color for modal titles in dark mode.\n  - Addressed a bug where the deployment status incorrectly indicated that a contract was not deployed.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through UI improvements and addressing critical bugs related to user feedback.\n  - Continuous refinement of XP calculation and display to ensure accurate representation of user progress.",
+          "issueCount": 6,
+          "prCount": 6
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Standardization Improvement**: Merged PR #344 standardized the naming convention to 'Speedrun Ethereum', enhancing consistency across the repository.\n- **User Tracking Enhancement**: Merged PR #343 improved user registration tracking, allowing better insights into user interactions and registration sources.\n- **Overall Activity**: The month saw focused improvements on naming consistency and user engagement tracking, with no new issues reported.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features/Improvements:**\n  - Updated references from \"staking\" to \"crowdfunding\" and rebranded \"SpeedRunEthereum\" to \"Speedrun Ethereum\" in PR #349.\n  - Added a \"Completed by\" metric on the challenge page to enhance user experience (PR #347).\n  \n- **Bug Fixes:**\n  - Addressed security vulnerabilities in React and Next.js related to CVE-2025-55184 and CVE-2025-55183 (PR #348).\n  - Upgraded to a fixed version of Next.js to resolve CVE-2025-66478 (PR #346).\n\n- **Overall Themes:**\n  - Focus on security updates and enhancements to the user interface.\n  - Consistent rebranding efforts to improve clarity and user engagement.",
+          "issueCount": 1,
+          "prCount": 4
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "create-eth",
+        "fullName": "scaffold-eth/create-eth"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/create-eth (2025):\n  - 12 months with activity\n  - 31 total issues\n  - 154 total PRs",
+      "stats": {
+        "totalIssues": 31,
+        "totalPRs": 154
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged PRs to enhance CLI functionality, including allowing project names as paths during initialization (#208).\n  - Added curated extensions for SRE challenges and SpeedRun Ethereum challenges (#198, #197).\n  - Introduced initial rules for template arguments (#195).\n\n- **Bug Fixes:**\n  - Resolved issues with capital letters in extension names, ensuring compatibility (#200).\n  - Fixed the Husky pre-commit hook not being executable (#192).\n  - Addressed validation for paths in CLI initialization (#208).\n\n- **Overall Themes:**\n  - Focus on improving developer experience (DX) through better CLI options and curated extensions.\n  - Active resolution of bugs related to project setup and extension management.",
+          "issueCount": 7,
+          "prCount": 14
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged multiple pull requests to version packages, ensuring the latest updates are published to npm.\n  - Added support for OP Retro Funding round 7 verification, enhancing the project's integration with external funding initiatives.\n  - Implemented changes to improve template provider positioning for better customization options.\n\n- **Bug Fixes:**\n  - Fixed templating rules and addressed a lint script issue for compatibility with Next.js and Foundry.\n  - Corrected a typo in package.json scripts related to linting.\n\n- **Overall Themes:**\n  - The month focused heavily on versioning and package management, with several PRs dedicated to ensuring packages are up-to-date.\n  - There was a notable effort to enhance project functionality through verification processes and template adjustments.",
+          "issueCount": 1,
+          "prCount": 15
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged several pull requests enhancing configuration templates, including updates to the Tailwind config and scaffold config templates.\n  - Backmerged the main branch into the beta branch, ensuring the latest updates are integrated.\n\n- **Bug Fixes:**\n  - Resolved issues with the `tsconfig.json` file being invalid after using the `--skip` option and addressed linting failures when creating instances within the `create-eth` repository.\n\n- **Overall Themes:**\n  - Focus on improving user experience through automation and customization of configuration files.\n  - Active resolution of bugs to enhance stability and usability of the framework.",
+          "issueCount": 5,
+          "prCount": 7
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in April 2025\n\n- **Major Features and Improvements:**\n  - Added the **over-collateralized lending challenge** to the extensions list, enhancing the functionality available for users.\n  - Multiple **version updates** for packages were successfully merged, ensuring the project remains up-to-date and stable.\n  - Implemented various **template file updates** to align with new rules and improve overall structure.\n\n- **Bug Fixes:**\n  - Removed an **outdated dependency** that was no longer necessary, streamlining the project.\n  - Addressed a **dependency issue** by moving `fastify/deepMerge` to main dependencies, ensuring it is available during instance creation.\n\n- **Overall Themes:**\n  - The month focused on enhancing the project through new features and updates while maintaining stability through bug fixes and dependency management.\n  - A significant number of merged pull requests indicate active development and ongoing improvements to the codebase.",
+          "issueCount": 1,
+          "prCount": 13
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in May 2025\n\n- **Major Features and Improvements:**\n  - Merged several pull requests enhancing the CLI, including the ability to auto-create `.args.mjs` files and customization for address types.\n  - Introduced a requirements check for using `npx`, ensuring compatibility with specified versions of Node, Yarn, and Git.\n  - Expanded the `create-extension` CLI to allow extensions to be created from the scaffold-eth repository.\n\n- **Bug Fixes:**\n  - Resolved the GitHub rate limit issue by optimizing API calls.\n  - Fixed a ReferenceError related to `indexedDB` during instance creation.\n\n- **Overall Themes:**\n  - A focus on improving the developer experience through CLI enhancements and better error handling.\n  - Continuous integration of updates and backmerges from the main branch to ensure the repository remains up-to-date.",
+          "issueCount": 2,
+          "prCount": 22
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in June 2025\n\n- **Major Features and Improvements:**\n  - Introduced more customization options for Foundry projects through PR #297, allowing extensions to add libraries.\n  - Added a stablecoins challenge shortcut to extensions via PR #284.\n  - Updated dependencies and improved error logging for argument checks in templates with PR #279.\n\n- **Bug Fixes:**\n  - Resolved deployment issues for cloned repositories using Foundry in PR #294.\n  - Fixed issues related to fetching the Solidity framework folder in PR #291.\n\n- **Overall Themes:**\n  - A significant focus on enhancing Foundry support and customization.\n  - Multiple versioning updates and backmerges, indicating ongoing maintenance and integration efforts.\n  - Continuous improvement of error handling and user experience through logging enhancements.",
+          "issueCount": 3,
+          "prCount": 20
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in July 2025\n\n- **Major Features and Improvements:**\n  - Introduced custom root scripts for Solidity frameworks with PR #326.\n  - Added the capability to display the create-eth version on the initial commit with PR #314.\n  - Enhanced the extension list to improve user experience with PR #321.\n\n- **Bug Fixes:**\n  - Resolved an issue where create-eth did not exit with error code 1 on failure (PR #319).\n  - Fixed verification issues in the VerifyAll contract (PR #312).\n  - Addressed component tree remounting issues when switching themes (PR #302).\n\n- **Overall Themes:**\n  - Focus on improving user experience and functionality through enhancements and bug fixes.\n  - Active development with 22 pull requests, of which 17 were merged, indicating a productive month.",
+          "issueCount": 5,
+          "prCount": 22
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged PR #340 introduced lazy loading for wallet connectors to prevent SSR errors.\n  - PR #338 updated deployHelpers, enhancing deployment processes.\n  - PR #332 suggested using the parent folder for instances, aiming to improve project structure.\n\n- **Bug Fixes:**\n  - PR #337 fixed the GitHub action lint for the foundry instance.\n  - Multiple backmerge PRs addressed various issues, including contract interaction errors and deployment chainId errors.\n\n- **Overall Themes:**\n  - A focus on improving deployment and instance management through updates and structural suggestions.\n  - Continuous refinement of existing features with several backmerges to ensure stability and performance.",
+          "issueCount": 3,
+          "prCount": 12
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### September 2025 Summary for scaffold-eth/create-eth\n\n- **Pull Requests Merged**: \n  - Merged PR #342 addressed a linting issue, ensuring that the action fails if the installation is unsuccessful.\n\n- **Bug Fixes**: \n  - The merged PR also resolved a related issue (#341) regarding the linting process.\n\n- **Overall Activity**: \n  - No new issues were created this month, indicating minimal activity beyond the focused fix in the pull request.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Migrated to `scaffold-ui`, enhancing the user interface and experience.\n  - Added `drizzle-neon` as a curated extension, expanding functionality.\n  - Introduced the ability to pass global variables, improving configuration flexibility.\n\n- **Bug Fixes:**\n  - Resolved an issue with undefined `targetNetwork` configurations, addressing a specific user-reported problem.\n\n- **Overall Themes:**\n  - The month focused on enhancing the project’s extensibility and user interface, alongside addressing configuration-related bugs.\n  - Multiple version package updates were merged, indicating ongoing maintenance and readiness for future releases.",
+          "issueCount": 3,
+          "prCount": 10
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged several enhancements to allow switching of `create-eth` versions for extensions (#363).\n  - Improved organization of extensions within the project (#357).\n  - Updated the MetaMask extensions list and rebranded the Delegation Toolkit to Smart Accounts Kit (#362).\n  - Added a new `x402` extension (#366).\n\n- **Bug Fixes:**\n  - Validated the foundry version to ensure compatibility (#356).\n  - Backmerged cursor rules to correct local path issues (#365).\n  - Removed the `--legacy` flag from foundry (#358).\n\n- **Overall Themes:**\n  - Focus on enhancing extension capabilities and version management.\n  - Continuous improvement of project structure and dependency management.",
+          "issueCount": 1,
+          "prCount": 11
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Updated the Staking challenge to Crowdfunding and added an Oracle challenge to the extensions list (#374).\n  - Upgraded React to version 19.0.3 as part of a backmerge (#371).\n  - Enhanced CI/CD processes by adding permissions for OIDC flow (#370).\n\n- **Package Management:**\n  - Version packages were updated automatically through the Changesets action (#372).\n  - Added a changeset for previous updates to ensure proper versioning (#369).\n\n- **Overall Themes:**\n  - Focus on enhancing the functionality and maintainability of the project through updates and improvements.\n  - Active management of dependencies and CI/CD configurations to align with the latest standards. \n\nNo significant bug fixes were noted this month.",
+          "issueCount": 0,
+          "prCount": 7
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "scaffold-eth-2",
+        "fullName": "scaffold-eth/scaffold-eth-2"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/scaffold-eth-2 (2025):\n  - 12 months with activity\n  - 45 total issues\n  - 121 total PRs",
+      "stats": {
+        "totalIssues": 45,
+        "totalPRs": 121
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in January 2025\n\n- **Major Features and Improvements:**\n  - Migrated the project to **Next.js v15**, enhancing compatibility and performance (PR #1036).\n  - Introduced commands for cleaning build artifacts in both Hardhat and Forge, streamlining development (PRs #1043, #1042).\n  - Added a **Vercel login script** to facilitate deployment (PR #1027).\n  - Implemented a **ConnectWalletButton component** to improve user interaction (PR #1034).\n\n- **Bug Fixes:**\n  - Resolved issues with the lint command by updating to the correct command syntax (PR #1041).\n  - Addressed a bug related to unnecessary RPC calls on the Faucet Button (PR #1047).\n\n- **Overall Themes:**\n  - The month focused on upgrading dependencies and improving deployment processes.\n  - Several issues were closed, indicating active maintenance and responsiveness to user feedback.",
+          "issueCount": 5,
+          "prCount": 18
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Merged PR #1057 introduced RPC Overrides to simplify frontend RPC configuration.\n  - Merged PR #1053 added verification for OP Retro Funding round 7, enhancing participation capabilities.\n  - Merged PR #1049 upgraded dependencies (wagmi, viem, rainbowkit) to their latest versions, improving overall functionality.\n  - Merged PR #1052 updated node version requirements in the README to assist Windows users.\n\n- **Notable Bug Fixes:**\n  - Merged PR #1048 removed indexed event parameters to address type errors in the documentation.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved configuration options and dependency updates.\n  - Ongoing efforts to ensure compatibility and clarity in documentation for developers.",
+          "issueCount": 0,
+          "prCount": 11
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Migrated to **Eslint v9**, enhancing code quality and compatibility with Next.js 15.\n  - Completed the **migration to Tailwind v4** and **DaisyUI v5**, improving styling consistency.\n  - Updated network configurations to replace deprecated networks and added **chainId settings** for all networks, enhancing deployment reliability.\n\n- **Notable Bug Fixes:**\n  - Resolved issues with `yarn deploy --network network_name` failing when no keystores exist, improving user experience.\n  - Fixed filename issues related to keystores CLI, ensuring proper functionality in WSL environments.\n\n- **Overall Themes:**\n  - Focus on code quality improvements and dependency updates.\n  - Enhancements to user experience through better error handling and network configuration updates.",
+          "issueCount": 8,
+          "prCount": 12
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Merged Pull Requests:**\n  - **#1084:** Fixed the Address component to correctly copy addresses to the clipboard when used within a dialog, improving user experience.\n\n- **Closed Issues:**\n  - **#1085:** Resolved a bug that prevented users from committing changes in the latest version, enhancing functionality.\n\n- **Overall Themes:**\n  - Focus on improving user interface components and addressing critical bugs to ensure smoother operation of the application.",
+          "issueCount": 1,
+          "prCount": 2
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in May 2025\n\n- **Major Features and Improvements:**\n  - Merged PRs added chain metadata to the `useSelectedNetwork` hook and implemented a command to reveal private keys, enhancing user functionality.\n  - Upgraded dependencies, including the Viem package to version 2.30.0 and addressed issues with dark mode variants.\n\n- **Bug Fixes:**\n  - Resolved issues with the `useNetworkColor` hook and fixed a command failure related to revealing private keys, ensuring smoother operation.\n\n- **Overall Themes:**\n  - Focus on improving user experience through enhancements in network handling and private key management.\n  - Ongoing maintenance and upgrades to dependencies to keep the project up-to-date and functional.",
+          "issueCount": 6,
+          "prCount": 10
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in June 2025\n\n- **Major Features and Improvements:**\n  - Added a \"not found\" page to enhance user experience for non-existent routes (#1120).\n  - Introduced parameters `blocksBatchSize` and `toBlock` to the `useScaffoldEventHistory` function for improved flexibility in handling event history (#1118, #1117).\n  - Updated `hardhat-deploy` to support the Etherscan v2 API for verification, addressing a naming issue in the environment file (#1116).\n\n- **Notable Bug Fixes:**\n  - Resolved multiple bugs including:\n    - Header theme application on 404 pages (#1119).\n    - Issues with Solidity class recognition based on filename (#1113).\n    - Misleading logs in `generateTsAbis.js` (#1112).\n    - Various other bugs related to IndexedDB and Next.js errors (#1109, #1107).\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved error handling and user interface elements.\n  - Ongoing efforts to refine the functionality and reliability of the codebase by addressing critical bugs.",
+          "issueCount": 7,
+          "prCount": 8
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in July 2025\n\n- **Major Features and Improvements:**\n  - Upgraded the project to Node.js v22, ensuring compatibility with the latest LTS version.\n  - Enhanced documentation for better navigation and clarity in README and CONTRIBUTING files.\n\n- **Notable Bug Fixes:**\n  - Resolved issues with contract interactions and error parsing, improving user experience when dealing with contract-to-contract interactions.\n  - Fixed deployment issues on mainnet and addressed errors related to missing receipt fields during contract generation.\n\n- **Overall Themes:**\n  - Focus on improving the reliability of contract interactions and deployment processes.\n  - Continuous enhancement of documentation to support user onboarding and development.",
+          "issueCount": 8,
+          "prCount": 16
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in August 2025\n\n- **Major Features and Improvements:**\n  - Updated Celo Testnet from Alfajores to Sepolia in response to upcoming sunset of the former.\n  - Enhanced documentation for `useScaffoldEventHistory` to include production usage warnings.\n\n- **Bug Fixes:**\n  - Resolved issues with duplicate events in the `useScaffoldEventHistory` hook.\n  - Fixed tooltip background cutoff for long inheritance paths on the Debug Contracts page.\n  - Addressed a chainId error during deployments, improving overall deployment reliability.\n\n- **Overall Themes:**\n  - Focus on improving documentation and user guidance for hooks to prevent performance issues.\n  - Ongoing efforts to enhance stability and security through bug fixes and updates to dependencies.",
+          "issueCount": 4,
+          "prCount": 20
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in September 2025\n\n- **Major Features/Improvements:**\n  - Merged PR #1180 introduced support for CREATE2 transaction types in ABI generation, enhancing deployment capabilities.\n\n- **Bug Fixes:**\n  - PR #1182 addressed concurrency issues in `useScaffoldWriteContract` by replacing the boolean `isMining` with an in-flight counter.\n  - PR #1177 fixed network synchronization issues in the `TransactionComp` component, ensuring accurate transaction data display.\n\n- **Overall Themes:**\n  - The month focused on improving security and functionality, with a significant upgrade to Yarn for better supply chain protection.\n  - Several closed PRs indicated ongoing refinements and support for additional chains, though they did not result in merged changes.",
+          "issueCount": 0,
+          "prCount": 6
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Merged PR #1190 updated the Alchemy API key, enhancing request tracking capabilities.\n  - Ongoing migration to Hardhat v3 initiated with PR #1192, focusing on dependency updates and documentation adjustments.\n\n- **Bug Fixes:**\n  - Issue #1187 addressed a bug related to contract verification on Arbitrum, which has been closed.\n\n- **Overall Themes:**\n  - The repository is focusing on upgrading dependencies and improving compatibility with newer tools (e.g., Hardhat v3).\n  - Several PRs were closed without merging, indicating ongoing discussions and refinements rather than immediate implementations.",
+          "issueCount": 2,
+          "prCount": 6
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in November 2025\n\n- **Documentation Improvements**: \n  - A comprehensive CLAUDE.md was added to guide AI assistants, and the README intro and quickstart sections were enhanced for clarity and usability.\n\n- **Merged Pull Requests**: \n  - Three notable PRs were merged, including updates to scaffold-ui components and removal of the `--legacy` flag, indicating ongoing maintenance and improvements.\n\n- **Open Issues**: \n  - Two issues remain open, focusing on improving test coverage for `YourContract` and addressing crashes from invalid address inputs, highlighting areas for future development.\n\n- **Overall Themes**: \n  - The activity reflects a focus on documentation, UI improvements, and foundational bug fixes, with an emphasis on enhancing user experience and code reliability.",
+          "issueCount": 2,
+          "prCount": 6
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Upgraded React to version 19.0.3 to address a critical vulnerability.\n  - Added `bg-mainnet-rpc` as an extra fallback for the mainnet, enhancing RPC endpoint reliability.\n  - Updated various dependencies including Next.js and several libraries (wagmi, viem, burner-connector).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, the upgrades addressed vulnerabilities in dependencies.\n\n- **Overall Themes:**\n  - Focus on upgrading dependencies to enhance security and performance.\n  - Continued improvement of RPC configurations for better functionality.",
+          "issueCount": 2,
+          "prCount": 6
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "buidlguidl",
+        "repo": "ens-pg",
+        "fullName": "buidlguidl/ens-pg"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for buidlguidl/ens-pg (2025):\n  - 11 months with activity\n  - 68 total issues\n  - 74 total PRs",
+      "stats": {
+        "totalIssues": 68,
+        "totalPRs": 74
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Added a FAQ page to enhance user support and information accessibility (#17).\n  - Implemented Plausible tracking for site visit analytics, improving user engagement insights (#15).\n  - Limited data exposure in public grant views to enhance security and user privacy (#13).\n  - Made minor UI tweaks and added feedback modals to improve user experience after grant applications (#12).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, improvements in UI and data handling contribute to overall stability.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved UI and informational resources.\n  - Implementation of tracking tools for better analytics and user engagement.",
+          "issueCount": 2,
+          "prCount": 5
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Completed the implementation of the USDC grants system, including the creation of a database structure, user interfaces, and integration into the homepage.\n  - Merged the LargeGrant contract, enabling the addition of grants with milestones and the ability to manage grant stages and owners.\n  - Established a draft schema for large grants, enhancing the existing grants framework.\n\n- **Bug Fixes:**\n  - No significant bug fixes reported.\n\n- **Overall Themes:**\n  - Focused on developing and integrating USDC grant functionalities.\n  - Emphasis on enhancing the grants management system with milestone tracking and improved user interfaces.",
+          "issueCount": 8,
+          "prCount": 3
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Implemented USDC grants functionality, including a dedicated apply page and detail page for users.\n  - Updated the home page and My Grants page to include approved large grants.\n  - Enhanced the UI with new styles for datepickers and buttons, improving overall user experience.\n\n- **Bug Fixes:**\n  - Resolved a hydration error in the admin proposal approval process.\n  - Fixed color inconsistencies between GrantItem and LargeGrantItem components.\n\n- **Overall Themes:**\n  - Focus on enhancing the user interface and experience for grant applications.\n  - Significant updates to support USDC grants, indicating a shift towards broader grant management capabilities.",
+          "issueCount": 12,
+          "prCount": 9
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in April 2025\n\n- **Major Features and Improvements:**\n  - Implemented a new approval flow for both ETH and USDC grants, requiring two approvals for finalization.\n  - Added a rejection system for USDC grants, necessitating two rejections before a grant or stage can be denied.\n  - Enhanced milestone management by allowing builders to complete USDC grant milestones and filling the `completed_at` field automatically.\n\n- **Bug Fixes:**\n  - Resolved issues with the milestone flow when an admin rejects after one approval, ensuring correct status updates.\n  - Fixed visual inconsistencies in the admin interface, including the display of milestone purple dots and button styles.\n\n- **Overall Themes:**\n  - A focus on improving the user experience for grant approvals and milestone management.\n  - Significant attention to visual and functional bugs within the admin interface, enhancing usability and clarity.",
+          "issueCount": 28,
+          "prCount": 22
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in May 2025\n\n- **Major Features and Improvements:**\n  - Implemented a rejection system for ETH grants (Issue #110).\n  - Added markdown export functionality for grants, allowing admins to export grant information (Issue #107, PR #108).\n  - Increased the size of the comment field in the review interface for better usability (Issue #106).\n\n- **Bug Fixes:**\n  - Resolved horizontal scrollbar issue on the admin page (Issue #102, PR #103).\n  - Fixed form warnings and improved modal button sizes on specific grant application pages (PR #105).\n  - Corrected TG bot notifications for large grants and milestone completions (PR #104).\n\n- **Overall Themes:**\n  - Focus on enhancing admin functionalities and user experience through UI improvements.\n  - Addressed several bugs to streamline the application process and notifications.",
+          "issueCount": 4,
+          "prCount": 8
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in June 2025\n\n- **Major Features and Improvements:**\n  - Implemented a milestone-based structure for ETH grants, including updates to the application form, grant detail page, and admin interface.\n  - Enhanced the ETH grant export functionality to include milestones in markdown format.\n  - Developed a rejection system for ETH grants and stages.\n\n- **Notable Bug Fixes:**\n  - Addressed session-related issues that affected user experience across tabs.\n\n- **Overall Themes:**\n  - Focus on integrating milestones into various aspects of the ETH grant process.\n  - Significant updates to the admin UI for better management of grant milestones.\n  - Continuous improvements to user notifications and grant management functionalities.",
+          "issueCount": 12,
+          "prCount": 15
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### July 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Implemented legacy withdrawals for ETH grants, allowing users to withdraw active grants through the UI (#144).\n  - Enhanced the home page by adding a \"Read more\" feature for grant descriptions that exceed the display limit (#143).\n  - Updated seed data to include new milestones for ETH grants to align with the new schema (#142).\n  - Added weekly call information to the FAQ section (#141).\n\n- **Bug Fixes:**\n  - Fixed the proposal requested amount to reflect the correct values from milestones, addressing issue #139 (#140).\n\n- **Overall Themes:**\n  - Focus on improving user experience with UI enhancements and better information accessibility.\n  - Addressing legacy system limitations while integrating new features for ETH grants.",
+          "issueCount": 1,
+          "prCount": 5
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features/Improvements:**\n  - Merged PR #145 introduced enhancements for ETH grants, pending ENS approval and migration.\n  - Merged PR #146 added the `requestedFunds` field to grant notifications.\n\n- **Bug Fixes:**\n  - No notable bug fixes reported this month.\n\n- **Overall Themes:**\n  - Focus on improving grant functionalities, particularly related to ETH grants and notification details.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for buidlguidl/ens-pg\n\n- **Pull Requests Merged**: \n  - Merged PR #147 addressed the issue of stringifying bigints with a replacer, which resolved a notification problem for the TG bot.\n\n- **Issues**: \n  - No new issues were created this month.\n\n- **Overall Activity**: \n  - Limited activity with only one merged PR, focusing on a specific bug fix related to bot notifications.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for buidlguidl/ens-pg\n\n- **New Feature**: Added a new FAQ item for payout clarifications (PR #148 merged).\n- **No Bug Fixes**: There were no notable bug fixes this month.\n- **Overall Activity**: Minimal activity with only one pull request merged, indicating a focus on documentation or user support rather than feature development.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Merged PR #150 introduced a high-level CSV export for grants, addressing issue #149 and enhancing data accessibility.\n  - Merged PR #152 updated the Next.js framework, improving security and performance.\n\n- **Operational Changes:**\n  - Merged PR #151 temporarily closed grant applications until January 3rd, streamlining the application process during the holiday period.\n\n- **Overall Themes:**\n  - Focus on enhancing data export capabilities and improving application management.\n  - Emphasis on security updates with the Next.js upgrade.",
+          "issueCount": 1,
+          "prCount": 3
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "se-2-challenges",
+        "fullName": "scaffold-eth/se-2-challenges"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/se-2-challenges (2025):\n  - 12 months with activity\n  - 32 total issues\n  - 97 total PRs",
+      "stats": {
+        "totalIssues": 32,
+        "totalPRs": 97
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in January 2025\n\n- **Major Features/Improvements:**\n  - Merged multiple pull requests to add Vercel login information to the README files across all challenges (#261 to #267).\n  - Updated the README to include checks for user balance and contract allowance, addressing issue #259.\n\n- **Bug Fixes:**\n  - Resolved a generic error related to token transfer allowances in issue #259.\n  - Multiple typos in smart contracts were fixed, although these were not linked to any specific issues.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and user guidance through README updates.\n  - Addressing and resolving issues related to error handling and contract functionality.",
+          "issueCount": 3,
+          "prCount": 11
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Image Asset Cleanup**: Six pull requests were merged to delete outdated challenge numbers from image assets, streamlining the repository's content.\n- **Issue Resolutions**: Two issues were closed, addressing a setup error related to a connection timeout and a Solidity version mismatch in Hardhat.\n- **Overall Activity**: The month focused on cleaning up assets and resolving minor setup issues, indicating ongoing maintenance and improvement efforts.",
+          "issueCount": 2,
+          "prCount": 6
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features and Improvements:**\n  - Merged PRs introduced a new **Over-collateralized Lending Challenge** and established a **base challenge template for extensions**, enhancing the framework for future challenges.\n  - Updated contribution instructions to clarify the process of creating challenges as extensions.\n\n- **Documentation Enhancements:**\n  - The README was updated to provide detailed steps for finding the deployed contract's block number on Etherscan, improving user guidance.\n\n- **Issue Management:**\n  - Closed Issue #281 focused on restructuring challenge branches for better maintainability, while Issue #277 remains open, indicating ongoing efforts to improve the challenge creation guide.\n\nOverall, the month was productive with significant updates to challenge templates and documentation, alongside the closure of an issue aimed at enhancing repository organization.",
+          "issueCount": 2,
+          "prCount": 5
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in April 2025\n\n- **Major Features and Improvements:**\n  - Merged the **Prediction Markets Challenge** (PR #286), introducing a new challenge with room for further enhancements.\n  - Implemented a check to only set contract state when on a local Hardhat chain (PR #284), improving deployment efficiency.\n  - Added verification for OP Retro Funding round 7, incorporating SpeedRunEthereum repositories into the project (PR #283).\n\n- **Bug Fixes:**\n  - Closed issue #287 regarding the CORN amounts not updating after a liquidation, indicating a resolution to a critical functionality issue.\n\n- **Overall Themes:**\n  - Focus on enhancing challenge features and improving deployment processes.\n  - Active resolution of issues related to functionality and user experience.",
+          "issueCount": 2,
+          "prCount": 3
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in May 2025\n\n- **Major Improvements:**\n  - Updated README files for clarity and command instructions related to collateralized lending.\n  - Added additional tests to enhance the robustness of the OverCollateralized Lending feature.\n\n- **Bug Fixes:**\n  - Fixed a typo in the autograder tests.\n  - Improved the liquidator filtering process to ensure only eligible liquidators with sufficient CORN balance are included.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and user guidance.\n  - Strengthening the testing framework to ensure compliance with challenge requirements.",
+          "issueCount": 0,
+          "prCount": 5
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in June 2025\n\n- **Major Features and Improvements:**\n  - Merged multiple pull requests related to the migration of challenges to be compatible with the beta branch, including updates for decentralized staking, multisig, and prediction markets.\n  - Added a new stablecoin challenge and made updates to existing challenges to enhance user experience and learning.\n\n- **Bug Fixes:**\n  - Fixed font issues by adjusting the configuration for Next.js and Tailwind CSS.\n  - Addressed build issues for the over-collateralized lending challenge and updated images for clarity and differentiation.\n\n- **Overall Themes:**\n  - A significant focus on updating and migrating challenges to align with the latest beta version.\n  - Continuous improvements to documentation and user interface elements, including README updates and image visibility adjustments.",
+          "issueCount": 5,
+          "prCount": 20
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in July 2025\n\n- **Major Features and Improvements:**\n  - Multiple pull requests merged to update various challenges, including the removal of outdated naming conventions and the integration of OpenZeppelin v5 in the Simple NFT example.\n  - Significant updates to the stablecoins and over-collateralized lending challenges, including version changes and migration to beta versions.\n\n- **Bug Fixes:**\n  - Resolved issues related to the Dice Game challenge not sending enough ether and the Stablecoins challenge not displaying deployed contract details in logs.\n\n- **Overall Themes:**\n  - A focus on cleaning up and standardizing challenge names and structures across the repository.\n  - Ongoing efforts to ensure compatibility with the latest dependencies and improve deployment processes.",
+          "issueCount": 5,
+          "prCount": 17
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in August 2025\n\n- **Major Features and Improvements:**\n  - Merged several updates to the multisig functionality, including backend endpoint updates and README enhancements.\n  - Introduced a new GitHub action for revalidation of challenge README files upon changes.\n\n- **Bug Fixes:**\n  - Addressed issues with borrowing and flash loan logic in the README, ensuring clarity and functionality.\n  - Fixed tooltip text wrapping for long contract paths in the Debug Contracts page.\n\n- **Overall Themes:**\n  - Focus on improving documentation and user guidance through README updates.\n  - Enhancements to automation with GitHub actions for better deployment and validation processes.",
+          "issueCount": 6,
+          "prCount": 10
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### September 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features and Improvements:**\n  - The \"Simple NFT Challenge\" was rebranded to \"Tokenization Challenge\" with updates to documentation and images (PRs #367, #361).\n  - A new challenge for zk voting was successfully created and merged (PR #365).\n  - Hero images in the README were updated to enhance visual appeal (PRs #358, #357).\n\n- **Bug Fixes:**\n  - Removed bold styles from headings to improve rendering in SRE (PR #363).\n\n- **Overall Themes:**\n  - Focus on rebranding and enhancing existing challenges to improve clarity and user experience.\n  - Visual updates to documentation to maintain consistency and appeal.",
+          "issueCount": 5,
+          "prCount": 7
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features/Improvements:**\n  - Merged PR #376 introduced a challenge for zk voting, enhancing the functionality of the grader.\n  - Merged PR #372 updated the grader action, likely improving its performance or reliability.\n\n- **Bug Fixes:**\n  - Merged PR #375 fixed the `create-eth` route and corrected a typo in the documentation.\n  - Merged PR #368 disabled AI in cursor and VSCode to improve user experience.\n\n- **Overall Themes:**\n  - The focus was on enhancing the grading system and fixing minor issues, indicating ongoing maintenance and improvement efforts.\n  - One open issue (#373) regarding challenge titles on Telegram images remains unresolved.",
+          "issueCount": 1,
+          "prCount": 8
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Merged Pull Requests**: Two significant updates related to the \"Challenge zk voting\" were completed, enhancing functionality by adding critical checks and updating tests.\n- **Ongoing Work**: One pull request for migrating the simple-nft-example to scaffold-ui is currently open, indicating ongoing improvements.\n- **New Challenges**: A new challenge related to oracles is also in progress, showcasing continued development in this area.\n- **No Issues**: There were no new issues created this month, suggesting stability in the project.",
+          "issueCount": 0,
+          "prCount": 4
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Rebranding**: Closed issue #381 rebranded the \"Decentralized Staking App\" to \"Crowdfunding App\" to reduce confusion around terminology.\n- **Feature Update**: Merged pull request #382 transitioned the staking challenge to a crowdfunding-focused challenge, including significant updates to the README for clarity and organization.\n- **Overall Theme**: The focus this month was on improving clarity and user understanding through rebranding and documentation enhancements.",
+          "issueCount": 1,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "scaffold-ui",
+        "fullName": "scaffold-eth/scaffold-ui"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/scaffold-ui (2025):\n  - 9 months with activity\n  - 26 total issues\n  - 64 total PRs",
+      "stats": {
+        "totalIssues": 26,
+        "totalPRs": 64
+      },
+      "months": [
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Initial Setup**: Successfully merged PR #2, establishing the initial repository setup as a pnpm monorepo with workspaces.\n- **Dependency Update**: Closed PR #1, which proposed an update of Rollup from version 3.21.0 to 3.29.5, although it was not merged.\n- **No Issues**: No new issues were created during the month, indicating stable conditions or focus on setup rather than bug tracking.\n\nOverall, the month focused on foundational work for the project with no significant bug fixes or new issues reported.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Dependency Update**: Closed PR #3 updated the Next.js dependency from version 15.2.3 to 15.2.4, ensuring the project stays current with the latest features and fixes.\n- **No New Issues**: No new issues were created during the month, indicating stable project conditions.\n- **Minimal Activity**: Overall, the repository experienced minimal activity with only one pull request closed.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### June 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Component Migration**: Successfully closed issues related to migrating components and hooks, indicating progress towards modularizing the codebase.\n- **Package Creation**: Merged PR #4, which involved creating separate packages for components, enhancing the project's structure and maintainability.\n- **Closed Issues**: Two issues were closed this month, reflecting a focus on improving project organization and planning for future development. \n\nNo significant bug fixes were reported during this period.",
+          "issueCount": 2,
+          "prCount": 1
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in July 2025\n\n- **Major Features and Improvements:**\n  - Merged several components including the **InputBase**, **AddressInput**, and **EtherInput**, enhancing the UI functionality.\n  - Introduced a debug contracts package for improved debugging capabilities.\n  - Implemented version management and release setup through Changesets.\n\n- **Bug Fixes:**\n  - Resolved a significant issue with the **Address component** not resolving ENS and avatar correctly (#16), addressed in PR #18.\n\n- **Overall Themes:**\n  - Focus on enhancing input components and overall UI consistency.\n  - Active maintenance and versioning of packages to streamline future releases.",
+          "issueCount": 4,
+          "prCount": 9
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Major Features/Improvements:**\n  - Theming implementation was initiated with the merged PR #23, focusing on enhancing component styling.\n\n- **Bug Fixes:**\n  - A significant bug fix was made in PR #21, which resolved the refocusing issue in the AddressInput component upon successful address or ENS resolution.\n\n- **Dependency Updates:**\n  - PR #26 updated the Next.js dependency from version 15.2.3 to 15.4.7, ensuring the project remains up-to-date with the latest features and fixes.\n\n- **Overall Themes:**\n  - The month focused on improving user experience through theming and addressing specific component behaviors, alongside routine dependency management.",
+          "issueCount": 2,
+          "prCount": 5
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in September 2025\n\n- **Major Features and Improvements:**\n  - Merged PRs for **Custom chains examples** and **initial version of documentation**, enhancing user guidance and visual examples for components.\n  - Implemented **UI polish tweaks** to improve overall user experience.\n\n- **Bug Fixes:**\n  - Resolved deployment issues for documentation, ensuring proper configuration with Vercel.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation structure and content, with multiple issues opened for ongoing improvements.\n  - Continued development towards integrating Scaffold-UI components into the SE-2 project, indicating a strategic direction for component migration.",
+          "issueCount": 8,
+          "prCount": 7
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in October 2025\n\n- **Major Features and Improvements:**\n  - Introduced documentation for new hooks: `useAddress` and `useAddressInput`.\n  - Enhanced the `AddressInput` and `EtherInput` components with updated documentation.\n  - Implemented horizontal scrolling for variable sections in the debug page.\n\n- **Bug Fixes:**\n  - Resolved issues with the `onChange` prop in the input components, ensuring proper value changes when resolving ENS addresses.\n  - Memoized non-primitive props to improve component performance.\n\n- **Overall Themes:**\n  - Focus on improving documentation and usability of components.\n  - Continuous enhancements to UI components, including styling adaptations and performance optimizations.\n  - Regular version updates and maintenance through multiple merged PRs.",
+          "issueCount": 5,
+          "prCount": 17
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Major Features and Improvements:**\n  - Documentation enhancements for various components, including the addition of `BaseInput` and updates for `useBalance` and `useEtherInput` hooks.\n  - Theming page created to support global style changes.\n\n- **Bug Fixes:**\n  - Improved error handling in the `useAddress` hook to prevent crashes when invalid addresses are used.\n  - Added `valueError` field to `useEtherInput` to manage invalid input values.\n\n- **Overall Themes:**\n  - Focus on documentation improvements and user experience enhancements.\n  - Significant attention to error handling and validation within hooks to enhance stability.",
+          "issueCount": 5,
+          "prCount": 12
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Dependency Updates**: Multiple pull requests were merged to update dependencies, including:\n  - React upgraded to version 19.2.3.\n  - Next.js versions updated in several PRs (merged #83, #89).\n  \n- **Configuration Enhancements**: \n  - Default configuration for wagmi was adjusted to prioritize the 0th chain (merged #86).\n  - Permissions for OIDC were configured to enhance trusted publishing for npm (merged #84).\n  \n- **Version Management**: \n  - Several PRs related to versioning packages were merged, indicating preparation for upcoming releases (merged #90, #88, #81).\n\n- **Overall Activity**: The month saw significant activity focused on dependency management and configuration improvements, with no new issues reported.",
+          "issueCount": 0,
+          "prCount": 10
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "create-eth-extensions",
+        "fullName": "scaffold-eth/create-eth-extensions"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/create-eth-extensions (2025):\n  - 12 months with activity\n  - 2 total issues\n  - 65 total PRs",
+      "stats": {
+        "totalIssues": 2,
+        "totalPRs": 65
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Updated dependencies to their latest versions, enhancing overall project stability and compatibility.\n  - Upgraded the Ponder extension from version 0.4 to 0.8, following the official migration guide.\n\n- **Bug Fixes:**\n  - Resolved an issue with the `yarn subgraph:test` command, improving functionality.\n\n- **Overall Themes:**\n  - Focus on dependency management and updates, ensuring the project remains current with external libraries.\n  - Addressed specific user-reported issues, demonstrating responsiveness to community needs.",
+          "issueCount": 1,
+          "prCount": 3
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **New Features and Improvements:**\n  - Added new templates to enhance functionality (#54).\n  - Implemented verification for OP Retro Funding round 7 (#53).\n  - Updated `subgraph` extension modules, including upgrades to `graph-cli` and `graph-node` (#51).\n\n- **Closed Pull Requests:**\n  - One pull request was closed without merging, focusing on updating example configurations (#52).\n\n- **Overall Themes:**\n  - The month saw a focus on enhancing templates and module updates, indicating ongoing development and maintenance of the repository. No issues were reported or created during this period.",
+          "issueCount": 0,
+          "prCount": 4
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #58: Updated beta Tailwind configuration.\n  - Merged PR #57: Updated scaffold and Hardhat configuration for the new beta version of the template.\n\n- **Closed Pull Requests:**\n  - PR #56: Closed with an example for scaffold configuration, though not merged.\n  - PR #55: Closed after updating subgraph dependencies, but not merged.\n\n- **Overall Themes:**\n  - Focus on updating configurations and dependencies for the beta version.\n  - No new issues were created, indicating a stable month in terms of reported problems.",
+          "issueCount": 0,
+          "prCount": 4
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Updated dependencies to the latest versions, enhancing overall performance and compatibility.\n  - Introduced updates to the beta version, including new arguments and example files for testing.\n\n- **Bug Fixes:**\n  - Fixed a bug in `schema.graphql` related to dependencies.\n  - Corrected the Docker Compose command to ensure compatibility with the new version of Docker.\n\n- **Overall Themes:**\n  - Focus on updating and maintaining dependencies to improve functionality.\n  - Enhancements aimed at supporting ongoing testing and development efforts within the project.",
+          "issueCount": 0,
+          "prCount": 5
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth-extensions in May 2025\n\n- **Merged Pull Requests**: A total of 5 pull requests were successfully merged, indicating active development.\n- **Feature Enhancements**: \n  - Added new examples and updates related to the \"extra examples\" feature, enhancing the repository's functionality.\n  - Introduced an example address type to improve usability.\n- **Configuration Changes**: Removed the `tailwind.config.mjs` file, streamlining the project setup.\n- **Overall Theme**: The focus this month was on refining examples and improving the overall structure of the project without any reported issues or bug fixes.",
+          "issueCount": 0,
+          "prCount": 5
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for June 2025\n\n- **Major Features and Improvements:**\n  - Multiple extensions migrated to beta, including Randao, Subgraph, ERC-20, ERC-721, and Ponder extensions.\n  - Updates to the burner wallet to comply with EIP-5792.\n  - Enhancements to example configurations for scaffold and Hardhat.\n\n- **Bug Fixes:**\n  - Resolved a warning in the Next.js configuration during startup.\n\n- **Overall Themes:**\n  - Focus on migrating existing features to a beta version.\n  - Continuous improvement of the development environment and configurations.\n  - No new issues were created, indicating a stable month with a focus on enhancements rather than problem resolution.",
+          "issueCount": 0,
+          "prCount": 13
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for July 2025\n\n- **Documentation Updates**: Multiple README files were updated for various ERC standards (ERC-20, ERC-721, EIP-712, EIP-5792, and others), enhancing clarity and usability.\n- **Custom Scripts**: Introduced custom root scripts for Solidity frameworks, improving the framework's flexibility and functionality.\n- **Extension Documentation**: Created comprehensive documentation for extensions, including a fix for a broken link in the Ponder extension README.\n- **Configuration Improvement**: Updated the Ponder configuration to use `deployedOnBlock` as the starting block, streamlining deployment processes.\n- **Closed PR**: One pull request related to updating subgraph modules was closed without merging, indicating ongoing maintenance efforts. \n\nNo significant bug fixes were reported this month.",
+          "issueCount": 0,
+          "prCount": 12
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #98 introduced linting for Create-eth instances with example extensions, enhancing code quality on the `example` branch.\n  \n- **Bug Fixes:**\n  - Merged PR #95 addressed a mismatch in template arguments for the EIP-712 extension, ensuring proper functionality when creating new projects.\n\n- **Overall Themes:**\n  - Focus on improving code quality through linting and resolving template issues.\n  - Ongoing development of the porto extension, though it remains in an open issue state without a merged PR.",
+          "issueCount": 1,
+          "prCount": 4
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### September 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #99 introduced a new `requestsHash` header for block hash calculations, essential for functionality on live networks.\n  \n- **Updates:**\n  - Closed PR #100 updated `subgraph` dependencies to the latest version, ensuring compatibility and access to new features.\n\n- **Overall Activity:**\n  - No issues were created this month, indicating a focus on maintenance and updates rather than new feature development.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features and Improvements:**\n  - Added the envio extension, enhancing functionality (PR #102).\n  - Implemented support for passing global variables in extensions (PR #104).\n  - Updated examples of .gitignore files to improve project setup (PR #105).\n  - Made updates to the porto extension, fixing initialization errors and enhancing multi-chain support (PR #101).\n\n- **Bug Fixes:**\n  - Resolved initialization errors in the porto extension, with updates reflected in the README (PR #101).\n\n- **Overall Themes:**\n  - Focus on enhancing extension capabilities and improving documentation.\n  - Active development with multiple merged pull requests indicating ongoing feature expansion.",
+          "issueCount": 0,
+          "prCount": 5
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements**: \n  - Successfully merged six pull requests focused on migrating various components, including:\n    - ERC-721\n    - EIP-5792\n    - ERC-20\n    - Ponder\n    - Subgraph\n    - Example\n\n- **Bug Fixes**: \n  - No bug fixes were reported this month.\n\n- **Overall Themes**: \n  - The month was dedicated to significant migration efforts, enhancing compatibility and functionality across multiple Ethereum standards and tools.",
+          "issueCount": 0,
+          "prCount": 6
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### Summary for December 2025 - scaffold-eth/create-eth-extensions\n\n- **Major Improvements:**\n  - Upgraded Ponder from version 0.8.15 to 0.15.17, introducing several improvements despite a few breaking changes.\n\n- **Pull Requests:**\n  - One pull request (#113) was opened to update subgraph modules, but it remains unmerged.\n\n- **Overall Activity:**\n  - No issues were created this month, indicating a period of limited activity aside from the ongoing upgrade efforts.",
+          "issueCount": 0,
+          "prCount": 2
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "geodelabs",
+        "repo": "ethereum-job-board",
+        "fullName": "geodelabs/ethereum-job-board"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for geodelabs/ethereum-job-board (2025):\n  - 7 months with activity\n  - 24 total issues\n  - 29 total PRs",
+      "stats": {
+        "totalIssues": 24,
+        "totalPRs": 29
+      },
+      "months": [
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Implemented a job offers import script from Google Sheets, facilitating easier job listing management.\n  - Developed a job posting form and basic admin flow, allowing for job submissions and administrative review.\n  - Established the initial database schema and display for job listings, enhancing data organization and accessibility.\n  - Created a basic job listing page to showcase available positions with relevant details.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted this month.\n\n- **Overall Themes:**\n  - Focus on building foundational features for job management and database integration.\n  - Emphasis on improving user experience through streamlined job posting and listing processes.",
+          "issueCount": 8,
+          "prCount": 5
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Enhanced job posting flow with a new submission form for users and admin capabilities to add/edit companies and check submissions (#34).\n  - Implemented a styled newsletter widget, improving user engagement (#33).\n  - Configured Sign-In with Ethereum (SIWE) for user authentication, integrating wallet connection features (#31).\n\n- **Content Updates:**\n  - Updated branding by changing references from \"Web3\" to \"Ethereum\" in images (#30).\n  - Revised legal text and contact information for clarity and compliance (#28).\n\n- **Overall Themes:**\n  - Focus on improving user experience through enhanced forms and visual elements.\n  - Strengthening administrative functionalities for better job management.\n  - Consistent branding adjustments to align with the Ethereum ecosystem.",
+          "issueCount": 5,
+          "prCount": 6
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### May 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Implemented SEO-friendly URL slugs for companies and jobs, enhancing user experience and searchability.\n  - Added contact details to job submissions, improving communication for job postings.\n  - Developed a company detail page that lists all associated jobs, providing better navigation for users.\n  - Introduced a new \"Apply Now\" button, streamlining the application process.\n  - Implemented tracking features for better analytics.\n\n- **Closed Issues:**\n  - Resolved issues related to URL slugs and contact details for job postings.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved navigation and communication features.\n  - Emphasis on SEO and tracking capabilities to support better visibility and data collection.",
+          "issueCount": 2,
+          "prCount": 6
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for geodelabs/ethereum-job-board in June 2025\n\n- **Major Features/Improvements:**\n  - Merged several pull requests enhancing user interaction, including:\n    - Allowing emails on the edit form and Apply links.\n    - Updating copy for clarity.\n  \n- **Bug Fixes:**\n  - Resolved hyperlink formatting issues on company profiles (Issue #50 closed).\n\n- **Content Management:**\n  - Removed the Ethereum Season of Internships banner and related listings in preparation for the application deadline (Issues #48 and #49 closed).\n\n- **Ongoing Work:**\n  - An open issue (#47) indicates plans to revamp the admin interface for better usability as job postings increase.",
+          "issueCount": 3,
+          "prCount": 5
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for geodelabs/ethereum-job-board in July 2025\n\n- **Major Features and Improvements:**\n  - Merged a new `/advertise` page, enhancing visibility for job postings.\n  - Revamped the admin panel, adding tabs, search, and sorting functionalities for better management.\n  - Implemented Markdown rendering for company descriptions, improving link styling and overall presentation.\n\n- **Closed Issues:**\n  - Randomized job listings and company displays on the main page to enhance user experience.\n  - Fixed the redirect link for \"Your Featured Job,\" ensuring proper navigation for users.\n\n- **Overall Themes:**\n  - Focus on enhancing user interface and experience through randomization and improved content display.\n  - Significant updates to the admin panel for better usability.",
+          "issueCount": 3,
+          "prCount": 3
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Merged PRs introduced enhancements such as:\n    - A cron job to check for dead links, improving site maintenance.\n    - Displaying the latest job per company on the homepage for better visibility.\n    - Implemented sorting for companies to enhance user experience.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, the addition of the dead link checker may help prevent future issues.\n\n- **Overall Themes:**\n  - Focus on improving user experience through better job visibility and site functionality.\n  - Ongoing enhancements aimed at automating tasks to reduce manual checks. \n\n- **Open Issues:**\n  - One enhancement issue regarding monetization remains open, indicating future development plans.",
+          "issueCount": 2,
+          "prCount": 3
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for geodelabs/ethereum-job-board\n\n- **Footer Update**: The footer text was updated from \"Geodework\" to \"Geode Labs,\" and the URL was changed to https://geode.build/ (merged PR #63).\n- **Issue Resolution**: The related issue (#62) was successfully closed following the merge of the pull request.\n- **Overall Activity**: The month saw minimal activity with only one issue and one pull request addressed.",
+          "issueCount": 1,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "BuidlGuidl",
+        "repo": "ctf.buidlguidl.com",
+        "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for BuidlGuidl/ctf.buidlguidl.com (2025):\n  - 7 months with activity\n  - 9 total issues\n  - 31 total PRs",
+      "stats": {
+        "totalIssues": 9,
+        "totalPRs": 31
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Major Features and Improvements:**\n  - Enhanced the homepage with a description, gameplay instructions, and a flag tracking feature to monitor progress (#10, merged).\n  - Updated the main repository README to include setup instructions and additional context for the extension (#15, merged).\n  - Implemented a notification system for users when they mint a flag (#9, closed).\n\n- **Bug Fixes:**\n  - Resolved a critical issue with the stats API that previously caused a 500 error when accessing the stats page (#14, merged).\n  - Fixed issues related to user data fetching on the profile page (#5, merged).\n\n- **Overall Themes:**\n  - Focus on improving user experience through better documentation and interface tweaks.\n  - Addressing bugs and enhancing functionality to ensure smoother operation of the platform.",
+          "issueCount": 5,
+          "prCount": 11
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **User Interface Improvements**:\n  - Merged PRs focused on enhancing the layout and usability of the stats tables and mobile header/footer.\n  - Adjusted column alignment in stats tables for better readability and added dividers for clarity.\n\n- **Stats Page Enhancements**:\n  - Reorganized the stats page by moving the \"Flags\" section to the top and sorting sections in ascending order for improved user experience.\n\n- **No Bug Fixes**:\n  - No significant bug fixes were reported this month.\n\nOverall, the activity this month primarily centered around user interface enhancements and improving the organization of information on the site.",
+          "issueCount": 0,
+          "prCount": 3
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### May 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Merged Pull Request**: \n  - #21 introduced tweaks to the extension, aligning it with the latest SE-2 changes and ensuring the scripts directory functions with encrypted private keys for Hardhat and Foundry.\n\n- **Open Issue**: \n  - #20 highlights the need to update the deployment section for Optimism in the README, indicating ongoing documentation improvements.\n\n- **Overall Activity**: \n  - The month featured a focus on enhancing the extension's functionality, with a significant update completed through the merged PR. However, there remains an open issue related to documentation updates.",
+          "issueCount": 1,
+          "prCount": 1
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/ctf.buidlguidl.com in July 2025\n\n- **Pull Requests Merged**: \n  - One pull request was merged, addressing a minor issue with the `.env.example` file by correcting the deployer key variable name.\n  \n- **Bug Fixes**: \n  - The merged pull request resolved a potential misconfiguration in the environment variable setup, which could impact deployment.\n\n- **Overall Activity**: \n  - There was minimal activity this month, with no new issues created and only one pull request merged.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/ctf.buidlguidl.com in August 2025\n\n- **Merged Pull Requests**:\n  - **#24**: Added a support link for Telegram (TG), enhancing user communication.\n  - **#23**: Updated the `create-eth` version for the extension, addressing compatibility issues with the latest template arguments.\n\n- **Closed Pull Requests**:\n  - **#25**: Updated args files with the latest arguments; however, encountered deployment errors with `foundry`.\n\n- **Overall Themes**:\n  - Focus on improving user support and ensuring compatibility with the latest development tools.\n  - No new issues were created, indicating a stable month with ongoing refinements rather than new feature requests.",
+          "issueCount": 0,
+          "prCount": 3
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "- **Feature Proposal**: An issue was opened (#26) to introduce the concept of \"Seasons\" into the CTF, allowing for the addition of annual challenge sets.\n- **No Pull Requests**: There were no pull requests created or merged during November 2025.\n- **Limited Activity**: Overall, the activity in the repository was minimal, with only one open issue and no completed work.",
+          "issueCount": 1,
+          "prCount": 0
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Major Features and Improvements:**\n  - Upgraded to the latest Next.js version to address security vulnerabilities.\n  - Introduced seasonal features, including the addition of seasons to statistics, challenges, and the extension.\n  - Enhanced user experience with improved profile pages for new users and better landing page design.\n  - Updated FAQs to reflect new seasonal content and structure.\n\n- **Bug Fixes:**\n  - Notable bug fixes were not explicitly mentioned; however, improvements to the profile page and token requirements for Season 2 suggest enhancements to user experience and functionality.\n\n- **Overall Themes:**\n  - A significant focus on seasonal updates and user interface improvements, indicating a shift towards a more engaging user experience.\n  - Consolidation of contracts and resources for better organization and deployment efficiency.",
+          "issueCount": 2,
+          "prCount": 12
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "se-2-docs",
+        "fullName": "scaffold-eth/se-2-docs"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/se-2-docs (2025):\n  - 10 months with activity\n  - 6 total issues\n  - 23 total PRs",
+      "stats": {
+        "totalIssues": 6,
+        "totalPRs": 23
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for scaffold-eth/se-2-docs\n\n- **Feature Addition**: Merged PR #113 introduced the `yarn vercel:login` command to the \"Deploy Your NextJS App\" section, enhancing the deployment process for users.\n- **No Issues**: No new issues were created during the month, indicating a stable state for the repository.\n- **Overall Activity**: Limited activity with only one merged pull request, focusing on improving deployment documentation.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/se-2-docs\n\n- **Merged Pull Requests:**\n  - Added Retro Funding verification for Round 7, enhancing documentation for this funding round.\n  - Updated node version requirement to align with recent changes in the scaffold-eth repository.\n\n- **Issue Resolution:**\n  - Closed issue #114 regarding the correct usage of hooks and type bindings for external contracts, improving clarity in documentation.\n\n### Overall Themes:\n- Focus on enhancing documentation related to funding and technical requirements.\n- Addressed specific user queries to improve the usability of the documentation.",
+          "issueCount": 1,
+          "prCount": 2
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Enhancements**: \n  - Merged PRs added significant content, including:\n    - Basic information on deploying apps to IPFS (#122).\n    - A hint for using `:yolo` and `:yolo --prod` (#120).\n    - An initial version of the `llms-full.txt` file for improved documentation context (#123).\n    - Updates to the README in line with recent changes (#118).\n    - Configuration updates in `docusaurus.config.js` (#117).\n\n- **Open Issues**: \n  - One issue (#124) is open, exploring the potential migration of documentation to the vocs platform.\n\n- **Overall Themes**: \n  - The focus was on enhancing documentation clarity and usability, particularly around deployment processes and integration with IPFS.\n  - There is ongoing exploration for future documentation improvements, indicating a proactive approach to evolving the project.",
+          "issueCount": 2,
+          "prCount": 6
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### May 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Update**: Merged PR #125 added explanations for the `yarn account:reveal-pk` command, enhancing the documentation for Hardhat and Foundry.\n- **No Issues**: No new issues were created during this month.\n- **Limited Activity**: Overall activity was minimal, with only one pull request merged.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### June 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged PR #128 to add an introductory video to the welcome page, enhancing user engagement.\n\n- **Closed Pull Requests:**\n  - PR #127 and PR #126, both related to guides for deploying Next.js apps to IPFS, were closed without merging.\n\n- **Overall Themes:**\n  - Focus on improving documentation with multimedia content, while also addressing deployment guides, though the latter did not result in merged contributions. \n\n- **Bug Fixes:**\n  - No significant bug fixes reported this month.",
+          "issueCount": 0,
+          "prCount": 3
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### July 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged PR #130: Updated documentation for `useDeployedContractInfo` and `useScaffoldEventHistory`, including the addition of `deployedOnBlock`.\n  - Merged PR #129: Updated the `useScaffoldEventHistory` hook to reflect recent changes from related scaffold-eth repositories.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted this month.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and functionality for event handling in the scaffold-eth framework.\n  - Ongoing improvements to hooks related to contract interactions.",
+          "issueCount": 1,
+          "prCount": 2
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### August 2025 Summary for scaffold-eth/se-2-docs\n\n- **Merged Pull Requests:**\n  - **Feature Update:** Merged PR #134 introduced an update to the `createExtension`, enhancing functionality.\n  \n- **Open Issues:**\n  - **Documentation Improvement:** Issue #133 addresses typos and clarity in the `useScaffoldEventHistory` hook documentation, aiming to improve readability.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation quality and clarity.\n  - Development of new features related to contract events, with ongoing work in PR #132.",
+          "issueCount": 1,
+          "prCount": 2
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### September 2025 Summary for scaffold-eth/se-2-docs\n\n- **Pull Requests Closed**: Two pull requests were closed this month.\n  - **#136**: Updated the README.md to include information about RILCOIN, an advanced digital currency.\n  - **#135**: Added documentation for the Vercel deployment checklist and clarified the use of `NEXT_PUBLIC` environment variables.\n\n- **No Issues Created**: There were no new issues reported during this period.\n\n- **Overall Activity**: The focus was on enhancing documentation related to deployment and updating the README, indicating an emphasis on improving user guidance and clarity.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged Pull Request #138 focused on migrating to vocs, enhancing documentation accessibility and functionality.\n\n- **Issues:**\n  - One open issue (#137) regarding the removal of the components example, indicating a shift towards using Scaffol-ui.\n\n- **Overall Themes:**\n  - The activity reflects a transition towards improved documentation practices and the integration of new tools, with a focus on refining existing content.",
+          "issueCount": 1,
+          "prCount": 1
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Updates:**\n  - Merged PR #141 included updates to Vocs documentation, fixing the walletClient link and adjusting the layout.\n  - Merged PR #140 corrected a 404 link in the intro.md file, enhancing accessibility.\n\n- **Ongoing Work:**\n  - PR #139 is currently open, proposing to improve the loading state handling in the documentation by using `isSuccess` instead of `isLoading`.\n\n- **Overall Themes:**\n  - Focus on improving documentation clarity and accuracy.\n  - Ongoing enhancements to user experience through better state management in examples. \n\nNo significant bug fixes were reported this month.",
+          "issueCount": 0,
+          "prCount": 3
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "technophile-04",
+        "repo": "burner-connector",
+        "fullName": "technophile-04/burner-connector"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for technophile-04/burner-connector (2025):\n  - 11 months with activity\n  - 3 total issues\n  - 24 total PRs",
+      "stats": {
+        "totalIssues": 3,
+        "totalPRs": 24
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for technophile-04/burner-connector\n\n- **Major Features/Improvements:**\n  - Merged PR #27 to allow custom RPC URLs, enhancing flexibility for users.\n  \n- **Version Updates:**\n  - Merged three PRs (#29, #30, #31) related to versioning and publishing packages, ensuring the repository is up-to-date and ready for npm releases.\n\n- **Bug Fixes:**\n  - Closed issue #28 addressing a bug related to switching between chains with the Burner wallet.\n\n- **Overall Themes:**\n  - Focus on improving user configuration options and maintaining package versioning for smoother releases.",
+          "issueCount": 2,
+          "prCount": 4
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for technophile-04/burner-connector\n\n- **Major Features/Improvements**: \n  - Merged Pull Request #32 added verification for OP Retro Funding round 7, enhancing the repository's functionality related to funding verification.\n\n- **Bug Fixes**: \n  - No bug fixes were reported this month.\n\n- **Overall Themes**: \n  - Activity was limited to a single merged pull request, indicating focused development on specific features rather than broader changes or multiple improvements.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 3,
+          "monthName": "March",
+          "summary": "### March 2025 Summary for technophile-04/burner-connector\n\n- **Merged Pull Requests**: A total of three pull requests were merged, indicating active development.\n- **Feature Improvements**:\n  - Updated dependencies with PR #33, enhancing compatibility with the latest RPC URLs.\n  - Version packages were updated in PR #34, preparing for a new release.\n- **Bug Fixes**:\n  - PR #35 addressed a specific issue related to the `connectedChainId`, improving transaction handling when `chainId` is not provided.\n- **Overall Themes**: The focus this month was on dependency management and improving transaction reliability, reflecting ongoing maintenance and enhancement of the project.",
+          "issueCount": 0,
+          "prCount": 3
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for technophile-04/burner-connector\n\n- **Pull Requests**: One pull request was merged (#36), focusing on versioning packages, which prepares the project for publishing to npm.\n- **Issues**: No new issues were created this month.\n- **Overall Activity**: The activity was minimal, with a single PR indicating a focus on maintenance rather than new features or significant improvements.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for technophile-04/burner-connector in May 2025\n\n- **Major Features/Improvements:**\n  - Implemented support for EIP-5792, enabling sequential transactions for sendCalls (PR #39).\n  - Updated dependencies and packages in preparation for a release (PRs #41 and #40).\n  - Upgraded the wagmi and viem libraries, enhancing compatibility with rainbowkit (PR #38).\n\n- **Bug Fixes:**\n  - No notable bug fixes were reported this month.\n\n- **Overall Themes:**\n  - Focus on enhancing the burner connector's functionality with new standards (EIP-5792).\n  - Preparation for future releases through version updates and dependency management.",
+          "issueCount": 1,
+          "prCount": 4
+        },
+        {
+          "month": 6,
+          "monthName": "June",
+          "summary": "### Summary of GitHub Activity for technophile-04/burner-connector in June 2025\n\n- **Major Features and Improvements:**\n  - Updated dependencies by merging PR #42, which involved upgrading `wagmi`, `viem`, and `rainbowkit` versions.\n  - Version packages were published as part of PR #43, facilitating future releases.\n\n- **Bug Fixes:**\n  - Merged PR #44 addressed a bug where dependent calls were breaking gas estimation for approve swaps, improving transaction execution reliability.\n\n- **Overall Themes:**\n  - The focus this month was on dependency management and addressing critical issues impacting functionality, ensuring smoother operation and preparation for future releases.",
+          "issueCount": 0,
+          "prCount": 3
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### July 2025 Summary for technophile-04/burner-connector\n\n- **Pull Requests**: One pull request (#45) was merged, focusing on versioning packages for future releases.\n- **No Issues**: No new issues were created during the month.\n- **Overall Activity**: The primary activity was related to preparing for package releases, indicating a focus on maintaining and updating dependencies. No significant bug fixes or feature developments were reported.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for August 2025\n\n- **Version Updates**: Merged PR #46 updated the versions of wagmi, viem, and rainbow, addressing compatibility issues.\n- **Package Management**: Merged PR #47 prepared the repository for a release by versioning packages for publication to npm.\n- **No Issues**: No new issues were created this month, indicating stable operation without reported problems.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 10,
+          "monthName": "October",
+          "summary": "### October 2025 Summary for technophile-04/burner-connector\n\n- **Package Management**: Merged PR #49 to version packages, facilitating future releases and npm publishing.\n- **Dependency Updates**: Merged PR #48 to bump the versions of `wagmi` and `viem`, ensuring the project uses the latest features and fixes from these libraries.\n- **Overall Activity**: No new issues were created, indicating a focus on maintenance and updates rather than new feature development.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### November 2025 Summary for technophile-04/burner-connector\n\n- **Merged Pull Requests**: \n  - **Version Packages**: Merged PR #51 to prepare for package release to npm.\n  - **Update Dependencies**: Merged PR #50 to update the `wagmi` and `viem` packages, including a changeset.\n\n- **No Issues**: No new issues were created this month.\n\n- **Overall Activity**: The focus was on updating dependencies and preparing for package releases, indicating maintenance and readiness for future enhancements.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "- Merged Pull Request #52 focused on configuring permissions, contributing to improved access control within the project.\n- No issues were created or addressed this month, indicating a lack of reported problems or feature requests.\n- Overall, December 2025 saw minimal activity with only one significant contribution.",
+          "issueCount": 0,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "BuidlGuidl",
+        "repo": "abi.ninja",
+        "fullName": "BuidlGuidl/abi.ninja"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for BuidlGuidl/abi.ninja (2025):\n  - 8 months with activity\n  - 4 total issues\n  - 17 total PRs",
+      "stats": {
+        "totalIssues": 4,
+        "totalPRs": 17
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "### January 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Improvements:**\n  - Merged PR #170 updated several packages, including rainbowkit and viem, and resolved issues with the Sepolia RPC, enhancing overall functionality.\n\n- **Bug Fixes:**\n  - Closed issue #169 addressed the Sepolia RPC downtime by updating the viem version, ensuring better connectivity.\n\n- **Other Pull Requests:**\n  - Two additional PRs (#172 and #171) were closed, contributing to local storage functionality and network data management, respectively.\n\n- **Overall Theme:**\n  - The focus this month was on improving package dependencies and addressing critical RPC issues, which enhances the reliability of the application.",
+          "issueCount": 1,
+          "prCount": 3
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Features and Improvements:**\n  - Updated the README to reflect recent changes and highlight new features (PR #178).\n  - Added verification for OP Retro Funding round 7 (PR #177).\n  - Integrated updates for wagmi, viem, and rainbowkit, including support for the monad testnet (PR #176).\n  - Introduced a \"Decompile\" button on the network page to enhance user functionality (PR #174).\n\n- **Bug Fixes:**\n  - Resolved a linking issue related to the use of himdell for function names (Issue #173).\n\n- **Overall Themes:**\n  - Focus on improving documentation and user experience through feature enhancements.\n  - Active maintenance and updates to dependencies and network configurations.",
+          "issueCount": 1,
+          "prCount": 5
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Features/Improvements**: \n  - Merged Pull Request #179 introduced a copy button to the contract write interface, enhancing user experience by allowing users to easily copy calldata.\n\n- **Bug Fixes**: \n  - No bug fixes were reported this month.\n\n- **Overall Activity**: \n  - Minimal activity with only one merged pull request, indicating a focus on a single feature enhancement. No new issues were created.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja in May 2025\n\n- **Major Features/Improvements:**\n  - Merged PR #180 introduced the display of contract creation information in the Contract Overview card, enhancing user experience by linking to creation transactions on block explorers.\n\n- **Bug Fixes:**\n  - Closed PR #181 addressed a minor typo in a comment within the `ContractUI.tsx` file.\n\n- **Overall Themes:**\n  - The month focused on minor improvements and documentation clarity, with no new issues reported.",
+          "issueCount": 0,
+          "prCount": 2
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja - August 2025\n\n- **Major Improvements:**\n  - Upgraded Yarn to version 4.9.4.\n  - Updated multiple packages, including Next.js and React, to their latest versions, enhancing overall performance and compatibility.\n\n- **Bug Fixes:**\n  - Closed issue #184, addressing a bug related to rate limiting when loading contracts, which was resolved by enhancing the DisplayVariable component to manage data fetching timing.\n\n- **Overall Themes:**\n  - Focus on upgrading dependencies to ensure the project remains up-to-date and functional.\n  - Addressing performance issues related to API rate limits, improving user experience.",
+          "issueCount": 2,
+          "prCount": 3
+        },
+        {
+          "month": 9,
+          "monthName": "September",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja in September 2025\n\n- **Pull Request Merged**: \n  - #188 was closed, updating several dependencies: Wagmi, Viem, Abitype, Rainbowkit, and tanstack.\n  \n- **No Issues**: \n  - No new issues were created during the month.\n\n- **Overall Activity**: \n  - The primary focus was on maintaining and updating dependencies, with no significant feature additions or bug fixes reported.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja - November 2025\n\n- **Feature Enhancement**: Work was done on enhancing ABI fetching capabilities by adding support for Sourcify and the 4bytes directory.\n- **Pull Request Status**: One pull request (#190) was opened but remains unmerged.\n- **No Issues**: No new issues were created during the month.\n- **Overall Activity**: Limited activity with a focus on improving ABI retrieval methods.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "- No issues were created in December 2025.\n- One pull request (#191) was opened to update the viem library for access to the latest chainlist, enhancing support for more chains.\n- There were no merged pull requests or significant bug fixes reported this month.\n- Overall, the activity indicates a focus on improving library dependencies without any completed features or fixes.",
+          "issueCount": 0,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "BuidlGuidl",
+        "repo": "grants.buidlguidl.com",
+        "fullName": "BuidlGuidl/grants.buidlguidl.com"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for BuidlGuidl/grants.buidlguidl.com (2025):\n  - 6 months with activity\n  - 6 total issues\n  - 8 total PRs",
+      "stats": {
+        "totalIssues": 6,
+        "totalPRs": 8
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "- Closed one issue related to updating a builder's address due to account compromise.\n- No pull requests were created or merged during the month.\n- Overall activity was minimal, with only one issue addressed.",
+          "issueCount": 1,
+          "prCount": 0
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### May 2025 Summary for BuidlGuidl/grants.buidlguidl.com\n\n- **Major Features/Improvements:**\n  - Merged PR #145 introduced eligibility criteria for grant applications based on completed SpeedRun Ethereum challenges, enhancing the application process.\n  - Merged PR #144 updated builder links from BG3.5 to SRE, ensuring grant completion logic aligns with the new SRE framework.\n\n- **Issues Closed:**\n  - Issue #143 was closed, addressing the need to reference SRE builds instead of BG3.5 builds in grant completion.\n  - Issue #142 was closed, updating grant eligibility criteria to utilize SpeedRun Ethereum data.\n\n- **Overall Themes:**\n  - The focus this month was on transitioning from BG3.5 to SRE, improving grant application eligibility, and ensuring all references and logic are aligned with the new system.",
+          "issueCount": 2,
+          "prCount": 2
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/grants.buidlguidl.com - July 2025\n\n- **Feature Improvement**: Closed issue #146 focused on fetching builders data from the SRE API to enhance the display of builder information in the admin section.\n- **Pull Requests**: No pull requests were created or merged this month.\n- **Overall Activity**: Limited activity with only one issue closed, indicating a focus on improving data integration rather than broader development efforts.",
+          "issueCount": 1,
+          "prCount": 0
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for BuidlGuidl/grants.buidlguidl.com in August 2025\n\n- **Major Features and Improvements:**\n  - Implemented an API call to mark SRE builds as BG-granted upon grant completion (#150).\n  - Added functionality to link to builds in the user interface when grants are submitted or completed (#149).\n  - Updated data fetching for builders and user roles to utilize the SRE API instead of outdated Firebase data (#148).\n  - Adjusted grant amounts in response to changes in ETH price, lowering from 0.15 to 0.08 (#147).\n\n- **Bug Fixes:**\n  - No significant bug fixes were reported this month.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved linking and data accuracy.\n  - Adaptation to external changes, such as ETH price fluctuations and data source migrations.",
+          "issueCount": 0,
+          "prCount": 4
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "- Standardized naming conventions to 'Speedrun Ethereum' across the repository, enhancing consistency in branding and documentation.\n- No issues were created or addressed this month.\n- Only one pull request was closed, indicating limited activity overall.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 12,
+          "monthName": "December",
+          "summary": "### December 2025 Summary for BuidlGuidl/grants.buidlguidl.com\n\n- **Bug Fixes**: \n  - Merged Pull Request #154 addressed security vulnerabilities (CVE-2025-55184 and CVE-2025-55183), enhancing the repository's security.\n\n- **Issues Management**:\n  - One issue (#152) was closed after updating a builder address from a compromised wallet, ensuring funds are directed to a secure wallet.\n  - One issue (#153) remains open, indicating ongoing concerns regarding another compromised builder.\n\n- **Overall Themes**:\n  - Focus on security and integrity of grant management by addressing compromised wallets.\n  - Minimal activity with only one merged PR and two issues, one of which is still pending resolution.",
+          "issueCount": 2,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "scaffold-eth",
+        "repo": "buidlguidl-v3",
+        "fullName": "scaffold-eth/buidlguidl-v3"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for scaffold-eth/buidlguidl-v3 (2025):\n  - 6 months with activity\n  - 5 total issues\n  - 5 total PRs",
+      "stats": {
+        "totalIssues": 5,
+        "totalPRs": 5
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "- Closed one issue (#121) related to prerequisites for the project, specifically requiring Node (v16 LTS) and Yarn.\n- No pull requests were created or merged during January 2025.\n- Overall, the activity this month was minimal, focusing solely on addressing a prerequisite clarification.",
+          "issueCount": 1,
+          "prCount": 0
+        },
+        {
+          "month": 2,
+          "monthName": "February",
+          "summary": "### February 2025 Summary for scaffold-eth/buidlguidl-v3\n\n- **Feature Improvement**: Merged PR #122 implemented the use of Ponder to fetch data for the `/admin/cohorts` page, enhancing data retrieval capabilities.\n- **Open Issue**: Issue #123 was raised regarding the failure to fetch new cohort withdrawals in the `/activity` endpoint, indicating a potential regression from a previous commit.\n- **Overall Activity**: Limited activity this month with only one merged PR and one open issue, suggesting a focus on refining existing features rather than introducing new ones.",
+          "issueCount": 1,
+          "prCount": 1
+        },
+        {
+          "month": 4,
+          "monthName": "April",
+          "summary": "### April 2025 Summary for scaffold-eth/buidlguidl-v3\n\n- **Feature Enhancement**: \n  - Merged PR #126 to fetch Builder Challenge data from the new SREv2 API, improving the integration of builder data in the application.\n\n- **Issue Resolution**: \n  - Closed issue #124 regarding the update of SRE challenges table data origin on the builders page, ensuring new builders from SREv2 can see their challenges.\n\n- **Overall Theme**: \n  - Focus on integrating new data sources (SREv2) to enhance user profiles and builder experience.",
+          "issueCount": 1,
+          "prCount": 1
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in May 2025\n\n- **Feature Improvements:**\n  - Merged PR #129 to disable write functionality, enhancing user experience by showing a notification banner.\n\n- **Issues Closed:**\n  - Closed Issue #128 to disable batch management, ensuring the workflow relies solely on the SREv2 database.\n  - Closed Issue #127 to either hide location data or update it using SREv2, streamlining data presentation.\n\n- **Overall Themes:**\n  - Focus on refining user interface and data management by limiting unnecessary features and aligning with SREv2 standards.",
+          "issueCount": 2,
+          "prCount": 1
+        },
+        {
+          "month": 7,
+          "monthName": "July",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in July 2025\n\n- **Pull Requests Merged**: \n  - One pull request (#130) was merged, which involved updating text in the anonymousMenu to improve user clarity.\n\n- **Issues**: \n  - No new issues were created this month.\n\n- **Overall Activity**: \n  - Minimal activity with only one merged PR focused on user interface improvement. No significant bug fixes or new features were introduced.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 8,
+          "monthName": "August",
+          "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in August 2025\n\n- **Feature Improvement**: Merged PR #131 introduced server-side redirection logic for build pages, enhancing user navigation to the new SRE build page.\n- **No Issues**: No new issues were created during this month.\n- **Overall Activity**: Limited activity with only one merged pull request, focusing on improving the build page functionality.",
+          "issueCount": 0,
+          "prCount": 1
+        }
+      ]
+    },
+    {
+      "repo": {
+        "owner": "BuidlGuidl",
+        "repo": "sandgarden.buidlguidl.com",
+        "fullName": "BuidlGuidl/sandgarden.buidlguidl.com"
+      },
+      "metaSummary": "[DRY RUN] Would generate meta-summary for BuidlGuidl/sandgarden.buidlguidl.com (2025):\n  - 3 months with activity\n  - 1 total issues\n  - 2 total PRs",
+      "stats": {
+        "totalIssues": 1,
+        "totalPRs": 2
+      },
+      "months": [
+        {
+          "month": 1,
+          "monthName": "January",
+          "summary": "- **Feature Improvement**: Merged Pull Request #15 updated the GraphQL query to utilize the latest version of Ponder, enhancing functionality.\n- **No Issues**: No new issues were created during January 2025.\n- **Overall Activity**: The month saw minimal activity with only one merged pull request, indicating a focus on maintaining existing features rather than introducing new ones.",
+          "issueCount": 0,
+          "prCount": 1
+        },
+        {
+          "month": 5,
+          "monthName": "May",
+          "summary": "### May 2025 Summary for BuidlGuidl/sandgarden.buidlguidl.com\n\n- **UI and Design Improvements**: Successfully closed issue #16, focusing on UI design and displaying data from smart contracts.\n- **No Pull Requests**: No new pull requests were created during this month.\n- **Limited Activity**: Overall activity was minimal, with only one issue addressed.",
+          "issueCount": 1,
+          "prCount": 0
+        },
+        {
+          "month": 11,
+          "monthName": "November",
+          "summary": "- **Standardization Improvement**: Merged PR #17 focused on standardizing the naming convention to 'Speedrun Ethereum', enhancing consistency across the repository.\n- **No Issues**: No new issues were created during the month, indicating stable project conditions.\n- **Limited Activity**: Overall, the activity was minimal with only one pull request merged, reflecting a quiet month for development.",
+          "issueCount": 0,
+          "prCount": 1
+        }
+      ]
+    }
+  ]
+}

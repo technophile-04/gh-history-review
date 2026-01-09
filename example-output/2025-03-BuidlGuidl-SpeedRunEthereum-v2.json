@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Implemented the main autograder, enhancing grading functionality (#72).\n  - Launched an improved activity page inspired by the builders page (#70).\n  - Enhanced user experience with a new \"Join BG\" button logic and user profile features (#40, #42).\n  - Updated the homepage with new challenges and improved navigation links (#51, #43).\n\n- **Notable Bug Fixes:**\n  - Resolved an activity time mismatch issue, ensuring accurate challenge submission times (#53).\n  - Fixed rendering issues for complex markdown on the challenge details page (#39).\n\n- **Overall Themes:**\n  - Focus on enhancing user experience and interface improvements across various components.\n  - Significant refactoring of data management, including the deletion of the events table to streamline submissions (#50).",
+  "issueCount": 15,
+  "prCount": 19,
+  "topIssues": [
+    {
+      "number": 68,
+      "title": "Use the real autograder",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/68"
+    },
+    {
+      "number": 64,
+      "title": "Add \"View profile\" -or similar- option to the rainbowkit dropdown",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/64"
+    },
+    {
+      "number": 63,
+      "title": "Improve Register UX",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/63"
+    },
+    {
+      "number": 62,
+      "title": "When you click on address component, should open SRE builder page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/62"
+    },
+    {
+      "number": 61,
+      "title": "Activity page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/61"
+    },
+    {
+      "number": 60,
+      "title": "Join BG flow",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/60"
+    },
+    {
+      "number": 59,
+      "title": "Staging ENV vars: Autograder + BG URL",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/59"
+    },
+    {
+      "number": 58,
+      "title": "Builder has upgraded to BuidlGuidl banner",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/58"
+    },
+    {
+      "number": 57,
+      "title": "Tweak footer links",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/57"
+    },
+    {
+      "number": 56,
+      "title": "Increase readability of Disconnect option (rainbow kit) in dark mode",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/56"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 72,
+      "title": "use main autograder",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/72",
+      "merged": true
+    },
+    {
+      "number": 71,
+      "title": "Joined bg banner",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/71",
+      "merged": true
+    },
+    {
+      "number": 70,
+      "title": "activity page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/70",
+      "merged": true
+    },
+    {
+      "number": 69,
+      "title": "Address Link + My Porfolio Link",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/69",
+      "merged": true
+    },
+    {
+      "number": 67,
+      "title": "Add env vars to env dev and Vercel",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/67",
+      "merged": true
+    },
+    {
+      "number": 66,
+      "title": "Register user UX",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/66",
+      "merged": true
+    },
+    {
+      "number": 65,
+      "title": "Adapt readme to initial launch",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/65",
+      "merged": true
+    },
+    {
+      "number": 55,
+      "title": "Header buttons",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/55",
+      "merged": true
+    },
+    {
+      "number": 54,
+      "title": "Styling tweaks and add logo with link to homepage",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/54",
+      "merged": true
+    },
+    {
+      "number": 53,
+      "title": "fix: activity time mismatch",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/53",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:00.515Z"
+}

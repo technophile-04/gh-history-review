@@ -1,0 +1,53 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements**: \n  - Successfully merged six pull requests focused on migrating various components, including:\n    - ERC-721\n    - EIP-5792\n    - ERC-20\n    - Ponder\n    - Subgraph\n    - Example\n\n- **Bug Fixes**: \n  - No bug fixes were reported this month.\n\n- **Overall Themes**: \n  - The month was dedicated to significant migration efforts, enhancing compatibility and functionality across multiple Ethereum standards and tools.",
+  "issueCount": 0,
+  "prCount": 6,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 111,
+      "title": "migrate erc-721",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/111",
+      "merged": true
+    },
+    {
+      "number": 110,
+      "title": "migrate eip-5792",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/110",
+      "merged": true
+    },
+    {
+      "number": 109,
+      "title": "migrate erc20",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/109",
+      "merged": true
+    },
+    {
+      "number": 108,
+      "title": "migrate ponder",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/108",
+      "merged": true
+    },
+    {
+      "number": 107,
+      "title": "migrate subgraph",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/107",
+      "merged": true
+    },
+    {
+      "number": 106,
+      "title": "migrate example",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/106",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:38.992Z"
+}

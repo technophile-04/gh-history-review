@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for geodelabs/ethereum-job-board\n\n- **Footer Update**: The footer text was updated from \"Geodework\" to \"Geode Labs,\" and the URL was changed to https://geode.build/ (merged PR #63).\n- **Issue Resolution**: The related issue (#62) was successfully closed following the merge of the pull request.\n- **Overall Activity**: The month saw minimal activity with only one issue and one pull request addressed.",
+  "issueCount": 1,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 62,
+      "title": "Update Geodework footer text and url to Geode Labs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/62"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 63,
+      "title": "Footer: Geode Labs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/63",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:51.960Z"
+}

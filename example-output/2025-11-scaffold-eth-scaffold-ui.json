@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Major Features and Improvements:**\n  - Documentation enhancements for various components, including the addition of `BaseInput` and updates for `useBalance` and `useEtherInput` hooks.\n  - Theming page created to support global style changes.\n\n- **Bug Fixes:**\n  - Improved error handling in the `useAddress` hook to prevent crashes when invalid addresses are used.\n  - Added `valueError` field to `useEtherInput` to manage invalid input values.\n\n- **Overall Themes:**\n  - Focus on documentation improvements and user experience enhancements.\n  - Significant attention to error handling and validation within hooks to enhance stability.",
+  "issueCount": 5,
+  "prCount": 12,
+  "topIssues": [
+    {
+      "number": 79,
+      "title": "Make EtherInput Component size configurable",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/79"
+    },
+    {
+      "number": 72,
+      "title": "bug: useAddress hook crashes on invalid address - getAddress() called without validation",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/72"
+    },
+    {
+      "number": 71,
+      "title": "Handle useEtherInput value",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/71"
+    },
+    {
+      "number": 68,
+      "title": "Docs: react, nextjs, create-eth guides",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/68"
+    },
+    {
+      "number": 64,
+      "title": "Docs: Update installation guides",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/64"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 80,
+      "title": "docs: Add BaseInput component documentation",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/80",
+      "merged": true
+    },
+    {
+      "number": 78,
+      "title": "EtherInput valueError",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/78",
+      "merged": true
+    },
+    {
+      "number": 77,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/77",
+      "merged": true
+    },
+    {
+      "number": 76,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/76",
+      "merged": true
+    },
+    {
+      "number": 75,
+      "title": "Theming page",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/75",
+      "merged": true
+    },
+    {
+      "number": 74,
+      "title": "fix: handle invalid addresses in useAddress hook",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/74",
+      "merged": true
+    },
+    {
+      "number": 73,
+      "title": "fix: useaddress hook",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/73",
+      "merged": true
+    },
+    {
+      "number": 70,
+      "title": "(hooks): make `chain` optional in `useBalance` hook",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/70",
+      "merged": true
+    },
+    {
+      "number": 69,
+      "title": "docs: Add useBalance and useEtherInput hooks ",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/69",
+      "merged": true
+    },
+    {
+      "number": 67,
+      "title": "Move usehooks-ts",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/67",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:28:05.313Z"
+}

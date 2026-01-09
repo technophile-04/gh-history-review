@@ -1,0 +1,53 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### July 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Implemented legacy withdrawals for ETH grants, allowing users to withdraw active grants through the UI (#144).\n  - Enhanced the home page by adding a \"Read more\" feature for grant descriptions that exceed the display limit (#143).\n  - Updated seed data to include new milestones for ETH grants to align with the new schema (#142).\n  - Added weekly call information to the FAQ section (#141).\n\n- **Bug Fixes:**\n  - Fixed the proposal requested amount to reflect the correct values from milestones, addressing issue #139 (#140).\n\n- **Overall Themes:**\n  - Focus on improving user experience with UI enhancements and better information accessibility.\n  - Addressing legacy system limitations while integrating new features for ETH grants.",
+  "issueCount": 1,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 139,
+      "title": "Admin > Show current stage amount requested",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/139"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 144,
+      "title": "Add legacy withdrawals for legacy eth grants (no milestones)",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/144",
+      "merged": true
+    },
+    {
+      "number": 143,
+      "title": "Allow to see all grant description on home page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/143",
+      "merged": true
+    },
+    {
+      "number": 142,
+      "title": "Add new milestones to ETH grants in seed data",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/142",
+      "merged": true
+    },
+    {
+      "number": 141,
+      "title": "Add weekly call information to faq",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/141",
+      "merged": true
+    },
+    {
+      "number": 140,
+      "title": "Fix proposal requested amount",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/140",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:31.470Z"
+}

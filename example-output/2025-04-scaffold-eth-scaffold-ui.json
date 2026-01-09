@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Dependency Update**: Closed PR #3 updated the Next.js dependency from version 15.2.3 to 15.2.4, ensuring the project stays current with the latest features and fixes.\n- **No New Issues**: No new issues were created during the month, indicating stable project conditions.\n- **Minimal Activity**: Overall, the repository experienced minimal activity with only one pull request closed.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 3,
+      "title": "Bump next from 15.2.3 to 15.2.4 in /example",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/3",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:27.543Z"
+}

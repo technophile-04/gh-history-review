@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja in September 2025\n\n- **Pull Request Merged**: \n  - #188 was closed, updating several dependencies: Wagmi, Viem, Abitype, Rainbowkit, and tanstack.\n  \n- **No Issues**: \n  - No new issues were created during the month.\n\n- **Overall Activity**: \n  - The primary focus was on maintaining and updating dependencies, with no significant feature additions or bug fixes reported.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 188,
+      "title": "Update Wagmi , Viem, Abitype, Rainbowkit, tanstack versions",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/188",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:22.483Z"
+}

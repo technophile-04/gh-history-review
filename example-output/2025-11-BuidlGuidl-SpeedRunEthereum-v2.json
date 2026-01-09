@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Standardization Improvement**: Merged PR #344 standardized the naming convention to 'Speedrun Ethereum', enhancing consistency across the repository.\n- **User Tracking Enhancement**: Merged PR #343 improved user registration tracking, allowing better insights into user interactions and registration sources.\n- **Overall Activity**: The month saw focused improvements on naming consistency and user engagement tracking, with no new issues reported.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 344,
+      "title": "Standardize naming to 'Speedrun Ethereum'",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/344",
+      "merged": true
+    },
+    {
+      "number": 343,
+      "title": "Enhance plausible tracking for registrations",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/343",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:04.559Z"
+}

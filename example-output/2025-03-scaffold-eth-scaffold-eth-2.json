@@ -1,0 +1,118 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Migrated to **Eslint v9**, enhancing code quality and compatibility with Next.js 15.\n  - Completed the **migration to Tailwind v4** and **DaisyUI v5**, improving styling consistency.\n  - Updated network configurations to replace deprecated networks and added **chainId settings** for all networks, enhancing deployment reliability.\n\n- **Notable Bug Fixes:**\n  - Resolved issues with `yarn deploy --network network_name` failing when no keystores exist, improving user experience.\n  - Fixed filename issues related to keystores CLI, ensuring proper functionality in WSL environments.\n\n- **Overall Themes:**\n  - Focus on code quality improvements and dependency updates.\n  - Enhancements to user experience through better error handling and network configuration updates.",
+  "issueCount": 8,
+  "prCount": 12,
+  "topIssues": [
+    {
+      "number": 1079,
+      "title": "Remove DaisyUI",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1079"
+    },
+    {
+      "number": 1076,
+      "title": "Migrate to Eslint v9",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1076"
+    },
+    {
+      "number": 1072,
+      "title": "bug: If a user has no keystores yet, yarn deploy --network network_name fails",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1072"
+    },
+    {
+      "number": 1070,
+      "title": "bug: Subgraph package run-node locally failing to connect",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1070"
+    },
+    {
+      "number": 1069,
+      "title": "Migrate to tailwind v4 + DaisyUI v5",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1069"
+    },
+    {
+      "number": 1068,
+      "title": "🔧 Update Hardhat Network Config: Replace Mumbai with Amoy & Remove PGN",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1068"
+    },
+    {
+      "number": 1065,
+      "title": "add chainId settings for each network",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1065"
+    },
+    {
+      "number": 1062,
+      "title": "Foundry: Having some problems with `yarn account` with WSL",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1062"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1080,
+      "title": "Chore: comments casing",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1080",
+      "merged": true
+    },
+    {
+      "number": 1078,
+      "title": "Tailwind v4 + Daisy v5 migration",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1078",
+      "merged": true
+    },
+    {
+      "number": 1077,
+      "title": "Migrate to Eslint v9",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1077",
+      "merged": true
+    },
+    {
+      "number": 1075,
+      "title": "up next version",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1075",
+      "merged": true
+    },
+    {
+      "number": 1074,
+      "title": "up burner-connector",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1074",
+      "merged": true
+    },
+    {
+      "number": 1073,
+      "title": "Forward user to creating a keystore if none exist",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1073",
+      "merged": true
+    },
+    {
+      "number": 1071,
+      "title": "🚀 Network Updates: Out with the Old, In with the New!",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1071",
+      "merged": true
+    },
+    {
+      "number": 1067,
+      "title": "refactor(hardhat): add contract verification configurations for multiple networks",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1067",
+      "merged": false
+    },
+    {
+      "number": 1066,
+      "title": "feat: add chainId for all networks in hardhat.config.ts",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1066",
+      "merged": false
+    },
+    {
+      "number": 1064,
+      "title": "Small fixes to homepage layout",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1064",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:06.932Z"
+}

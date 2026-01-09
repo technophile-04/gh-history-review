@@ -1,0 +1,77 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Dependency Updates**: Multiple pull requests were merged to update dependencies, including:\n  - React upgraded to version 19.2.3.\n  - Next.js versions updated in several PRs (merged #83, #89).\n  \n- **Configuration Enhancements**: \n  - Default configuration for wagmi was adjusted to prioritize the 0th chain (merged #86).\n  - Permissions for OIDC were configured to enhance trusted publishing for npm (merged #84).\n  \n- **Version Management**: \n  - Several PRs related to versioning packages were merged, indicating preparation for upcoming releases (merged #90, #88, #81).\n\n- **Overall Activity**: The month saw significant activity focused on dependency management and configuration improvements, with no new issues reported.",
+  "issueCount": 0,
+  "prCount": 10,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 90,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/90",
+      "merged": true
+    },
+    {
+      "number": 89,
+      "title": "Up react next",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/89",
+      "merged": true
+    },
+    {
+      "number": 88,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/88",
+      "merged": true
+    },
+    {
+      "number": 87,
+      "title": "gh-actions: add link to repo-url + configure permissions",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/87",
+      "merged": true
+    },
+    {
+      "number": 86,
+      "title": "default to 0th chain in wagmiConfig",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/86",
+      "merged": true
+    },
+    {
+      "number": 85,
+      "title": "Bump next from 15.2.6 to 15.4.10 in /example",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/85",
+      "merged": false
+    },
+    {
+      "number": 84,
+      "title": "allow permission for oidc",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/84",
+      "merged": true
+    },
+    {
+      "number": 83,
+      "title": "Up next and react",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/83",
+      "merged": true
+    },
+    {
+      "number": 82,
+      "title": "Bump next from 15.2.3 to 15.4.8",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/82",
+      "merged": false
+    },
+    {
+      "number": 81,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/81",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:28:09.639Z"
+}

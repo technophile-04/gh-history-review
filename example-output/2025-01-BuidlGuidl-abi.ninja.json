@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Improvements:**\n  - Merged PR #170 updated several packages, including rainbowkit and viem, and resolved issues with the Sepolia RPC, enhancing overall functionality.\n\n- **Bug Fixes:**\n  - Closed issue #169 addressed the Sepolia RPC downtime by updating the viem version, ensuring better connectivity.\n\n- **Other Pull Requests:**\n  - Two additional PRs (#172 and #171) were closed, contributing to local storage functionality and network data management, respectively.\n\n- **Overall Theme:**\n  - The focus this month was on improving package dependencies and addressing critical RPC issues, which enhances the reliability of the application.",
+  "issueCount": 1,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 169,
+      "title": "bug: sepolia rpc from viem is down (our viem ver is old)",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/issues/169"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 172,
+      "title": "Save ABI to localstorage on chain id 31337",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/172",
+      "merged": false
+    },
+    {
+      "number": 171,
+      "title": "Update og.tsx",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/171",
+      "merged": false
+    },
+    {
+      "number": 170,
+      "title": "Up packages ",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/170",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:52.343Z"
+}

@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/ctf.buidlguidl.com in July 2025\n\n- **Pull Requests Merged**: \n  - One pull request was merged, addressing a minor issue with the `.env.example` file by correcting the deployer key variable name.\n  \n- **Bug Fixes**: \n  - The merged pull request resolved a potential misconfiguration in the environment variable setup, which could impact deployment.\n\n- **Overall Activity**: \n  - There was minimal activity this month, with no new issues created and only one pull request merged.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 22,
+      "title": "Fix .env.example deployer key var name",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/22",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:40.461Z"
+}

@@ -1,0 +1,52 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for technophile-04/burner-connector\n\n- **Major Features/Improvements:**\n  - Merged PR #27 to allow custom RPC URLs, enhancing flexibility for users.\n  \n- **Version Updates:**\n  - Merged three PRs (#29, #30, #31) related to versioning and publishing packages, ensuring the repository is up-to-date and ready for npm releases.\n\n- **Bug Fixes:**\n  - Closed issue #28 addressing a bug related to switching between chains with the Burner wallet.\n\n- **Overall Themes:**\n  - Focus on improving user configuration options and maintaining package versioning for smoother releases.",
+  "issueCount": 2,
+  "prCount": 4,
+  "topIssues": [
+    {
+      "number": 28,
+      "title": "bug: Switch between two chain with Burner wallet",
+      "url": "https://github.com/scaffold-eth/burner-connector/issues/28"
+    },
+    {
+      "number": 26,
+      "title": "Specifying the RPC URL for the burner",
+      "url": "https://github.com/scaffold-eth/burner-connector/issues/26"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 31,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/31",
+      "merged": true
+    },
+    {
+      "number": 30,
+      "title": "Update version on publish action",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/30",
+      "merged": true
+    },
+    {
+      "number": 29,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/29",
+      "merged": true
+    },
+    {
+      "number": 27,
+      "title": "feat: allow custom rpc urls",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/27",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:37:49.109Z"
+}

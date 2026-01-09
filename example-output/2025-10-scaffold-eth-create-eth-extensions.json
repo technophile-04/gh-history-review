@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features and Improvements:**\n  - Added the envio extension, enhancing functionality (PR #102).\n  - Implemented support for passing global variables in extensions (PR #104).\n  - Updated examples of .gitignore files to improve project setup (PR #105).\n  - Made updates to the porto extension, fixing initialization errors and enhancing multi-chain support (PR #101).\n\n- **Bug Fixes:**\n  - Resolved initialization errors in the porto extension, with updates reflected in the README (PR #101).\n\n- **Overall Themes:**\n  - Focus on enhancing extension capabilities and improving documentation.\n  - Active development with multiple merged pull requests indicating ongoing feature expansion.",
+  "issueCount": 0,
+  "prCount": 5,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 105,
+      "title": "add examples of .gitignores",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/105",
+      "merged": true
+    },
+    {
+      "number": 104,
+      "title": "Pass global vars",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/104",
+      "merged": true
+    },
+    {
+      "number": 103,
+      "title": "envio with yarn",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/103",
+      "merged": false
+    },
+    {
+      "number": 102,
+      "title": "feat: added envio extension",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/102",
+      "merged": true
+    },
+    {
+      "number": 101,
+      "title": "porto updates",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/101",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:33.982Z"
+}

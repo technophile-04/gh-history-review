@@ -1,0 +1,77 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for scaffold-eth/scaffold-eth-2\n\n- **Major Features and Improvements:**\n  - Merged PR #1057 introduced RPC Overrides to simplify frontend RPC configuration.\n  - Merged PR #1053 added verification for OP Retro Funding round 7, enhancing participation capabilities.\n  - Merged PR #1049 upgraded dependencies (wagmi, viem, rainbowkit) to their latest versions, improving overall functionality.\n  - Merged PR #1052 updated node version requirements in the README to assist Windows users.\n\n- **Notable Bug Fixes:**\n  - Merged PR #1048 removed indexed event parameters to address type errors in the documentation.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved configuration options and dependency updates.\n  - Ongoing efforts to ensure compatibility and clarity in documentation for developers.",
+  "issueCount": 0,
+  "prCount": 11,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 1059,
+      "title": "Update page.tsx",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1059",
+      "merged": false
+    },
+    {
+      "number": 1058,
+      "title": "Jade",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1058",
+      "merged": false
+    },
+    {
+      "number": 1057,
+      "title": "RPC Overrides",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1057",
+      "merged": true
+    },
+    {
+      "number": 1056,
+      "title": "[Draft] Tinkering with AddressInput v2",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1056",
+      "merged": false
+    },
+    {
+      "number": 1055,
+      "title": "[Draft] Custom address input",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1055",
+      "merged": false
+    },
+    {
+      "number": 1054,
+      "title": "[Draft] Tinkering with AddressInput hook/ui",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1054",
+      "merged": false
+    },
+    {
+      "number": 1053,
+      "title": "Add OP Retro Funding round 7 verification",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1053",
+      "merged": true
+    },
+    {
+      "number": 1052,
+      "title": "Update node version requirements on Readme",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1052",
+      "merged": true
+    },
+    {
+      "number": 1050,
+      "title": "Feat/enable evm chain extensions",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1050",
+      "merged": false
+    },
+    {
+      "number": 1049,
+      "title": "Up wagmi, viem and rainbowkit",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1049",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:00.031Z"
+}

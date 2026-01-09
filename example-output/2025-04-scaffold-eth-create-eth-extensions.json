@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Updated dependencies to the latest versions, enhancing overall performance and compatibility.\n  - Introduced updates to the beta version, including new arguments and example files for testing.\n\n- **Bug Fixes:**\n  - Fixed a bug in `schema.graphql` related to dependencies.\n  - Corrected the Docker Compose command to ensure compatibility with the new version of Docker.\n\n- **Overall Themes:**\n  - Focus on updating and maintaining dependencies to improve functionality.\n  - Enhancements aimed at supporting ongoing testing and development efforts within the project.",
+  "issueCount": 0,
+  "prCount": 5,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 63,
+      "title": "updated dependencies and fixed bug in `schema.graphql`",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/63",
+      "merged": true
+    },
+    {
+      "number": 62,
+      "title": "(beta) updated args with latest best",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/62",
+      "merged": true
+    },
+    {
+      "number": 61,
+      "title": "Update beta example",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/61",
+      "merged": true
+    },
+    {
+      "number": 60,
+      "title": "fix docker compose command for new version of docker",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/60",
+      "merged": true
+    },
+    {
+      "number": 59,
+      "title": "Update tsconfig args",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/59",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:56.617Z"
+}

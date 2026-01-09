@@ -1,0 +1,88 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **Major Features and Improvements:**\n  - Upgraded to the latest Next.js version to address security vulnerabilities.\n  - Introduced seasonal features, including the addition of seasons to statistics, challenges, and the extension.\n  - Enhanced user experience with improved profile pages for new users and better landing page design.\n  - Updated FAQs to reflect new seasonal content and structure.\n\n- **Bug Fixes:**\n  - Notable bug fixes were not explicitly mentioned; however, improvements to the profile page and token requirements for Season 2 suggest enhancements to user experience and functionality.\n\n- **Overall Themes:**\n  - A significant focus on seasonal updates and user interface improvements, indicating a shift towards a more engaging user experience.\n  - Consolidation of contracts and resources for better organization and deployment efficiency.",
+  "issueCount": 2,
+  "prCount": 12,
+  "topIssues": [
+    {
+      "number": 33,
+      "title": "Unify the extension",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/33"
+    },
+    {
+      "number": 30,
+      "title": "Better profile page when the user is not registered",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/issues/30"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 40,
+      "title": "feat: up nextjs",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/40",
+      "merged": true
+    },
+    {
+      "number": 39,
+      "title": "Enhance landing page",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/39",
+      "merged": true
+    },
+    {
+      "number": 38,
+      "title": "Add seasons to stats",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/38",
+      "merged": true
+    },
+    {
+      "number": 37,
+      "title": "Add Seasons (+ Buenos Aires)",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/37",
+      "merged": true
+    },
+    {
+      "number": 36,
+      "title": "Update deployedContracts with season2 deployment",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/36",
+      "merged": true
+    },
+    {
+      "number": 35,
+      "title": "Add seasons to extension",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/35",
+      "merged": true
+    },
+    {
+      "number": 34,
+      "title": "Change required token on Season2NFTFlags received",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/34",
+      "merged": true
+    },
+    {
+      "number": 32,
+      "title": "Add seasons copy to home hero",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/32",
+      "merged": true
+    },
+    {
+      "number": 31,
+      "title": "Improve New Users Profile Page",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/31",
+      "merged": true
+    },
+    {
+      "number": 29,
+      "title": "Adding season 1 and 2 invaders",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/29",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:58.933Z"
+}

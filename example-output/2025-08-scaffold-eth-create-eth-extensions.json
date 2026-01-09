@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #98 introduced linting for Create-eth instances with example extensions, enhancing code quality on the `example` branch.\n  \n- **Bug Fixes:**\n  - Merged PR #95 addressed a mismatch in template arguments for the EIP-712 extension, ensuring proper functionality when creating new projects.\n\n- **Overall Themes:**\n  - Focus on improving code quality through linting and resolving template issues.\n  - Ongoing development of the porto extension, though it remains in an open issue state without a merged PR.",
+  "issueCount": 1,
+  "prCount": 4,
+  "topIssues": [
+    {
+      "number": 96,
+      "title": "create porto extension",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/issues/96"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 98,
+      "title": "Lint Create-eth instances with example extension",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/98",
+      "merged": true
+    },
+    {
+      "number": 97,
+      "title": "porto",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/97",
+      "merged": false
+    },
+    {
+      "number": 95,
+      "title": "fix(eip-712): align Header args with create-eth template (use preContent + extraMenuLinksObjects)",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/95",
+      "merged": true
+    },
+    {
+      "number": 94,
+      "title": "use solidityFramework arg",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/94",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:24.712Z"
+}

@@ -1,0 +1,71 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### October 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features/Improvements:**\n  - Merged PR #376 introduced a challenge for zk voting, enhancing the functionality of the grader.\n  - Merged PR #372 updated the grader action, likely improving its performance or reliability.\n\n- **Bug Fixes:**\n  - Merged PR #375 fixed the `create-eth` route and corrected a typo in the documentation.\n  - Merged PR #368 disabled AI in cursor and VSCode to improve user experience.\n\n- **Overall Themes:**\n  - The focus was on enhancing the grading system and fixing minor issues, indicating ongoing maintenance and improvement efforts.\n  - One open issue (#373) regarding challenge titles on Telegram images remains unresolved.",
+  "issueCount": 1,
+  "prCount": 8,
+  "topIssues": [
+    {
+      "number": 373,
+      "title": "SRE Telegram group images do not have challenge titles",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/373"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 376,
+      "title": "Challenge zk voting",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/376",
+      "merged": true
+    },
+    {
+      "number": 375,
+      "title": "fix create-eth route",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/375",
+      "merged": true
+    },
+    {
+      "number": 374,
+      "title": "Update YourCollectible.ts (test autograder test-refresh)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/374",
+      "merged": true
+    },
+    {
+      "number": 372,
+      "title": "Grader update action",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/372",
+      "merged": true
+    },
+    {
+      "number": 371,
+      "title": "Revert \"fix: small readme change\"",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/371",
+      "merged": true
+    },
+    {
+      "number": 370,
+      "title": "Test revalidation action",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/370",
+      "merged": true
+    },
+    {
+      "number": 369,
+      "title": "fix: additional condition to prevent overflow",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/369",
+      "merged": false
+    },
+    {
+      "number": 368,
+      "title": "Disable ai in cursor and vscode",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/368",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:38.933Z"
+}

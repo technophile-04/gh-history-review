@@ -1,0 +1,76 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Completed the implementation of the USDC grants system, including the creation of a database structure, user interfaces, and integration into the homepage.\n  - Merged the LargeGrant contract, enabling the addition of grants with milestones and the ability to manage grant stages and owners.\n  - Established a draft schema for large grants, enhancing the existing grants framework.\n\n- **Bug Fixes:**\n  - No significant bug fixes reported.\n\n- **Overall Themes:**\n  - Focused on developing and integrating USDC grant functionalities.\n  - Emphasis on enhancing the grants management system with milestone tracking and improved user interfaces.",
+  "issueCount": 8,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 27,
+      "title": "Build USDC Admin Approval Interface",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/27"
+    },
+    {
+      "number": 26,
+      "title": "Implement USDC Grants Smart Contract",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/26"
+    },
+    {
+      "number": 25,
+      "title": "Create USDC Grant Database Structure",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/25"
+    },
+    {
+      "number": 24,
+      "title": "Add USDC grants to /my-grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/24"
+    },
+    {
+      "number": 23,
+      "title": "Add USDC grants to approved grants (homepage)",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/23"
+    },
+    {
+      "number": 22,
+      "title": "Add USDC statistics to homepage",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/22"
+    },
+    {
+      "number": 21,
+      "title": "USDC Grant Application UI",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/21"
+    },
+    {
+      "number": 20,
+      "title": "Create USDC Grants UI",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/20"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 28,
+      "title": "Large grant contract",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/28",
+      "merged": true
+    },
+    {
+      "number": 19,
+      "title": "Add large grants schema and seed",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/19",
+      "merged": true
+    },
+    {
+      "number": 18,
+      "title": "Add .env info to README.md",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/18",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:01.999Z"
+}

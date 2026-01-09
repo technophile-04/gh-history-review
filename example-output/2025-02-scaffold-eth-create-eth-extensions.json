@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **New Features and Improvements:**\n  - Added new templates to enhance functionality (#54).\n  - Implemented verification for OP Retro Funding round 7 (#53).\n  - Updated `subgraph` extension modules, including upgrades to `graph-cli` and `graph-node` (#51).\n\n- **Closed Pull Requests:**\n  - One pull request was closed without merging, focusing on updating example configurations (#52).\n\n- **Overall Themes:**\n  - The month saw a focus on enhancing templates and module updates, indicating ongoing development and maintenance of the repository. No issues were reported or created during this period.",
+  "issueCount": 0,
+  "prCount": 4,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 54,
+      "title": "add new templates",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/54",
+      "merged": true
+    },
+    {
+      "number": 53,
+      "title": "Add OP Retro Funding round 7 verification",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/53",
+      "merged": true
+    },
+    {
+      "number": 52,
+      "title": "Update scaffold.config.ts.args.mjs",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/52",
+      "merged": false
+    },
+    {
+      "number": 51,
+      "title": "`subgraph` extension modules updated",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/51",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:46.315Z"
+}

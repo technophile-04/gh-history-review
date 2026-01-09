@@ -1,0 +1,53 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Features and Improvements:**\n  - Updated the README to reflect recent changes and highlight new features (PR #178).\n  - Added verification for OP Retro Funding round 7 (PR #177).\n  - Integrated updates for wagmi, viem, and rainbowkit, including support for the monad testnet (PR #176).\n  - Introduced a \"Decompile\" button on the network page to enhance user functionality (PR #174).\n\n- **Bug Fixes:**\n  - Resolved a linking issue related to the use of himdell for function names (Issue #173).\n\n- **Overall Themes:**\n  - Focus on improving documentation and user experience through feature enhancements.\n  - Active maintenance and updates to dependencies and network configurations.",
+  "issueCount": 1,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 173,
+      "title": "bug: if i use the himdell stuff to figure out the function names and then i link to it for someone else the link fails",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/issues/173"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 178,
+      "title": "Readme updates",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/178",
+      "merged": true
+    },
+    {
+      "number": 177,
+      "title": "Add OP Retro Funding round 7 verification",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/177",
+      "merged": true
+    },
+    {
+      "number": 176,
+      "title": "up wagmi viem & rainbow",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/176",
+      "merged": true
+    },
+    {
+      "number": 175,
+      "title": "Add monad testnet to networks dropdown",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/175",
+      "merged": false
+    },
+    {
+      "number": 174,
+      "title": "Add Decompile button to network page",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/174",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:57.623Z"
+}

@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### September 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Added new guides, including an ERC4626 vaults guide for decentralized staking and a landing page for Solidity, enhancing educational resources.\n  - Implemented a feature to open external links in new tabs for better user experience.\n  - Introduced placeholders for upcoming Oracles and ZK Voting challenges, indicating future development focus.\n\n- **Bug Fixes:**\n  - Resolved rendering issues with challenge headings containing bold text (issue #326 remains open for further checks).\n\n- **Overall Themes:**\n  - A strong emphasis on improving user experience through UI enhancements and better navigation.\n  - Continued expansion of educational content and resources for builders, reflecting a commitment to community support and engagement.",
+  "issueCount": 5,
+  "prCount": 14,
+  "topIssues": [
+    {
+      "number": 329,
+      "title": "Add private notes field for builders (admin-only)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/329"
+    },
+    {
+      "number": 326,
+      "title": "Challenge headings (H2, H3, etc.) are not rendered correctly when they contain bold text",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/326"
+    },
+    {
+      "number": 323,
+      "title": "Open guide/challenge links in new tab for better UX",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/323"
+    },
+    {
+      "number": 314,
+      "title": "Enhance `/builds` page before adding a header link",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/314"
+    },
+    {
+      "number": 313,
+      "title": "Gh action for testing",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/313"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 330,
+      "title": "add correct tokenization image",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/330",
+      "merged": true
+    },
+    {
+      "number": 328,
+      "title": "simple-nft-example -> tokenization",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/328",
+      "merged": true
+    },
+    {
+      "number": 327,
+      "title": "Add dRPC to MEV blocking providers",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/327",
+      "merged": true
+    },
+    {
+      "number": 325,
+      "title": "Reorder side quests + add missing guide links",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/325",
+      "merged": true
+    },
+    {
+      "number": 324,
+      "title": "Open guide/challenge links in new tab",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/324",
+      "merged": true
+    },
+    {
+      "number": 322,
+      "title": "Add ERC4626 vaults guide to decentralized staking challenge",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/322",
+      "merged": true
+    },
+    {
+      "number": 321,
+      "title": "Sidequest link field and ENS guide linked to ENS sidequests",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/321",
+      "merged": true
+    },
+    {
+      "number": 320,
+      "title": "Learn solidity landing page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/320",
+      "merged": true
+    },
+    {
+      "number": 319,
+      "title": "Move challenge \"connect and register\" flow to the footer",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/319",
+      "merged": true
+    },
+    {
+      "number": 318,
+      "title": "feat: add ChallengeHeader for challenge details",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/318",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:53.903Z"
+}

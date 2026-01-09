@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for BuidlGuidl/abi.ninja\n\n- **Major Features/Improvements**: \n  - Merged Pull Request #179 introduced a copy button to the contract write interface, enhancing user experience by allowing users to easily copy calldata.\n\n- **Bug Fixes**: \n  - No bug fixes were reported this month.\n\n- **Overall Activity**: \n  - Minimal activity with only one merged pull request, indicating a focus on a single feature enhancement. No new issues were created.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 179,
+      "title": "feat: copy calldata",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/179",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:03.922Z"
+}

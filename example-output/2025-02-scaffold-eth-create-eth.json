@@ -1,0 +1,83 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged multiple pull requests to version packages, ensuring the latest updates are published to npm.\n  - Added support for OP Retro Funding round 7 verification, enhancing the project's integration with external funding initiatives.\n  - Implemented changes to improve template provider positioning for better customization options.\n\n- **Bug Fixes:**\n  - Fixed templating rules and addressed a lint script issue for compatibility with Next.js and Foundry.\n  - Corrected a typo in package.json scripts related to linting.\n\n- **Overall Themes:**\n  - The month focused heavily on versioning and package management, with several PRs dedicated to ensuring packages are up-to-date.\n  - There was a notable effort to enhance project functionality through verification processes and template adjustments.",
+  "issueCount": 1,
+  "prCount": 15,
+  "topIssues": [
+    {
+      "number": 213,
+      "title": "Gather stats from extensions usage",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/213"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 225,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/225",
+      "merged": true
+    },
+    {
+      "number": 224,
+      "title": "remove `--no-commit` flag for foundry",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/224",
+      "merged": true
+    },
+    {
+      "number": 223,
+      "title": "add manifest, tsconfig and getMetadata template example",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/223",
+      "merged": true
+    },
+    {
+      "number": 222,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/222",
+      "merged": true
+    },
+    {
+      "number": 221,
+      "title": "move template provider after wagmi",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/221",
+      "merged": true
+    },
+    {
+      "number": 220,
+      "title": "up husky version in base package.json",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/220",
+      "merged": true
+    },
+    {
+      "number": 219,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/219",
+      "merged": true
+    },
+    {
+      "number": 218,
+      "title": "backmerge 24-02-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/218",
+      "merged": true
+    },
+    {
+      "number": 217,
+      "title": "Add OP Retro Funding round 7 verification",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/217",
+      "merged": true
+    },
+    {
+      "number": 216,
+      "title": "Feat/enable evm chain extensions",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/216",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:06.373Z"
+}

@@ -1,0 +1,118 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in July 2025\n\n- **Major Features and Improvements:**\n  - Upgraded the project to Node.js v22, ensuring compatibility with the latest LTS version.\n  - Enhanced documentation for better navigation and clarity in README and CONTRIBUTING files.\n\n- **Notable Bug Fixes:**\n  - Resolved issues with contract interactions and error parsing, improving user experience when dealing with contract-to-contract interactions.\n  - Fixed deployment issues on mainnet and addressed errors related to missing receipt fields during contract generation.\n\n- **Overall Themes:**\n  - Focus on improving the reliability of contract interactions and deployment processes.\n  - Continuous enhancement of documentation to support user onboarding and development.",
+  "issueCount": 8,
+  "prCount": 16,
+  "topIssues": [
+    {
+      "number": 1145,
+      "title": "Non-readable errors for contract-to-contract interactions",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1145"
+    },
+    {
+      "number": 1142,
+      "title": "bug: Event logs are incrementing from last returned event instead of full batch range",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1142"
+    },
+    {
+      "number": 1133,
+      "title": "Upgrade to node v22",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1133"
+    },
+    {
+      "number": 1131,
+      "title": "bug: Error when running `yarn verify` in Foundry version",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1131"
+    },
+    {
+      "number": 1127,
+      "title": "yarn account - compiles every time",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1127"
+    },
+    {
+      "number": 1126,
+      "title": "deploying contracts to mainnet fails",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1126"
+    },
+    {
+      "number": 1125,
+      "title": "Allow users to export burner pk",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1125"
+    },
+    {
+      "number": 1121,
+      "title": "bug: Invalid API Key (#err2)|POLYTestNet , can't verify due to v2 etherscan update",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1121"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1147,
+      "title": "docs: Improve README and CONTRIBUTING Navigation.",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1147",
+      "merged": false
+    },
+    {
+      "number": 1146,
+      "title": "Fix contract interactions error",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1146",
+      "merged": true
+    },
+    {
+      "number": 1144,
+      "title": "fix `useScaffoldEventHistory` to properly calculate `nextBlock`",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1144",
+      "merged": true
+    },
+    {
+      "number": 1143,
+      "title": "fix: getting deployedOnBlock when no receipt",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1143",
+      "merged": true
+    },
+    {
+      "number": 1141,
+      "title": "add useScaffoldEventHistory example to cursor file",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1141",
+      "merged": true
+    },
+    {
+      "number": 1139,
+      "title": "Upgrade nodejs to v22",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1139",
+      "merged": false
+    },
+    {
+      "number": 1138,
+      "title": "Add deployedOnBlock to deployedContracts on Foundry",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1138",
+      "merged": true
+    },
+    {
+      "number": 1137,
+      "title": "reveal burner pk option",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1137",
+      "merged": true
+    },
+    {
+      "number": 1136,
+      "title": "replace components with scaffold-ui",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1136",
+      "merged": true
+    },
+    {
+      "number": 1134,
+      "title": "Use deployedOnBlock from deployedContracts in useScaffoldEventHistory",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1134",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:32:33.640Z"
+}

@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in July 2025\n\n- **Major Features and Improvements:**\n  - Multiple pull requests merged to update various challenges, including the removal of outdated naming conventions and the integration of OpenZeppelin v5 in the Simple NFT example.\n  - Significant updates to the stablecoins and over-collateralized lending challenges, including version changes and migration to beta versions.\n\n- **Bug Fixes:**\n  - Resolved issues related to the Dice Game challenge not sending enough ether and the Stablecoins challenge not displaying deployed contract details in logs.\n\n- **Overall Themes:**\n  - A focus on cleaning up and standardizing challenge names and structures across the repository.\n  - Ongoing efforts to ensure compatibility with the latest dependencies and improve deployment processes.",
+  "issueCount": 5,
+  "prCount": 17,
+  "topIssues": [
+    {
+      "number": 339,
+      "title": "Is there any future plans for Challenge 7 Deploy to Layer 2?",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/339"
+    },
+    {
+      "number": 338,
+      "title": "Rewrite READMEs of non-autograded challenges",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/338"
+    },
+    {
+      "number": 333,
+      "title": "simple-nft: Make it work with openzeppelin v5",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/333"
+    },
+    {
+      "number": 332,
+      "title": "Dice Game challenge: the test case is not sending enough ether?",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/332"
+    },
+    {
+      "number": 320,
+      "title": "Stablecoins challenge not showing detail of deployed contracts in logs",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/320"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 337,
+      "title": "Update repo links from README to new ones without numbers",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/337",
+      "merged": true
+    },
+    {
+      "number": 336,
+      "title": "Simple NFT Example - remove number (0)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/336",
+      "merged": true
+    },
+    {
+      "number": 335,
+      "title": "Rename OverCollateralizedLending.ts to Lending.ts",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/335",
+      "merged": true
+    },
+    {
+      "number": 334,
+      "title": "Update simple nft contract",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/334",
+      "merged": true
+    },
+    {
+      "number": 331,
+      "title": "fix: set absolute routes to readme images",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/331",
+      "merged": true
+    },
+    {
+      "number": 330,
+      "title": "Removing old transfer method",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/330",
+      "merged": true
+    },
+    {
+      "number": 329,
+      "title": "Svg nft - remove number(7)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/329",
+      "merged": true
+    },
+    {
+      "number": 328,
+      "title": "Multisig - remove number(6)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/328",
+      "merged": true
+    },
+    {
+      "number": 327,
+      "title": "Dex - remove number (4)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/327",
+      "merged": true
+    },
+    {
+      "number": 326,
+      "title": "Dice game - remove number(3)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/326",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:24.530Z"
+}

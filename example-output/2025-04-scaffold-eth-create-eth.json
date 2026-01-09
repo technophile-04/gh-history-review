@@ -1,0 +1,83 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in April 2025\n\n- **Major Features and Improvements:**\n  - Added the **over-collateralized lending challenge** to the extensions list, enhancing the functionality available for users.\n  - Multiple **version updates** for packages were successfully merged, ensuring the project remains up-to-date and stable.\n  - Implemented various **template file updates** to align with new rules and improve overall structure.\n\n- **Bug Fixes:**\n  - Removed an **outdated dependency** that was no longer necessary, streamlining the project.\n  - Addressed a **dependency issue** by moving `fastify/deepMerge` to main dependencies, ensuring it is available during instance creation.\n\n- **Overall Themes:**\n  - The month focused on enhancing the project through new features and updates while maintaining stability through bug fixes and dependency management.\n  - A significant number of merged pull requests indicate active development and ongoing improvements to the codebase.",
+  "issueCount": 1,
+  "prCount": 13,
+  "topIssues": [
+    {
+      "number": 251,
+      "title": "Add a way to override the inclusion of `chains.hardhat` in scaffold.config",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/251"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 252,
+      "title": "add over-collateralized-lending challenge to extensions list",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/252",
+      "merged": true
+    },
+    {
+      "number": 250,
+      "title": "Version Packages (beta)",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/250",
+      "merged": true
+    },
+    {
+      "number": 249,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/249",
+      "merged": true
+    },
+    {
+      "number": 248,
+      "title": "fix: remove outdated dep",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/248",
+      "merged": true
+    },
+    {
+      "number": 247,
+      "title": "(beta) more upate to template files",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/247",
+      "merged": true
+    },
+    {
+      "number": 246,
+      "title": "Version Packages (beta)",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/246",
+      "merged": true
+    },
+    {
+      "number": 245,
+      "title": "(beta) fix fastify/deepMerge not found",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/245",
+      "merged": true
+    },
+    {
+      "number": 244,
+      "title": "Create extension from scaffold-eth-2 repo/branch",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/244",
+      "merged": false
+    },
+    {
+      "number": 243,
+      "title": "(beta) update more file",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/243",
+      "merged": true
+    },
+    {
+      "number": 242,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/242",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:22.007Z"
+}

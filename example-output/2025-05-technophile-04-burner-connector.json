@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for technophile-04/burner-connector in May 2025\n\n- **Major Features/Improvements:**\n  - Implemented support for EIP-5792, enabling sequential transactions for sendCalls (PR #39).\n  - Updated dependencies and packages in preparation for a release (PRs #41 and #40).\n  - Upgraded the wagmi and viem libraries, enhancing compatibility with rainbowkit (PR #38).\n\n- **Bug Fixes:**\n  - No notable bug fixes were reported this month.\n\n- **Overall Themes:**\n  - Focus on enhancing the burner connector's functionality with new standards (EIP-5792).\n  - Preparation for future releases through version updates and dependency management.",
+  "issueCount": 1,
+  "prCount": 4,
+  "topIssues": [
+    {
+      "number": 37,
+      "title": "EIP-7702 / EIP-5792 support",
+      "url": "https://github.com/scaffold-eth/burner-connector/issues/37"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 41,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/41",
+      "merged": true
+    },
+    {
+      "number": 40,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/40",
+      "merged": true
+    },
+    {
+      "number": 39,
+      "title": "feat: 5792 with sequential calls",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/39",
+      "merged": true
+    },
+    {
+      "number": 38,
+      "title": "Up wagmi viem rainbowkit",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/38",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:13.742Z"
+}

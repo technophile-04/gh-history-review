@@ -1,0 +1,88 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth in May 2025\n\n- **Major Features and Improvements:**\n  - Merged several pull requests enhancing the CLI, including the ability to auto-create `.args.mjs` files and customization for address types.\n  - Introduced a requirements check for using `npx`, ensuring compatibility with specified versions of Node, Yarn, and Git.\n  - Expanded the `create-extension` CLI to allow extensions to be created from the scaffold-eth repository.\n\n- **Bug Fixes:**\n  - Resolved the GitHub rate limit issue by optimizing API calls.\n  - Fixed a ReferenceError related to `indexedDB` during instance creation.\n\n- **Overall Themes:**\n  - A focus on improving the developer experience through CLI enhancements and better error handling.\n  - Continuous integration of updates and backmerges from the main branch to ensure the repository remains up-to-date.",
+  "issueCount": 2,
+  "prCount": 22,
+  "topIssues": [
+    {
+      "number": 260,
+      "title": "Github rate limit",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/260"
+    },
+    {
+      "number": 259,
+      "title": "(instance) ReferenceError: indexedDB is not defined",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/259"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 276,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/276",
+      "merged": true
+    },
+    {
+      "number": 275,
+      "title": "backmerge 30-05-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/275",
+      "merged": true
+    },
+    {
+      "number": 274,
+      "title": "Auto create args files",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/274",
+      "merged": true
+    },
+    {
+      "number": 273,
+      "title": "customization for address type",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/273",
+      "merged": true
+    },
+    {
+      "number": 272,
+      "title": "Check for git name and email",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/272",
+      "merged": true
+    },
+    {
+      "number": 271,
+      "title": "Version Packages (beta)",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/271",
+      "merged": true
+    },
+    {
+      "number": 270,
+      "title": "Typecheck for arguments",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/270",
+      "merged": true
+    },
+    {
+      "number": 269,
+      "title": "fix: foundry prettier folder",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/269",
+      "merged": true
+    },
+    {
+      "number": 268,
+      "title": "Requirements check when doing npx",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/268",
+      "merged": true
+    },
+    {
+      "number": 267,
+      "title": "(beta) backmerge main",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/267",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:31.342Z"
+}

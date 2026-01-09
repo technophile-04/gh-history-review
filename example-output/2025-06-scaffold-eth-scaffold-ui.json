@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### June 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Component Migration**: Successfully closed issues related to migrating components and hooks, indicating progress towards modularizing the codebase.\n- **Package Creation**: Merged PR #4, which involved creating separate packages for components, enhancing the project's structure and maintainability.\n- **Closed Issues**: Two issues were closed this month, reflecting a focus on improving project organization and planning for future development. \n\nNo significant bug fixes were reported during this period.",
+  "issueCount": 2,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 6,
+      "title": "Balance",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/6"
+    },
+    {
+      "number": 5,
+      "title": "next steps (migrating other components and hooks)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/5"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 4,
+      "title": "create components packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/4",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:32.893Z"
+}

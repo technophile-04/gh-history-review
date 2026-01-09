@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "- Merged Pull Request #52 focused on configuring permissions, contributing to improved access control within the project.\n- No issues were created or addressed this month, indicating a lack of reported problems or feature requests.\n- Overall, December 2025 saw minimal activity with only one significant contribution.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 52,
+      "title": "configure permission",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/52",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:43.601Z"
+}

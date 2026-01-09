@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-eth-2",
+    "fullName": "scaffold-eth/scaffold-eth-2"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-eth-2 in November 2025\n\n- **Documentation Improvements**: \n  - A comprehensive CLAUDE.md was added to guide AI assistants, and the README intro and quickstart sections were enhanced for clarity and usability.\n\n- **Merged Pull Requests**: \n  - Three notable PRs were merged, including updates to scaffold-ui components and removal of the `--legacy` flag, indicating ongoing maintenance and improvements.\n\n- **Open Issues**: \n  - Two issues remain open, focusing on improving test coverage for `YourContract` and addressing crashes from invalid address inputs, highlighting areas for future development.\n\n- **Overall Themes**: \n  - The activity reflects a focus on documentation, UI improvements, and foundational bug fixes, with an emphasis on enhancing user experience and code reliability.",
+  "issueCount": 2,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 1206,
+      "title": "test: Improve test coverage and isolation for YourContract",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1206"
+    },
+    {
+      "number": 1198,
+      "title": "bug: Address component crashes on invalid address input instead of showing error message",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/issues/1198"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 1204,
+      "title": "docs: add comprehensive CLAUDE.md for AI assistant guidance",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1204",
+      "merged": false
+    },
+    {
+      "number": 1203,
+      "title": "My frist commit",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1203",
+      "merged": false
+    },
+    {
+      "number": 1200,
+      "title": "Improve Scaffold-ETH 2 README intro and quickstart section",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1200",
+      "merged": false
+    },
+    {
+      "number": 1199,
+      "title": "Up scaffold-ui",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1199",
+      "merged": true
+    },
+    {
+      "number": 1197,
+      "title": "remove `--legacy` flag",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1197",
+      "merged": true
+    },
+    {
+      "number": 1195,
+      "title": "Update cursor rules (scaffold-ui)",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2/pull/1195",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:10.531Z"
+}

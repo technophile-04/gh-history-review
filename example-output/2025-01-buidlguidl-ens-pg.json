@@ -1,0 +1,58 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "### January 2025 Summary for buidlguidl/ens-pg\n\n- **Major Features and Improvements:**\n  - Added a FAQ page to enhance user support and information accessibility (#17).\n  - Implemented Plausible tracking for site visit analytics, improving user engagement insights (#15).\n  - Limited data exposure in public grant views to enhance security and user privacy (#13).\n  - Made minor UI tweaks and added feedback modals to improve user experience after grant applications (#12).\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, improvements in UI and data handling contribute to overall stability.\n\n- **Overall Themes:**\n  - Focus on enhancing user experience through improved UI and informational resources.\n  - Implementation of tracking tools for better analytics and user engagement.",
+  "issueCount": 2,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 16,
+      "title": "Add FAQ",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/16"
+    },
+    {
+      "number": 14,
+      "title": "Add plausible tracking",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/14"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 17,
+      "title": "Add FAQ",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/17",
+      "merged": true
+    },
+    {
+      "number": 15,
+      "title": "Add Plausible",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/15",
+      "merged": true
+    },
+    {
+      "number": 13,
+      "title": "Limit data exposure in public grant views",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/13",
+      "merged": true
+    },
+    {
+      "number": 12,
+      "title": "Minor UI tweaks and feedback modals after user grant applications",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/12",
+      "merged": true
+    },
+    {
+      "number": 11,
+      "title": "Minor UI tweaks and feedback modals after user grant applications",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/11",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:41:56.822Z"
+}

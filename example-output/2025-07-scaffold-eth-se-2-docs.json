@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### July 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged PR #130: Updated documentation for `useDeployedContractInfo` and `useScaffoldEventHistory`, including the addition of `deployedOnBlock`.\n  - Merged PR #129: Updated the `useScaffoldEventHistory` hook to reflect recent changes from related scaffold-eth repositories.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted this month.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and functionality for event handling in the scaffold-eth framework.\n  - Ongoing improvements to hooks related to contract interactions.",
+  "issueCount": 1,
+  "prCount": 2,
+  "topIssues": [
+    {
+      "number": 131,
+      "title": "`useScaffoldEventHistory` hook recipe",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/131"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 130,
+      "title": "Update useDeployedContractInfo and useScaffoldEventHistory with deployedOnBlock",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/130",
+      "merged": true
+    },
+    {
+      "number": 129,
+      "title": "update `useScaffoldEvenHistory` hook",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/129",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:42.315Z"
+}

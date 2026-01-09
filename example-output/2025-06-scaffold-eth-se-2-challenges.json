@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in June 2025\n\n- **Major Features and Improvements:**\n  - Merged multiple pull requests related to the migration of challenges to be compatible with the beta branch, including updates for decentralized staking, multisig, and prediction markets.\n  - Added a new stablecoin challenge and made updates to existing challenges to enhance user experience and learning.\n\n- **Bug Fixes:**\n  - Fixed font issues by adjusting the configuration for Next.js and Tailwind CSS.\n  - Addressed build issues for the over-collateralized lending challenge and updated images for clarity and differentiation.\n\n- **Overall Themes:**\n  - A significant focus on updating and migrating challenges to align with the latest beta version.\n  - Continuous improvements to documentation and user interface elements, including README updates and image visibility adjustments.",
+  "issueCount": 5,
+  "prCount": 20,
+  "topIssues": [
+    {
+      "number": 315,
+      "title": "Not human-readable errors when contract-to-contract transaction fails",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/315"
+    },
+    {
+      "number": 307,
+      "title": "Redundant quotes in the md files",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/307"
+    },
+    {
+      "number": 306,
+      "title": "Migrate challenges to args compatible with beta branch",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/306"
+    },
+    {
+      "number": 299,
+      "title": "Some suggestions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/299"
+    },
+    {
+      "number": 294,
+      "title": "Update Nodejs version in all challenges",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/294"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 317,
+      "title": "Changes of OCL challenge which was reverted",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/317",
+      "merged": true
+    },
+    {
+      "number": 316,
+      "title": "Update challenges in readme",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/316",
+      "merged": true
+    },
+    {
+      "number": 314,
+      "title": "[Beta migration] challenge prediction markets",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/314",
+      "merged": true
+    },
+    {
+      "number": 313,
+      "title": "[Beta migration] challenge 7 svg nft",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/313",
+      "merged": true
+    },
+    {
+      "number": 312,
+      "title": "[Beta migration] challenge 6 multisig",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/312",
+      "merged": true
+    },
+    {
+      "number": 311,
+      "title": "[Beta migration] challenge 4 dex",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/311",
+      "merged": true
+    },
+    {
+      "number": 310,
+      "title": "[Beta migration] challenge 3 dice game",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/310",
+      "merged": true
+    },
+    {
+      "number": 309,
+      "title": "[Beta migration] challenge 2 token vendor",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/309",
+      "merged": true
+    },
+    {
+      "number": 308,
+      "title": "[Beta migration] challenge 1 decentralized staking",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/308",
+      "merged": true
+    },
+    {
+      "number": 305,
+      "title": "[Beta migration] challenge 0 simple nft",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/305",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:18.359Z"
+}

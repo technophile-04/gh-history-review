@@ -1,0 +1,58 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for scaffold-eth/scaffold-ui\n\n- **Major Features/Improvements:**\n  - Theming implementation was initiated with the merged PR #23, focusing on enhancing component styling.\n\n- **Bug Fixes:**\n  - A significant bug fix was made in PR #21, which resolved the refocusing issue in the AddressInput component upon successful address or ENS resolution.\n\n- **Dependency Updates:**\n  - PR #26 updated the Next.js dependency from version 15.2.3 to 15.4.7, ensuring the project remains up-to-date with the latest features and fixes.\n\n- **Overall Themes:**\n  - The month focused on improving user experience through theming and addressing specific component behaviors, alongside routine dependency management.",
+  "issueCount": 2,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 22,
+      "title": "Handling themeing for the components",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/22"
+    },
+    {
+      "number": 20,
+      "title": "Refocus for AddressInput Component",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/20"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 26,
+      "title": "Bump next from 15.2.3 to 15.4.7",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/26",
+      "merged": false
+    },
+    {
+      "number": 25,
+      "title": "Version Packages (rc)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/25",
+      "merged": true
+    },
+    {
+      "number": 24,
+      "title": "Bump sha.js from 2.4.11 to 2.4.12",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/24",
+      "merged": false
+    },
+    {
+      "number": 23,
+      "title": "Theming init",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/23",
+      "merged": true
+    },
+    {
+      "number": 21,
+      "title": "fix: refocus for AddressInput component on success",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/21",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:46.002Z"
+}

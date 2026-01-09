@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/create-eth-extensions in May 2025\n\n- **Merged Pull Requests**: A total of 5 pull requests were successfully merged, indicating active development.\n- **Feature Enhancements**: \n  - Added new examples and updates related to the \"extra examples\" feature, enhancing the repository's functionality.\n  - Introduced an example address type to improve usability.\n- **Configuration Changes**: Removed the `tailwind.config.mjs` file, streamlining the project setup.\n- **Overall Theme**: The focus this month was on refining examples and improving the overall structure of the project without any reported issues or bug fixes.",
+  "issueCount": 0,
+  "prCount": 5,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 68,
+      "title": "example address type",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/68",
+      "merged": true
+    },
+    {
+      "number": 67,
+      "title": "update to extracontents",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/67",
+      "merged": true
+    },
+    {
+      "number": 66,
+      "title": "Beta extra examples",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/66",
+      "merged": true
+    },
+    {
+      "number": 65,
+      "title": "remove tailwind.config.mjs",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/65",
+      "merged": true
+    },
+    {
+      "number": 64,
+      "title": "Extra beta examples",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/64",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:01.865Z"
+}

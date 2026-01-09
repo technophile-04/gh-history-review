@@ -1,0 +1,22 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "buidlguidl-v3",
+    "fullName": "scaffold-eth/buidlguidl-v3"
+  },
+  "year": 2025,
+  "month": 1,
+  "monthName": "January",
+  "summary": "- Closed one issue (#121) related to prerequisites for the project, specifically requiring Node (v16 LTS) and Yarn.\n- No pull requests were created or merged during January 2025.\n- Overall, the activity this month was minimal, focusing solely on addressing a prerequisite clarification.",
+  "issueCount": 1,
+  "prCount": 0,
+  "topIssues": [
+    {
+      "number": 121,
+      "title": "The prerequisities require Node (v16 LTS)",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/issues/121"
+    }
+  ],
+  "topPRs": [],
+  "generatedAt": "2026-01-08T09:38:47.908Z"
+}

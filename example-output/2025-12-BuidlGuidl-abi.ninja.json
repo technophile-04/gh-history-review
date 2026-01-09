@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "- No issues were created in December 2025.\n- One pull request (#191) was opened to update the viem library for access to the latest chainlist, enhancing support for more chains.\n- There were no merged pull requests or significant bug fixes reported this month.\n- Overall, the activity indicates a focus on improving library dependencies without any completed features or fixes.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 191,
+      "title": "Up viem and ts",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/191",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:32.083Z"
+}

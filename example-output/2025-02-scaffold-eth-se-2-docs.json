@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for scaffold-eth/se-2-docs\n\n- **Merged Pull Requests:**\n  - Added Retro Funding verification for Round 7, enhancing documentation for this funding round.\n  - Updated node version requirement to align with recent changes in the scaffold-eth repository.\n\n- **Issue Resolution:**\n  - Closed issue #114 regarding the correct usage of hooks and type bindings for external contracts, improving clarity in documentation.\n\n### Overall Themes:\n- Focus on enhancing documentation related to funding and technical requirements.\n- Addressed specific user queries to improve the usability of the documentation.",
+  "issueCount": 1,
+  "prCount": 2,
+  "topIssues": [
+    {
+      "number": 114,
+      "title": "Correct usage of hooks and type bindings for externalContracts?",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/114"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 116,
+      "title": "Add Retro Funding verification for Round 7",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/116",
+      "merged": true
+    },
+    {
+      "number": 115,
+      "title": "Update node version requirement",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/115",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:17.436Z"
+}

@@ -1,0 +1,100 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in September 2025\n\n- **Major Features and Improvements:**\n  - Merged PRs for **Custom chains examples** and **initial version of documentation**, enhancing user guidance and visual examples for components.\n  - Implemented **UI polish tweaks** to improve overall user experience.\n\n- **Bug Fixes:**\n  - Resolved deployment issues for documentation, ensuring proper configuration with Vercel.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation structure and content, with multiple issues opened for ongoing improvements.\n  - Continued development towards integrating Scaffold-UI components into the SE-2 project, indicating a strategic direction for component migration.",
+  "issueCount": 8,
+  "prCount": 7,
+  "topIssues": [
+    {
+      "number": 40,
+      "title": "docs content",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/40"
+    },
+    {
+      "number": 39,
+      "title": "content flow",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/39"
+    },
+    {
+      "number": 38,
+      "title": "(docs) setup the structure",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/38"
+    },
+    {
+      "number": 31,
+      "title": "Block explorer",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/31"
+    },
+    {
+      "number": 30,
+      "title": "READMEs and Contributing guide",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/30"
+    },
+    {
+      "number": 29,
+      "title": "Docs initial version",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/29"
+    },
+    {
+      "number": 28,
+      "title": "Migrate SE-2 with Scaffold-UI",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/28"
+    },
+    {
+      "number": 27,
+      "title": "Next Steps",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/27"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 41,
+      "title": "Version Packages (rc)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/41",
+      "merged": true
+    },
+    {
+      "number": 37,
+      "title": "Custom chains examples",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/37",
+      "merged": true
+    },
+    {
+      "number": 36,
+      "title": "fix deployments for docs",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/36",
+      "merged": true
+    },
+    {
+      "number": 35,
+      "title": "next iteration UI polish tweaks",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/35",
+      "merged": true
+    },
+    {
+      "number": 34,
+      "title": "Version Packages (rc)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/34",
+      "merged": true
+    },
+    {
+      "number": 33,
+      "title": "make address size optional",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/33",
+      "merged": true
+    },
+    {
+      "number": 32,
+      "title": "docs initial version",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/32",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:52.167Z"
+}

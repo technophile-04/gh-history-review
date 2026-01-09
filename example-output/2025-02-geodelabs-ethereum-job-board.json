@@ -1,0 +1,88 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Implemented a job offers import script from Google Sheets, facilitating easier job listing management.\n  - Developed a job posting form and basic admin flow, allowing for job submissions and administrative review.\n  - Established the initial database schema and display for job listings, enhancing data organization and accessibility.\n  - Created a basic job listing page to showcase available positions with relevant details.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted this month.\n\n- **Overall Themes:**\n  - Focus on building foundational features for job management and database integration.\n  - Emphasis on improving user experience through streamlined job posting and listing processes.",
+  "issueCount": 8,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 10,
+      "title": "Configure database backup system",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/10"
+    },
+    {
+      "number": 9,
+      "title": "Setup Vercel deployment",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/9"
+    },
+    {
+      "number": 8,
+      "title": "Build a simple script to import jobs from the google sheet",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/8"
+    },
+    {
+      "number": 7,
+      "title": "Setup database schema to store job listings",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/7"
+    },
+    {
+      "number": 6,
+      "title": "Build featured Ethereum companies section",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/6"
+    },
+    {
+      "number": 5,
+      "title": "Add newsletter signup CTA",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/5"
+    },
+    {
+      "number": 4,
+      "title": "Create job posting form",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/4"
+    },
+    {
+      "number": 3,
+      "title": "Create basic job listing page",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/3"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 13,
+      "title": "Job offers spreadsheet import",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/13",
+      "merged": true
+    },
+    {
+      "number": 12,
+      "title": "job posting + basic admin flow",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/12",
+      "merged": true
+    },
+    {
+      "number": 11,
+      "title": "Initial schema + seed + display",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/11",
+      "merged": true
+    },
+    {
+      "number": 2,
+      "title": "Initial database setup with Drizzle. Docker composer for local dev",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/2",
+      "merged": true
+    },
+    {
+      "number": 1,
+      "title": "Project Init",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/1",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:04.422Z"
+}

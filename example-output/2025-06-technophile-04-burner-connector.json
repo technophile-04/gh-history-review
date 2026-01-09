@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "technophile-04",
+    "repo": "burner-connector",
+    "fullName": "technophile-04/burner-connector"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for technophile-04/burner-connector in June 2025\n\n- **Major Features and Improvements:**\n  - Updated dependencies by merging PR #42, which involved upgrading `wagmi`, `viem`, and `rainbowkit` versions.\n  - Version packages were published as part of PR #43, facilitating future releases.\n\n- **Bug Fixes:**\n  - Merged PR #44 addressed a bug where dependent calls were breaking gas estimation for approve swaps, improving transaction execution reliability.\n\n- **Overall Themes:**\n  - The focus this month was on dependency management and addressing critical issues impacting functionality, ensuring smoother operation and preparation for future releases.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 44,
+      "title": "fix: dependent calls break gas estimation",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/44",
+      "merged": true
+    },
+    {
+      "number": 43,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/43",
+      "merged": true
+    },
+    {
+      "number": 42,
+      "title": "up wagmi, viem and rainbowkit version",
+      "url": "https://github.com/scaffold-eth/burner-connector/pull/42",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:38:20.735Z"
+}

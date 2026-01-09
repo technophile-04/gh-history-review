@@ -1,0 +1,58 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features and Improvements:**\n  - Merged PRs introduced a new **Over-collateralized Lending Challenge** and established a **base challenge template for extensions**, enhancing the framework for future challenges.\n  - Updated contribution instructions to clarify the process of creating challenges as extensions.\n\n- **Documentation Enhancements:**\n  - The README was updated to provide detailed steps for finding the deployed contract's block number on Etherscan, improving user guidance.\n\n- **Issue Management:**\n  - Closed Issue #281 focused on restructuring challenge branches for better maintainability, while Issue #277 remains open, indicating ongoing efforts to improve the challenge creation guide.\n\nOverall, the month was productive with significant updates to challenge templates and documentation, alongside the closure of an issue aimed at enhancing repository organization.",
+  "issueCount": 2,
+  "prCount": 5,
+  "topIssues": [
+    {
+      "number": 281,
+      "title": "Recreate challenge branches so all of them will be branched from `base-challenge-templates`",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/281"
+    },
+    {
+      "number": 277,
+      "title": "Update the challenge creation guide to use extensions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/277"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 282,
+      "title": "Over-collaterlized Lending Challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/282",
+      "merged": true
+    },
+    {
+      "number": 280,
+      "title": "Over-collaterlized Lending Challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/280",
+      "merged": false
+    },
+    {
+      "number": 279,
+      "title": "Update contribution instructions for challenges as extensions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/279",
+      "merged": true
+    },
+    {
+      "number": 278,
+      "title": "Base challenge template for extensions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/278",
+      "merged": true
+    },
+    {
+      "number": 276,
+      "title": "Update README.md",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/276",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:40.309Z"
+}

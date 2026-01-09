@@ -1,0 +1,46 @@
+{
+  "repo": {
+    "owner": "geodelabs",
+    "repo": "ethereum-job-board",
+    "fullName": "geodelabs/ethereum-job-board"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for geodelabs/ethereum-job-board\n\n- **Major Features and Improvements:**\n  - Merged PRs introduced enhancements such as:\n    - A cron job to check for dead links, improving site maintenance.\n    - Displaying the latest job per company on the homepage for better visibility.\n    - Implemented sorting for companies to enhance user experience.\n\n- **Bug Fixes:**\n  - No significant bug fixes were noted; however, the addition of the dead link checker may help prevent future issues.\n\n- **Overall Themes:**\n  - Focus on improving user experience through better job visibility and site functionality.\n  - Ongoing enhancements aimed at automating tasks to reduce manual checks. \n\n- **Open Issues:**\n  - One enhancement issue regarding monetization remains open, indicating future development plans.",
+  "issueCount": 2,
+  "prCount": 3,
+  "topIssues": [
+    {
+      "number": 60,
+      "title": "Monetization",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/60"
+    },
+    {
+      "number": 57,
+      "title": "Auto-check expired jobs",
+      "url": "https://github.com/geodelabs/ethereum-job-board/issues/57"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 61,
+      "title": "Check dead links",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/61",
+      "merged": true
+    },
+    {
+      "number": 59,
+      "title": "Show latest job per company on homepage",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/59",
+      "merged": true
+    },
+    {
+      "number": 58,
+      "title": "Companies sorting",
+      "url": "https://github.com/geodelabs/ethereum-job-board/pull/58",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:46:47.812Z"
+}

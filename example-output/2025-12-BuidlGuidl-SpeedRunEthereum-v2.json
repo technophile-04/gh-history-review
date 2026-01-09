@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features/Improvements:**\n  - Updated references from \"staking\" to \"crowdfunding\" and rebranded \"SpeedRunEthereum\" to \"Speedrun Ethereum\" in PR #349.\n  - Added a \"Completed by\" metric on the challenge page to enhance user experience (PR #347).\n  \n- **Bug Fixes:**\n  - Addressed security vulnerabilities in React and Next.js related to CVE-2025-55184 and CVE-2025-55183 (PR #348).\n  - Upgraded to a fixed version of Next.js to resolve CVE-2025-66478 (PR #346).\n\n- **Overall Themes:**\n  - Focus on security updates and enhancements to the user interface.\n  - Consistent rebranding efforts to improve clarity and user engagement.",
+  "issueCount": 1,
+  "prCount": 4,
+  "topIssues": [
+    {
+      "number": 345,
+      "title": "Update React / NextJS",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/345"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 349,
+      "title": "staking >> crowdfunding and some more SpeedRunEthereum >> Speedrun Ethereum",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/349",
+      "merged": true
+    },
+    {
+      "number": 348,
+      "title": "Fix react and next CVE-2025-55184 and CVE-2025-55183",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/348",
+      "merged": true
+    },
+    {
+      "number": 347,
+      "title": "Added \"Completed by\" on challenge page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/347",
+      "merged": true
+    },
+    {
+      "number": 346,
+      "title": "Up next and versions",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/346",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:09.914Z"
+}

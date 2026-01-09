@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "sandgarden.buidlguidl.com",
+    "fullName": "BuidlGuidl/sandgarden.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "- **Standardization Improvement**: Merged PR #17 focused on standardizing the naming convention to 'Speedrun Ethereum', enhancing consistency across the repository.\n- **No Issues**: No new issues were created during the month, indicating stable project conditions.\n- **Limited Activity**: Overall, the activity was minimal with only one pull request merged, reflecting a quiet month for development.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 17,
+      "title": "Standardize naming to 'Speedrun Ethereum'",
+      "url": "https://github.com/BuidlGuidl/sandgarden.buidlguidl.com/pull/17",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:50.342Z"
+}

@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in May 2025\n\n- **Major Improvements:**\n  - Updated README files for clarity and command instructions related to collateralized lending.\n  - Added additional tests to enhance the robustness of the OverCollateralized Lending feature.\n\n- **Bug Fixes:**\n  - Fixed a typo in the autograder tests.\n  - Improved the liquidator filtering process to ensure only eligible liquidators with sufficient CORN balance are included.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation and user guidance.\n  - Strengthening the testing framework to ensure compliance with challenge requirements.",
+  "issueCount": 0,
+  "prCount": 5,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 292,
+      "title": "fix typo for auto grader",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/292",
+      "merged": true
+    },
+    {
+      "number": 291,
+      "title": "Collateralized lending readme command update",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/291",
+      "merged": true
+    },
+    {
+      "number": 290,
+      "title": "Update README for clarity",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/290",
+      "merged": true
+    },
+    {
+      "number": 289,
+      "title": "Filters liquidators to include only those who have enough corn balance",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/289",
+      "merged": true
+    },
+    {
+      "number": 288,
+      "title": "added additional tests to OverCollateralizedLending.ts",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/288",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:33:58.365Z"
+}

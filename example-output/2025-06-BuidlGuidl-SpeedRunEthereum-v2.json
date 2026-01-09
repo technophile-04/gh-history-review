@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in June 2025\n\n- **Major Features and Improvements:**\n  - Introduced a new `/guides` page with a client-side search bar and a table of contents for better navigation (PR #192).\n  - Added multiple guides linked to challenges, including Dex Challenge guides and SEO articles for Challenge 2 (PRs #214, #191).\n  - Implemented infinite scroll loading on the `/builds` page and improved filters for better user experience (PRs #207, #199).\n\n- **Bug Fixes:**\n  - Fixed the update ENS multicall functionality to streamline the process (PR #197).\n  - Resolved issues with ENS avatar caching and display (PR #195).\n\n- **Overall Themes:**\n  - Focus on enhancing user navigation and experience through new pages and features.\n  - Continuous improvement of existing functionalities, particularly around ENS and builds management.",
+  "issueCount": 14,
+  "prCount": 20,
+  "topIssues": [
+    {
+      "number": 215,
+      "title": "Support more chains",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/215"
+    },
+    {
+      "number": 212,
+      "title": "Issue: Could I submit a challenge deployed to other EVMs?",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/212"
+    },
+    {
+      "number": 209,
+      "title": "Persist visitor referer & UTM data to track delayed conversions correctly",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/209"
+    },
+    {
+      "number": 206,
+      "title": "New /start landing page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/206"
+    },
+    {
+      "number": 203,
+      "title": "Look into infinite scrolling load for the builds page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/203"
+    },
+    {
+      "number": 201,
+      "title": "Initial Builder Profile Refresh",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/201"
+    },
+    {
+      "number": 198,
+      "title": "Guides improvements",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/198"
+    },
+    {
+      "number": 196,
+      "title": "All Builds Page Feedback",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/196"
+    },
+    {
+      "number": 194,
+      "title": "ENS Avatar: caching + showing it on the portfolio page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/194"
+    },
+    {
+      "number": 190,
+      "title": "Add network field to batch data",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/190"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 214,
+      "title": "Add dex challenge guides",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/214",
+      "merged": true
+    },
+    {
+      "number": 213,
+      "title": "Reset db",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/213",
+      "merged": true
+    },
+    {
+      "number": 211,
+      "title": "Allow to use /builders/ens. Redirect to /builders/address",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/211",
+      "merged": true
+    },
+    {
+      "number": 210,
+      "title": "Landing page visual tweaks",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/210",
+      "merged": false
+    },
+    {
+      "number": 208,
+      "title": "set prediction markets challenge live",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/208",
+      "merged": true
+    },
+    {
+      "number": 207,
+      "title": "Add infinite scroll loading to Builds page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/207",
+      "merged": true
+    },
+    {
+      "number": 205,
+      "title": "/start landing",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/205",
+      "merged": true
+    },
+    {
+      "number": 204,
+      "title": "Ocl image replacement",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/204",
+      "merged": true
+    },
+    {
+      "number": 202,
+      "title": "Revalidate path api",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/202",
+      "merged": true
+    },
+    {
+      "number": 200,
+      "title": "Add OCL challenge",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/200",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:25.361Z"
+}

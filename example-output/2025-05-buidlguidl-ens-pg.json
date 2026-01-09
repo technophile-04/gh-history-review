@@ -1,0 +1,86 @@
+{
+  "repo": {
+    "owner": "buidlguidl",
+    "repo": "ens-pg",
+    "fullName": "buidlguidl/ens-pg"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for buidlguidl/ens-pg in May 2025\n\n- **Major Features and Improvements:**\n  - Implemented a rejection system for ETH grants (Issue #110).\n  - Added markdown export functionality for grants, allowing admins to export grant information (Issue #107, PR #108).\n  - Increased the size of the comment field in the review interface for better usability (Issue #106).\n\n- **Bug Fixes:**\n  - Resolved horizontal scrollbar issue on the admin page (Issue #102, PR #103).\n  - Fixed form warnings and improved modal button sizes on specific grant application pages (PR #105).\n  - Corrected TG bot notifications for large grants and milestone completions (PR #104).\n\n- **Overall Themes:**\n  - Focus on enhancing admin functionalities and user experience through UI improvements.\n  - Addressed several bugs to streamline the application process and notifications.",
+  "issueCount": 4,
+  "prCount": 8,
+  "topIssues": [
+    {
+      "number": 110,
+      "title": "Implement rejection system to ETH grants and stages",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/110"
+    },
+    {
+      "number": 107,
+      "title": "Admin > Add markdown export to the grants",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/107"
+    },
+    {
+      "number": 106,
+      "title": "Admin > Double the size of the comment field in the review interface (private notes)",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/106"
+    },
+    {
+      "number": 102,
+      "title": "Fix horizontal scrollbar in /admin",
+      "url": "https://github.com/BuidlGuidl/ens-pg/issues/102"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 111,
+      "title": "Add migration file with large grant tables",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/111",
+      "merged": true
+    },
+    {
+      "number": 109,
+      "title": "Make form textarea taller",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/109",
+      "merged": true
+    },
+    {
+      "number": 108,
+      "title": "Export grants and large grants to markdown",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/108",
+      "merged": true
+    },
+    {
+      "number": 105,
+      "title": "Fix form warnings and change number on scroll",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/105",
+      "merged": true
+    },
+    {
+      "number": 104,
+      "title": "Fix TG bot notifications and add notifications to milestone completion",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/104",
+      "merged": true
+    },
+    {
+      "number": 103,
+      "title": "Fix horizontal scrollbar on /admin page",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/103",
+      "merged": true
+    },
+    {
+      "number": 101,
+      "title": "Refactor private note endpoint",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/101",
+      "merged": true
+    },
+    {
+      "number": 100,
+      "title": "Remove react-copy-to-clipboard",
+      "url": "https://github.com/BuidlGuidl/ens-pg/pull/100",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:42:20.999Z"
+}

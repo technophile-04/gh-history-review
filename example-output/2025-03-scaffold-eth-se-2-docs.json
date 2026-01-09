@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 3,
+  "monthName": "March",
+  "summary": "### March 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Enhancements**: \n  - Merged PRs added significant content, including:\n    - Basic information on deploying apps to IPFS (#122).\n    - A hint for using `:yolo` and `:yolo --prod` (#120).\n    - An initial version of the `llms-full.txt` file for improved documentation context (#123).\n    - Updates to the README in line with recent changes (#118).\n    - Configuration updates in `docusaurus.config.js` (#117).\n\n- **Open Issues**: \n  - One issue (#124) is open, exploring the potential migration of documentation to the vocs platform.\n\n- **Overall Themes**: \n  - The focus was on enhancing documentation clarity and usability, particularly around deployment processes and integration with IPFS.\n  - There is ongoing exploration for future documentation improvements, indicating a proactive approach to evolving the project.",
+  "issueCount": 2,
+  "prCount": 6,
+  "topIssues": [
+    {
+      "number": 124,
+      "title": "Explore vocs option to migrate docs to",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/124"
+    },
+    {
+      "number": 121,
+      "title": "Add how to deploy your app to ipfs to deploy your nextjs app page",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/121"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 123,
+      "title": "Add llms-full.txt file manually",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/123",
+      "merged": true
+    },
+    {
+      "number": 122,
+      "title": "Add basic info on bg ipfs",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/122",
+      "merged": true
+    },
+    {
+      "number": 120,
+      "title": "Add a hint for :yolo and :yolo --prod",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/120",
+      "merged": true
+    },
+    {
+      "number": 119,
+      "title": "Add LLM-friendly documentation export for improved AI context",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/119",
+      "merged": false
+    },
+    {
+      "number": 118,
+      "title": "foundry updates",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/118",
+      "merged": true
+    },
+    {
+      "number": 117,
+      "title": "Update docusaurus.config.js",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/117",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:26.779Z"
+}

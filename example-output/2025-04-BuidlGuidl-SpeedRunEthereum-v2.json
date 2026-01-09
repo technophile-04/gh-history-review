@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 4,
+  "monthName": "April",
+  "summary": "### April 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Implemented a **Batches Page** with functionalities for searching, creating, and editing batches (#137).\n  - Enhanced **SEO** with initial improvements for challenge pages and homepage metadata (#153).\n  - Added functionality for builders to **add locations** and update their social profiles (#127, #148).\n  - Established a **database schema and seed data** for batches and builds (#126, #142).\n\n- **Notable Bug Fixes:**\n  - Resolved issues with **error notifications** appearing behind modals during challenge submissions (#77).\n  - Fixed caching issues that affected the **refresh behavior** on the portfolio page (#89).\n  - Addressed problems with **EIP712 signature validation**, ensuring proper functionality (#85).\n\n- **Overall Themes:**\n  - Focus on improving user experience through UI enhancements and better data handling.\n  - Significant work on database structure and migration to support new features.\n  - Continuous efforts in SEO optimization to improve visibility and accessibility of the platform.",
+  "issueCount": 40,
+  "prCount": 43,
+  "topIssues": [
+    {
+      "number": 151,
+      "title": "Admin menu and badge",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/151"
+    },
+    {
+      "number": 150,
+      "title": "Research the better ways to work with role-based apis",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/150"
+    },
+    {
+      "number": 149,
+      "title": "role-based pages and API endpoints",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/149"
+    },
+    {
+      "number": 145,
+      "title": "Import BG3.5 users",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/145"
+    },
+    {
+      "number": 144,
+      "title": "Metadata for Guides",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/144"
+    },
+    {
+      "number": 141,
+      "title": "Improved /builds page with filters",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/141"
+    },
+    {
+      "number": 140,
+      "title": "Import builds from BG with data curation",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/140"
+    },
+    {
+      "number": 139,
+      "title": "Builds CRUD at builders page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/139"
+    },
+    {
+      "number": 138,
+      "title": "Builds schema and seed",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/138"
+    },
+    {
+      "number": 131,
+      "title": "change batchesRelations from 1:1 to 1:N",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/131"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 155,
+      "title": "update batch query to use batch",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/155",
+      "merged": true
+    },
+    {
+      "number": 154,
+      "title": "Builders in batches page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/154",
+      "merged": true
+    },
+    {
+      "number": 153,
+      "title": "SEO initial improvements (challenges and homepage metadata, robots.txt and sitemap.xml)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/153",
+      "merged": true
+    },
+    {
+      "number": 152,
+      "title": "fix: table header",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/152",
+      "merged": true
+    },
+    {
+      "number": 148,
+      "title": "create import location and social scripts",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/148",
+      "merged": true
+    },
+    {
+      "number": 147,
+      "title": "Replaced Prediction markets image",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/147",
+      "merged": true
+    },
+    {
+      "number": 146,
+      "title": "Loading spinner on builders count",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/146",
+      "merged": true
+    },
+    {
+      "number": 143,
+      "title": "assign batch id's to users dynamically (seed)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/143",
+      "merged": true
+    },
+    {
+      "number": 142,
+      "title": "Builds schema and data seed",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/142",
+      "merged": true
+    },
+    {
+      "number": 137,
+      "title": "Batches page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/137",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:11.096Z"
+}

@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for scaffold-eth/se-2-docs\n\n- **Merged Pull Requests:**\n  - **Feature Update:** Merged PR #134 introduced an update to the `createExtension`, enhancing functionality.\n  \n- **Open Issues:**\n  - **Documentation Improvement:** Issue #133 addresses typos and clarity in the `useScaffoldEventHistory` hook documentation, aiming to improve readability.\n\n- **Overall Themes:**\n  - Focus on enhancing documentation quality and clarity.\n  - Development of new features related to contract events, with ongoing work in PR #132.",
+  "issueCount": 1,
+  "prCount": 2,
+  "topIssues": [
+    {
+      "number": 133,
+      "title": "Fix typos and improve clarity in useScaffoldEventHistory hook docs",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/133"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 134,
+      "title": "feat: update createExtension",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/134",
+      "merged": true
+    },
+    {
+      "number": 132,
+      "title": "Add recipe for reading and displaying contract events",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/132",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:46.702Z"
+}

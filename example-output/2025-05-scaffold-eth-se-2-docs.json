@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### May 2025 Summary for scaffold-eth/se-2-docs\n\n- **Documentation Update**: Merged PR #125 added explanations for the `yarn account:reveal-pk` command, enhancing the documentation for Hardhat and Foundry.\n- **No Issues**: No new issues were created during this month.\n- **Limited Activity**: Overall activity was minimal, with only one pull request merged.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 125,
+      "title": "Add `yarn account:reveal-pk` command explanations",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/125",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:32.780Z"
+}

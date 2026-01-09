@@ -1,0 +1,92 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in July 2025\n\n- **Major Features and Improvements:**\n  - Merged several components including the **InputBase**, **AddressInput**, and **EtherInput**, enhancing the UI functionality.\n  - Introduced a debug contracts package for improved debugging capabilities.\n  - Implemented version management and release setup through Changesets.\n\n- **Bug Fixes:**\n  - Resolved a significant issue with the **Address component** not resolving ENS and avatar correctly (#16), addressed in PR #18.\n\n- **Overall Themes:**\n  - Focus on enhancing input components and overall UI consistency.\n  - Active maintenance and versioning of packages to streamline future releases.",
+  "issueCount": 4,
+  "prCount": 9,
+  "topIssues": [
+    {
+      "number": 16,
+      "title": "bug: Address component resolves ens late",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/16"
+    },
+    {
+      "number": 10,
+      "title": "EtherInput",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/10"
+    },
+    {
+      "number": 9,
+      "title": "AddressInput",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/9"
+    },
+    {
+      "number": 8,
+      "title": "Balance",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/8"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 19,
+      "title": "Version Packages (rc)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/19",
+      "merged": true
+    },
+    {
+      "number": 18,
+      "title": "fix: address component not resolving ens and avatar",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/18",
+      "merged": true
+    },
+    {
+      "number": 17,
+      "title": "InputBase component",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/17",
+      "merged": true
+    },
+    {
+      "number": 15,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/15",
+      "merged": true
+    },
+    {
+      "number": 14,
+      "title": "setup changeset and release",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/14",
+      "merged": true
+    },
+    {
+      "number": 13,
+      "title": "debug contracts package",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/13",
+      "merged": true
+    },
+    {
+      "number": 12,
+      "title": "[Wip] Address input and useAddressInput",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/12",
+      "merged": true
+    },
+    {
+      "number": 11,
+      "title": "Ether Input",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/11",
+      "merged": true
+    },
+    {
+      "number": 7,
+      "title": "Balance component",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/7",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:37.791Z"
+}

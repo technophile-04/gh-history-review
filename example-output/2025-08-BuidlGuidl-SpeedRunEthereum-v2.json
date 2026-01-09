@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/SpeedRunEthereum-v2 in August 2025\n\n- **Major Features and Improvements:**\n  - Merged several enhancements including the **Sidequests UI** (#310) and **related guides for the dice game challenge** (#301).\n  - Implemented a **new batch public endpoint** (#271) and added **network selection to batch** (#270).\n  - Improved user experience with **auto-refresh on challenge submission** (#274) and **loading state notifications** (#293).\n\n- **Notable Bug Fixes:**\n  - Resolved issues with **wallet disconnection** (#300) and **XP calculation** (#296).\n  - Fixed **social notifications** (#299) and addressed a **timeout issue** with grading submissions (#290).\n\n- **Overall Themes:**\n  - The focus was on enhancing user experience through UI improvements and better functionality.\n  - A significant number of bug fixes were addressed, improving overall system stability and user interactions.",
+  "issueCount": 16,
+  "prCount": 31,
+  "topIssues": [
+    {
+      "number": 309,
+      "title": "Challenge Metadata (v1)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/309"
+    },
+    {
+      "number": 308,
+      "title": "Move CTA on challenge detail page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/308"
+    },
+    {
+      "number": 306,
+      "title": "Display README in sections",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/306"
+    },
+    {
+      "number": 304,
+      "title": "Content edit request: Front-Running & MEV Mitigation guide.",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/304"
+    },
+    {
+      "number": 303,
+      "title": "Improve challenge pages",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/303"
+    },
+    {
+      "number": 302,
+      "title": "Can we support non-etherscan-based Explorers?",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/302"
+    },
+    {
+      "number": 295,
+      "title": "Notifications behind the overlay on Update Socials",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/295"
+    },
+    {
+      "number": 294,
+      "title": "Wrong XP calculation",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/294"
+    },
+    {
+      "number": 291,
+      "title": "Bug: Can't disconnect wallet on challenge pages",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/291"
+    },
+    {
+      "number": 287,
+      "title": "Dead link",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/287"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 311,
+      "title": "Script to update onchain data for existing users (+ throw errors instead of error silently)",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/311",
+      "merged": true
+    },
+    {
+      "number": 310,
+      "title": "Sidequests ui",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/310",
+      "merged": true
+    },
+    {
+      "number": 307,
+      "title": "Update fetchOnchainData so it includes sideQuests",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/307",
+      "merged": true
+    },
+    {
+      "number": 305,
+      "title": "Use nextjs after instead of waitUntil",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/305",
+      "merged": true
+    },
+    {
+      "number": 301,
+      "title": "Add related guides to dice game challenge",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/301",
+      "merged": true
+    },
+    {
+      "number": 300,
+      "title": "Fix disconnect with walletConnect",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/300",
+      "merged": true
+    },
+    {
+      "number": 299,
+      "title": "Fix socials notification",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/299",
+      "merged": true
+    },
+    {
+      "number": 298,
+      "title": "SideQuests: initial snapshot to DB on user registration",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/298",
+      "merged": true
+    },
+    {
+      "number": 297,
+      "title": "Bigger PunkBlockie. Show XP points",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/297",
+      "merged": true
+    },
+    {
+      "number": 296,
+      "title": "Fix user points",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/296",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:26:44.406Z"
+}

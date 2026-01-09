@@ -1,0 +1,108 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/se-2-challenges in August 2025\n\n- **Major Features and Improvements:**\n  - Merged several updates to the multisig functionality, including backend endpoint updates and README enhancements.\n  - Introduced a new GitHub action for revalidation of challenge README files upon changes.\n\n- **Bug Fixes:**\n  - Addressed issues with borrowing and flash loan logic in the README, ensuring clarity and functionality.\n  - Fixed tooltip text wrapping for long contract paths in the Debug Contracts page.\n\n- **Overall Themes:**\n  - Focus on improving documentation and user guidance through README updates.\n  - Enhancements to automation with GitHub actions for better deployment and validation processes.",
+  "issueCount": 6,
+  "prCount": 10,
+  "topIssues": [
+    {
+      "number": 352,
+      "title": "GH action: Redeploy challenge on autograder",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/352"
+    },
+    {
+      "number": 349,
+      "title": "Revalidate speedrunethereum challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/349"
+    },
+    {
+      "number": 348,
+      "title": "About Over-Collateralized Lending Two small questions",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/348"
+    },
+    {
+      "number": 347,
+      "title": "Challenge 0, side quest suggest to try opensea testnet that is not an option anymore",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/347"
+    },
+    {
+      "number": 345,
+      "title": "Challenge AI assistant is not working for challenge 0 simple NFT",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/345"
+    },
+    {
+      "number": 342,
+      "title": "Events fetching is too slow on live testnets for some challenges",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/342"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 355,
+      "title": "Grader update challenge gh action",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/355",
+      "merged": false
+    },
+    {
+      "number": 354,
+      "title": "Multisig build idea readme update",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/354",
+      "merged": true
+    },
+    {
+      "number": 353,
+      "title": "Oracles challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/353",
+      "merged": false
+    },
+    {
+      "number": 351,
+      "title": "Fix: update borrowing and flash loan logic in README",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/351",
+      "merged": true
+    },
+    {
+      "number": 350,
+      "title": "Revalidate action",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/350",
+      "merged": true
+    },
+    {
+      "number": 346,
+      "title": " Fix tooltip text wrapping for long contract paths",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/346",
+      "merged": false
+    },
+    {
+      "number": 344,
+      "title": "Svg nft build idea",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/344",
+      "merged": true
+    },
+    {
+      "number": 343,
+      "title": "Svg nft quick breakdown",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/343",
+      "merged": true
+    },
+    {
+      "number": 341,
+      "title": "Update multisig backend endpoint",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/341",
+      "merged": true
+    },
+    {
+      "number": 340,
+      "title": "update-multisig-backend (for ssl script)",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/340",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:29.097Z"
+}

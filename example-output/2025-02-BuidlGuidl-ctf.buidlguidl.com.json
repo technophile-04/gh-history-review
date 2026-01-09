@@ -1,0 +1,35 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "ctf.buidlguidl.com",
+    "fullName": "BuidlGuidl/ctf.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for BuidlGuidl/ctf.buidlguidl.com\n\n- **User Interface Improvements**:\n  - Merged PRs focused on enhancing the layout and usability of the stats tables and mobile header/footer.\n  - Adjusted column alignment in stats tables for better readability and added dividers for clarity.\n\n- **Stats Page Enhancements**:\n  - Reorganized the stats page by moving the \"Flags\" section to the top and sorting sections in ascending order for improved user experience.\n\n- **No Bug Fixes**:\n  - No significant bug fixes were reported this month.\n\nOverall, the activity this month primarily centered around user interface enhancements and improving the organization of information on the site.",
+  "issueCount": 0,
+  "prCount": 3,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 19,
+      "title": "Change stats tables column alignment and add divider",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/19",
+      "merged": true
+    },
+    {
+      "number": 18,
+      "title": "Header / Footer tweaks on mobile",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/18",
+      "merged": true
+    },
+    {
+      "number": 17,
+      "title": "Stats sorting",
+      "url": "https://github.com/BuidlGuidl/ctf.buidlguidl.com/pull/17",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:45:28.852Z"
+}

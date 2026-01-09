@@ -1,0 +1,40 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### May 2025 Summary for BuidlGuidl/grants.buidlguidl.com\n\n- **Major Features/Improvements:**\n  - Merged PR #145 introduced eligibility criteria for grant applications based on completed SpeedRun Ethereum challenges, enhancing the application process.\n  - Merged PR #144 updated builder links from BG3.5 to SRE, ensuring grant completion logic aligns with the new SRE framework.\n\n- **Issues Closed:**\n  - Issue #143 was closed, addressing the need to reference SRE builds instead of BG3.5 builds in grant completion.\n  - Issue #142 was closed, updating grant eligibility criteria to utilize SpeedRun Ethereum data.\n\n- **Overall Themes:**\n  - The focus this month was on transitioning from BG3.5 to SRE, improving grant application eligibility, and ensuring all references and logic are aligned with the new system.",
+  "issueCount": 2,
+  "prCount": 2,
+  "topIssues": [
+    {
+      "number": 143,
+      "title": "Update grant completion to reference to SRE builds and not bg3.5 builds",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/143"
+    },
+    {
+      "number": 142,
+      "title": "Update grant eligibility criteria to use SpeedRunEthereum data",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/142"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 145,
+      "title": "Add SpeedRun Ethereum completed challenges eligibility criteria to apply for a grant",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/145",
+      "merged": true
+    },
+    {
+      "number": 144,
+      "title": "Update builders links from BG3.5 to SRE and SRE builds logic on grant completion",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/pull/144",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:58.912Z"
+}

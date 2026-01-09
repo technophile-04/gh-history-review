@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "buidlguidl-v3",
+    "fullName": "scaffold-eth/buidlguidl-v3"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/buidlguidl-v3 in May 2025\n\n- **Feature Improvements:**\n  - Merged PR #129 to disable write functionality, enhancing user experience by showing a notification banner.\n\n- **Issues Closed:**\n  - Closed Issue #128 to disable batch management, ensuring the workflow relies solely on the SREv2 database.\n  - Closed Issue #127 to either hide location data or update it using SREv2, streamlining data presentation.\n\n- **Overall Themes:**\n  - Focus on refining user interface and data management by limiting unnecessary features and aligning with SREv2 standards.",
+  "issueCount": 2,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 128,
+      "title": "Disable batch management once the workflow is fully working on SREv2",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/issues/128"
+    },
+    {
+      "number": 127,
+      "title": "Hide location or use SREv2 location data",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/issues/127"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 129,
+      "title": "Disable write functionality",
+      "url": "https://github.com/scaffold-eth/buidlguidl-v3/pull/129",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:39:20.387Z"
+}

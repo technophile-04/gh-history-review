@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja - November 2025\n\n- **Feature Enhancement**: Work was done on enhancing ABI fetching capabilities by adding support for Sourcify and the 4bytes directory.\n- **Pull Request Status**: One pull request (#190) was opened but remains unmerged.\n- **No Issues**: No new issues were created during the month.\n- **Overall Activity**: Limited activity with a focus on improving ABI retrieval methods.",
+  "issueCount": 0,
+  "prCount": 1,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 190,
+      "title": "Enhance ABI fetching by adding Sourcify support and 4bytes directory …",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/190",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:28.853Z"
+}

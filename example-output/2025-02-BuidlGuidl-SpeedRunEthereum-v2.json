@@ -1,0 +1,128 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "SpeedRunEthereum-v2",
+    "fullName": "BuidlGuidl/SpeedRunEthereum-v2"
+  },
+  "year": 2025,
+  "month": 2,
+  "monthName": "February",
+  "summary": "### February 2025 Summary for BuidlGuidl/SpeedRunEthereum-v2\n\n- **Major Features and Improvements:**\n  - Refactored the homepage from server to client components, enhancing user experience (#38).\n  - Implemented a basic challenge submission flow, allowing users to submit challenges with backend verification (#27).\n  - Migrated various pages, including the challenge detail and homepage, to improve structure and SEO (#22, #23).\n  - Created a guides section to provide static content related to challenges (#26).\n\n- **Notable Bug Fixes:**\n  - Addressed styling issues on the challenge page to ensure proper rendering (#37).\n\n- **Overall Themes:**\n  - Significant focus on improving the user interface and experience through page migrations and component refactoring.\n  - Emphasis on establishing a solid database structure and challenge submission process to support future features.",
+  "issueCount": 24,
+  "prCount": 14,
+  "topIssues": [
+    {
+      "number": 36,
+      "title": "[Style] Challenge page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/36"
+    },
+    {
+      "number": 34,
+      "title": "Refactor homepage from server to client component",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/34"
+    },
+    {
+      "number": 33,
+      "title": "Implement header buttons",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/33"
+    },
+    {
+      "number": 32,
+      "title": "JoinBGButton logic",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/32"
+    },
+    {
+      "number": 31,
+      "title": "Unify repositories names + return single row for unique queries",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/31"
+    },
+    {
+      "number": 28,
+      "title": "Yarn Command to setup database",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/28"
+    },
+    {
+      "number": 25,
+      "title": "Create SEO pages / guides / blog",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/25"
+    },
+    {
+      "number": 19,
+      "title": "Document database migration process",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/19"
+    },
+    {
+      "number": 18,
+      "title": "Update Readme",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/18"
+    },
+    {
+      "number": 17,
+      "title": "Setup Database Deployment Process",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/issues/17"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 38,
+      "title": "Refactor homepage to client",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/38",
+      "merged": true
+    },
+    {
+      "number": 37,
+      "title": "style challenge page",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/37",
+      "merged": true
+    },
+    {
+      "number": 35,
+      "title": "Update challenge db fields",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/35",
+      "merged": true
+    },
+    {
+      "number": 30,
+      "title": "Punk Blockie",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/30",
+      "merged": true
+    },
+    {
+      "number": 29,
+      "title": "User update socials",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/29",
+      "merged": true
+    },
+    {
+      "number": 27,
+      "title": "basic challenge submission",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/27",
+      "merged": true
+    },
+    {
+      "number": 26,
+      "title": "Guides",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/26",
+      "merged": true
+    },
+    {
+      "number": 24,
+      "title": "challenge submission flow",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/24",
+      "merged": false
+    },
+    {
+      "number": 23,
+      "title": "Homepage migration",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/23",
+      "merged": true
+    },
+    {
+      "number": 22,
+      "title": "Challenge detail",
+      "url": "https://github.com/BuidlGuidl/SpeedRunEthereum-v2/pull/22",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:25:44.748Z"
+}

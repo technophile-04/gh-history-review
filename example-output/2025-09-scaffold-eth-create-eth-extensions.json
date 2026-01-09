@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### September 2025 Summary for scaffold-eth/create-eth-extensions\n\n- **Major Features/Improvements:**\n  - Merged PR #99 introduced a new `requestsHash` header for block hash calculations, essential for functionality on live networks.\n  \n- **Updates:**\n  - Closed PR #100 updated `subgraph` dependencies to the latest version, ensuring compatibility and access to new features.\n\n- **Overall Activity:**\n  - No issues were created this month, indicating a focus on maintenance and updates rather than new feature development.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 100,
+      "title": "chore: updated `subgraph` dependencies",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/100",
+      "merged": false
+    },
+    {
+      "number": 99,
+      "title": "Update Randao extension with new requestsHash header",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/99",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:29.963Z"
+}

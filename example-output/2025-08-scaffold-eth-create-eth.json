@@ -1,0 +1,93 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth",
+    "fullName": "scaffold-eth/create-eth"
+  },
+  "year": 2025,
+  "month": 8,
+  "monthName": "August",
+  "summary": "### August 2025 Summary for scaffold-eth/create-eth\n\n- **Major Features and Improvements:**\n  - Merged PR #340 introduced lazy loading for wallet connectors to prevent SSR errors.\n  - PR #338 updated deployHelpers, enhancing deployment processes.\n  - PR #332 suggested using the parent folder for instances, aiming to improve project structure.\n\n- **Bug Fixes:**\n  - PR #337 fixed the GitHub action lint for the foundry instance.\n  - Multiple backmerge PRs addressed various issues, including contract interaction errors and deployment chainId errors.\n\n- **Overall Themes:**\n  - A focus on improving deployment and instance management through updates and structural suggestions.\n  - Continuous refinement of existing features with several backmerges to ensure stability and performance.",
+  "issueCount": 3,
+  "prCount": 12,
+  "topIssues": [
+    {
+      "number": 341,
+      "title": "Lint instances action doesn't exit on install error",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/341"
+    },
+    {
+      "number": 339,
+      "title": "Make global variables available from .args files",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/339"
+    },
+    {
+      "number": 330,
+      "title": "[Feature] Add Sei and Sei Testnet",
+      "url": "https://github.com/scaffold-eth/create-eth/issues/330"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 340,
+      "title": "backmerge 29-08-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/340",
+      "merged": true
+    },
+    {
+      "number": 338,
+      "title": "Update deployHelpers",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/338",
+      "merged": true
+    },
+    {
+      "number": 337,
+      "title": "fix: gh action lint foundry instance",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/337",
+      "merged": true
+    },
+    {
+      "number": 336,
+      "title": "Microfix: articles",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/336",
+      "merged": true
+    },
+    {
+      "number": 335,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/335",
+      "merged": true
+    },
+    {
+      "number": 334,
+      "title": "Sf pagetsx",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/334",
+      "merged": false
+    },
+    {
+      "number": 333,
+      "title": "backmerge 15-08-25",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/333",
+      "merged": true
+    },
+    {
+      "number": 332,
+      "title": "Suggest to use parent folder for instances",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/332",
+      "merged": true
+    },
+    {
+      "number": 331,
+      "title": "pass sf args to template file ",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/331",
+      "merged": false
+    },
+    {
+      "number": 329,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/create-eth/pull/329",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:36:57.332Z"
+}

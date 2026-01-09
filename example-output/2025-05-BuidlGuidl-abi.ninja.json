@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "abi.ninja",
+    "fullName": "BuidlGuidl/abi.ninja"
+  },
+  "year": 2025,
+  "month": 5,
+  "monthName": "May",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/abi.ninja in May 2025\n\n- **Major Features/Improvements:**\n  - Merged PR #180 introduced the display of contract creation information in the Contract Overview card, enhancing user experience by linking to creation transactions on block explorers.\n\n- **Bug Fixes:**\n  - Closed PR #181 addressed a minor typo in a comment within the `ContractUI.tsx` file.\n\n- **Overall Themes:**\n  - The month focused on minor improvements and documentation clarity, with no new issues reported.",
+  "issueCount": 0,
+  "prCount": 2,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 181,
+      "title": "Fix Typo in Comment for ABI State in ContractUI.tsx",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/181",
+      "merged": false
+    },
+    {
+      "number": 180,
+      "title": "Show contract creation information in the Contract Overview card",
+      "url": "https://github.com/BuidlGuidl/abi.ninja/pull/180",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:35:08.622Z"
+}

@@ -1,0 +1,77 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "create-eth-extensions",
+    "fullName": "scaffold-eth/create-eth-extensions"
+  },
+  "year": 2025,
+  "month": 6,
+  "monthName": "June",
+  "summary": "### Summary of GitHub Activity for June 2025\n\n- **Major Features and Improvements:**\n  - Multiple extensions migrated to beta, including Randao, Subgraph, ERC-20, ERC-721, and Ponder extensions.\n  - Updates to the burner wallet to comply with EIP-5792.\n  - Enhancements to example configurations for scaffold and Hardhat.\n\n- **Bug Fixes:**\n  - Resolved a warning in the Next.js configuration during startup.\n\n- **Overall Themes:**\n  - Focus on migrating existing features to a beta version.\n  - Continuous improvement of the development environment and configurations.\n  - No new issues were created, indicating a stable month with a focus on enhancements rather than problem resolution.",
+  "issueCount": 0,
+  "prCount": 13,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 81,
+      "title": "(example-beta) foundry updates ",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/81",
+      "merged": true
+    },
+    {
+      "number": 80,
+      "title": "(beta) onchainkit ",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/80",
+      "merged": false
+    },
+    {
+      "number": 79,
+      "title": "chore: subgraph modules updated",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/79",
+      "merged": false
+    },
+    {
+      "number": 78,
+      "title": "(beta) randao extension (#28)",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/78",
+      "merged": true
+    },
+    {
+      "number": 77,
+      "title": "(beta) subgraph",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/77",
+      "merged": true
+    },
+    {
+      "number": 76,
+      "title": "(beta) eip 5792",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/76",
+      "merged": true
+    },
+    {
+      "number": 75,
+      "title": "(beta) Ponder extension (#12)",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/75",
+      "merged": true
+    },
+    {
+      "number": 74,
+      "title": "(beta) erc-721 ",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/74",
+      "merged": true
+    },
+    {
+      "number": 73,
+      "title": "(beta) ERC-20 Token Extension (#17)",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/73",
+      "merged": true
+    },
+    {
+      "number": 72,
+      "title": "(merge after beta) scaffold and hardhat config (#57)",
+      "url": "https://github.com/scaffold-eth/create-eth-extensions/pull/72",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:40:07.196Z"
+}

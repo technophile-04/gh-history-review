@@ -1,0 +1,22 @@
+{
+  "repo": {
+    "owner": "BuidlGuidl",
+    "repo": "grants.buidlguidl.com",
+    "fullName": "BuidlGuidl/grants.buidlguidl.com"
+  },
+  "year": 2025,
+  "month": 7,
+  "monthName": "July",
+  "summary": "### Summary of GitHub Activity for BuidlGuidl/grants.buidlguidl.com - July 2025\n\n- **Feature Improvement**: Closed issue #146 focused on fetching builders data from the SRE API to enhance the display of builder information in the admin section.\n- **Pull Requests**: No pull requests were created or merged this month.\n- **Overall Activity**: Limited activity with only one issue closed, indicating a focus on improving data integration rather than broader development efforts.",
+  "issueCount": 1,
+  "prCount": 0,
+  "topIssues": [
+    {
+      "number": 146,
+      "title": "Fetch builders data from SRE api",
+      "url": "https://github.com/BuidlGuidl/grants.buidlguidl.com/issues/146"
+    }
+  ],
+  "topPRs": [],
+  "generatedAt": "2026-01-08T09:41:06.440Z"
+}

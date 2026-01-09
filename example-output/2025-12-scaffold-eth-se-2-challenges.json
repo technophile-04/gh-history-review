@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 12,
+  "monthName": "December",
+  "summary": "### December 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Rebranding**: Closed issue #381 rebranded the \"Decentralized Staking App\" to \"Crowdfunding App\" to reduce confusion around terminology.\n- **Feature Update**: Merged pull request #382 transitioned the staking challenge to a crowdfunding-focused challenge, including significant updates to the README for clarity and organization.\n- **Overall Theme**: The focus this month was on improving clarity and user understanding through rebranding and documentation enhancements.",
+  "issueCount": 1,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 381,
+      "title": "Rebrand \"Decentralized Staking App\" to \"Crowfunding App\"",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/381"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 382,
+      "title": "Challenge Crowdfunding",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/382",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:47.247Z"
+}

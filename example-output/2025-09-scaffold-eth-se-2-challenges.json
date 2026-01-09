@@ -1,0 +1,85 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 9,
+  "monthName": "September",
+  "summary": "### September 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Major Features and Improvements:**\n  - The \"Simple NFT Challenge\" was rebranded to \"Tokenization Challenge\" with updates to documentation and images (PRs #367, #361).\n  - A new challenge for zk voting was successfully created and merged (PR #365).\n  - Hero images in the README were updated to enhance visual appeal (PRs #358, #357).\n\n- **Bug Fixes:**\n  - Removed bold styles from headings to improve rendering in SRE (PR #363).\n\n- **Overall Themes:**\n  - Focus on rebranding and enhancing existing challenges to improve clarity and user experience.\n  - Visual updates to documentation to maintain consistency and appeal.",
+  "issueCount": 5,
+  "prCount": 7,
+  "topIssues": [
+    {
+      "number": 364,
+      "title": "Create branch for zk voting",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/364"
+    },
+    {
+      "number": 362,
+      "title": "Disable AI for challenges",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/362"
+    },
+    {
+      "number": 360,
+      "title": "Add Oracle challenge to ethereum.org oracles page",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/360"
+    },
+    {
+      "number": 359,
+      "title": "Rebrand Simple NFT Challenge as Tokenization Challenge",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/359"
+    },
+    {
+      "number": 356,
+      "title": "Request for additional information to complete new issue draft",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/issues/356"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 367,
+      "title": "Change Simple NFT to Tokenization",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/367",
+      "merged": true
+    },
+    {
+      "number": 366,
+      "title": "Simple nft example: testnet opensea -> metamask extension",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/366",
+      "merged": true
+    },
+    {
+      "number": 365,
+      "title": "Challenge zk voting",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/365",
+      "merged": true
+    },
+    {
+      "number": 363,
+      "title": "Delete bold styles from headings",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/363",
+      "merged": true
+    },
+    {
+      "number": 361,
+      "title": "Challenge tokenization",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/361",
+      "merged": true
+    },
+    {
+      "number": 358,
+      "title": "Replaced hero image",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/358",
+      "merged": true
+    },
+    {
+      "number": 357,
+      "title": "Replaced hero image",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/357",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:33.975Z"
+}

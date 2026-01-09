@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-docs",
+    "fullName": "scaffold-eth/se-2-docs"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for scaffold-eth/se-2-docs\n\n- **Major Features/Improvements:**\n  - Merged Pull Request #138 focused on migrating to vocs, enhancing documentation accessibility and functionality.\n\n- **Issues:**\n  - One open issue (#137) regarding the removal of the components example, indicating a shift towards using Scaffol-ui.\n\n- **Overall Themes:**\n  - The activity reflects a transition towards improved documentation practices and the integration of new tools, with a focus on refining existing content.",
+  "issueCount": 1,
+  "prCount": 1,
+  "topIssues": [
+    {
+      "number": 137,
+      "title": "Remove components example",
+      "url": "https://github.com/scaffold-eth/se-2-docs/issues/137"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 138,
+      "title": "migration to vocs",
+      "url": "https://github.com/scaffold-eth/se-2-docs/pull/138",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:44:59.799Z"
+}

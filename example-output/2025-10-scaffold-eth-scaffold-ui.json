@@ -1,0 +1,103 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "scaffold-ui",
+    "fullName": "scaffold-eth/scaffold-ui"
+  },
+  "year": 2025,
+  "month": 10,
+  "monthName": "October",
+  "summary": "### Summary of GitHub Activity for scaffold-eth/scaffold-ui in October 2025\n\n- **Major Features and Improvements:**\n  - Introduced documentation for new hooks: `useAddress` and `useAddressInput`.\n  - Enhanced the `AddressInput` and `EtherInput` components with updated documentation.\n  - Implemented horizontal scrolling for variable sections in the debug page.\n\n- **Bug Fixes:**\n  - Resolved issues with the `onChange` prop in the input components, ensuring proper value changes when resolving ENS addresses.\n  - Memoized non-primitive props to improve component performance.\n\n- **Overall Themes:**\n  - Focus on improving documentation and usability of components.\n  - Continuous enhancements to UI components, including styling adaptations and performance optimizations.\n  - Regular version updates and maintenance through multiple merged PRs.",
+  "issueCount": 5,
+  "prCount": 17,
+  "topIssues": [
+    {
+      "number": 49,
+      "title": "AddressInput does not resolve default value when it’s an ENS name",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/49"
+    },
+    {
+      "number": 48,
+      "title": "Adapt AddressInput styles depending on the theme",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/48"
+    },
+    {
+      "number": 47,
+      "title": "Rename docs files to match code file names",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/47"
+    },
+    {
+      "number": 44,
+      "title": "add horizontal scroll to read variables sections",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/44"
+    },
+    {
+      "number": 43,
+      "title": "components: memoize non-primitive props",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/issues/43"
+    }
+  ],
+  "topPRs": [
+    {
+      "number": 63,
+      "title": "block explorer",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/63",
+      "merged": false
+    },
+    {
+      "number": 62,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/62",
+      "merged": true
+    },
+    {
+      "number": 61,
+      "title": "fix: remove console.logs from onChange",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/61",
+      "merged": true
+    },
+    {
+      "number": 60,
+      "title": "minor tweaks",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/60",
+      "merged": true
+    },
+    {
+      "number": 59,
+      "title": "Memoize styles props",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/59",
+      "merged": true
+    },
+    {
+      "number": 58,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/58",
+      "merged": true
+    },
+    {
+      "number": 57,
+      "title": "Version Packages",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/57",
+      "merged": false
+    },
+    {
+      "number": 56,
+      "title": "merge `release-candidate` ",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/56",
+      "merged": true
+    },
+    {
+      "number": 55,
+      "title": "Version Packages (rc)",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/55",
+      "merged": true
+    },
+    {
+      "number": 54,
+      "title": "Add horizontal scroll to vars on debug page",
+      "url": "https://github.com/scaffold-eth/scaffold-ui/pull/54",
+      "merged": true
+    }
+  ],
+  "generatedAt": "2026-01-08T09:27:58.881Z"
+}

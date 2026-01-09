@@ -1,0 +1,41 @@
+{
+  "repo": {
+    "owner": "scaffold-eth",
+    "repo": "se-2-challenges",
+    "fullName": "scaffold-eth/se-2-challenges"
+  },
+  "year": 2025,
+  "month": 11,
+  "monthName": "November",
+  "summary": "### November 2025 Summary for scaffold-eth/se-2-challenges\n\n- **Merged Pull Requests**: Two significant updates related to the \"Challenge zk voting\" were completed, enhancing functionality by adding critical checks and updating tests.\n- **Ongoing Work**: One pull request for migrating the simple-nft-example to scaffold-ui is currently open, indicating ongoing improvements.\n- **New Challenges**: A new challenge related to oracles is also in progress, showcasing continued development in this area.\n- **No Issues**: There were no new issues created this month, suggesting stability in the project.",
+  "issueCount": 0,
+  "prCount": 4,
+  "topIssues": [],
+  "topPRs": [
+    {
+      "number": 380,
+      "title": "Migrate simple-nft-example to scaffold-ui",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/380",
+      "merged": false
+    },
+    {
+      "number": 379,
+      "title": "Challenge zk voting",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/379",
+      "merged": true
+    },
+    {
+      "number": 378,
+      "title": "Challenge zk voting",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/378",
+      "merged": true
+    },
+    {
+      "number": 377,
+      "title": "Challenge oracles",
+      "url": "https://github.com/scaffold-eth/se-2-challenges/pull/377",
+      "merged": false
+    }
+  ],
+  "generatedAt": "2026-01-08T09:34:42.851Z"
+}
