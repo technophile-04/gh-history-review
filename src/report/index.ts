@@ -6,6 +6,8 @@ export {
   generateMarkdownContent,
   writeMarkdownReport,
   printMarkdownReport,
+  generateConsolidatedMarkdownContent,
+  writeConsolidatedMarkdownReport,
 } from "./markdown.js";
 
 export {

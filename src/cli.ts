@@ -41,7 +41,11 @@ import {
   dryRunSummarize,
   getProviderDisplayName,
 } from "./summarize/index.js";
-import { writeMarkdownReport, writeJsonReport } from "./report/index.js";
+import {
+  writeMarkdownReport,
+  writeJsonReport,
+  writeConsolidatedMarkdownReport,
+} from "./report/index.js";
 import { getMonthName } from "./grouping.js";
 import {
   consolidateReports,
@@ -321,14 +325,16 @@ async function consolidateCommand(
 
     succeedSpinner(`Consolidated ${report.totalRepositories} repositories`);
 
-    // Write output
-    const outputPath = writeConsolidatedReport(report, options.output);
+    // Write output (both JSON and Markdown)
+    const jsonPath = writeConsolidatedReport(report, options.output);
+    const mdPath = writeConsolidatedMarkdownReport(report, options.output);
 
     console.log(chalk.bold.cyan("\n✨ Done!\n"));
     logSuccess(`Total repositories: ${report.totalRepositories}`);
     logSuccess(`Total issues: ${report.totalIssues}`);
     logSuccess(`Total PRs: ${report.totalPRs}`);
-    logSuccess(`Output: ${outputPath}`);
+    logSuccess(`JSON output: ${jsonPath}`);
+    logSuccess(`Markdown output: ${mdPath}`);
   } catch (error) {
     failSpinner(`Consolidation failed: ${(error as Error).message}`);
     process.exit(1);

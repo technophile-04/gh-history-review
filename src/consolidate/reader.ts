@@ -26,13 +26,13 @@ export function readAllReports(): ReportData[] {
       const filepath = join(OUTPUT_DIR, file);
       const content = readFileSync(filepath, "utf-8");
       const data = JSON.parse(content) as ReportData;
-      
+
       // Validate that this is a monthly report (has repo.fullName)
       if (!data.repo?.fullName) {
         console.warn(`Skipping ${file}: not a valid monthly report`);
         continue;
       }
-      
+
       reports.push(data);
     } catch (error) {
       console.warn(`Failed to parse ${file}: ${(error as Error).message}`);
